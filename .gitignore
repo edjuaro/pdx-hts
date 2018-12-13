@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+Docker/base-container/to_add/
+.DS_Store
