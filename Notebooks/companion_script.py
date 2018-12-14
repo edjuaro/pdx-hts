@@ -207,3 +207,96 @@ def rank_combined_df(df):
 #     combined_df = combined_df[((combined_df['DiSCoVER']>0.001).values) & ((combined_df['CMAP']>0.001).values)]
 
     return df.drop(['GDSC','CTRP','CCLE'],axis=1,inplace=False)
+
+## For discover
+from collections import defaultdict
+import utils
+drug_annotation_dir = os.path.dirname('/build/drug_suggestion/drug_annotation/')
+sys.path.append(os.path.join(drug_annotation_dir))
+
+
+def load_reasonable_drugs():
+    reasonable_drugs_file = os.path.join(drug_annotation_dir, 'clinically_relevant_drugs.csv')
+    with open(reasonable_drugs_file, 'r') as f:
+        rdrugs = [row.strip() for row in f.readlines()]
+    return rdrugs
+
+
+reasonable_drugs = load_reasonable_drugs()
+
+
+def select_reasonable_drugs(other_drug_to_cids, rdrug_to_cids):
+    reasonable_cids = utils.all_unique_dict_values(rdrug_to_cids)
+    cid_to_other_drugs = defaultdict(set)
+    for other_drug, cids in other_drug_to_cids.items():
+        for cid in cids:
+            cid_to_other_drugs[cid].add(other_drug)
+    reasonable_other_drugs = set()
+    for cid, other_drugs in cid_to_other_drugs.items():
+        if cid in reasonable_cids:
+            reasonable_other_drugs.update(other_drugs)
+    return reasonable_other_drugs
+
+
+def format_drugs(ranked_drugs, drug2cids, annot=False, out_prefix=None, out_dir=None):
+    robfile = os.path.join(drug_annotation_dir, 'drug_source_moa_annotations.xlsx')
+    robdf = pd.read_excel(robfile, index_col=0, dtype=str)
+
+    rdrug_to_cids = {}
+    hascid = robdf.cids.dropna()
+    for drug in hascid.index:
+        if drug in reasonable_drugs:
+            cids = robdf.loc[drug, 'cids'].split('|')
+            if cids != ['nan']:
+                rdrug_to_cids[drug] = list(map(int, cids))
+
+    reasonable_other_drugs = select_reasonable_drugs(drug2cids, rdrug_to_cids)
+
+    cid_to_rdrug = {}
+    for rdrug, cids in rdrug_to_cids.items():
+        for cid in cids:
+            cid_to_rdrug[cid] = rdrug
+
+    #print([d for d in reasonable_other_drugs if d not in ranked_drugs.columns])
+
+    # The line below was commented out on 2018-12-14
+    # reasonable_results = ranked_drugs.loc[:, reasonable_other_drugs].T
+    reasonable_results = ranked_drugs.T
+
+    rdrug_mechs = pd.read_excel(robfile, index_col=0, sheetname='NCI +', dtype=str).iloc[:, 7].dropna()
+    rdrug_mechs.index = [str(idx).lower() for idx in rdrug_mechs.index]
+
+    rr_mechs = pd.Series(index=reasonable_results.index)
+    # counter1 = 0
+    # counter2 = 0
+    for drug in rr_mechs.index:
+        try:
+            cids = drug2cids[drug]
+            # counter1 += 1
+        except KeyError:
+            cids = 'Not Clinically Relevant'
+            # counter2 += 1
+        for cid in cids:
+            if cid in cid_to_rdrug:
+                rdrug = cid_to_rdrug[cid]
+                if rdrug in rdrug_mechs:
+                    rr_mechs[drug] = rdrug_mechs.loc[rdrug]
+                else:
+                    rr_mechs[drug] = ''
+            else:
+                rr_mechs[drug] = 'Not Clinically Relevant'
+    # print(counter1,counter2)
+    if annot:
+        reasonable_results['moa'] = rr_mechs
+
+    if out_dir is not None:
+        if not os.path.exists(out_dir):
+            os.mkdir(out_dir)
+        for sample in reasonable_results.columns:
+            out_file = os.path.join(out_dir, '{}.{}.reasonable.annotated.csv'.format(sample, out_prefix))
+            rrs = reasonable_results.loc[:, sample]
+            results_plus_mech = pd.concat([rrs, rr_mechs], axis=1).sort_values(by=sample, ascending=False)
+            results_plus_mech.columns = 'score moa'.split()
+            results_plus_mech.index.name = 'drug'
+            results_plus_mech.to_csv(out_file, float_format='%.3f')
+    return results_plus_mech
