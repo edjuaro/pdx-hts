@@ -165,3 +165,45 @@ from drug_suggestion.expression.cmap import read_cmap_gct, load_cmap_drug_to_cid
 from drug_suggestion.drug_annotation import subset_to_reasonable_drugs
 from drug_suggestion.expression.discover import discover_from_expression, plot_discover_from_expression
 from drug_suggestion.expression.controls import load_control_exp
+
+
+#### Before merge
+def add_cmap_to_split_df(discover,cmap):
+    df = discover.rename(index=str, columns={"score": "DiSCoVER", "moa":"MoA"},inplace=False)
+    for index, row in cmap.iterrows():
+        drug = row['drug'].lower()
+        try:
+            if str(df.loc[drug,'CMAP']) != 'nan':
+                #drug already exists and a CMAP score has been added
+                df.loc[drug,'CMAP'] = np.nanmean([row['score'], df.loc[drug,'CMAP']])
+            else:
+                # drug already exists but a CMAP score has not been added
+                df.loc[drug,'CMAP'] = row['score']
+        except KeyError:
+            # drug didn't exist therefore a CMAP score had not been added
+            df.loc[drug,'CMAP'] = row['score']
+            df.loc[drug,'MoA'] = row['moa']
+        if str(df.loc[drug,'evidence'])=='nan': #numpy is not letting me use np.isnan()
+            df.loc[drug,'evidence'] = '...'+sign_to_letter[str(np.sign(row['score']))]
+        else:
+            df.loc[drug,'evidence'] = str(df.loc[drug,'evidence'])+sign_to_letter[str(np.sign(row['score']))]
+
+    #update those rows which are not in cmap
+    for index, row in df.iterrows():
+        if len(row['evidence'])==3:
+            df.loc[index,'evidence']  = df.loc[index,'evidence']+'.'
+
+    return df[['drug','MoA','GDSC','CTRP','CCLE','DiSCoVER','CMAP','evidence']]
+
+def rank_combined_df(df):
+#     df['average'] = df.drop(['MoA','GDSC','CTRP','CCLE','support'],axis=1,inplace=False).mean(axis=1,skipna=True).round(3)
+    df.sort_values(by=['DiSCoVER'],ascending=False,axis=0,inplace=True)
+    df['DiSCoVER rank'] = range(1, len(df) + 1)
+    df.sort_values(by=['CMAP'],ascending=False,axis=0,inplace=True)
+    df['CMAP rank'] = range(1, len(df) + 1)
+    df['Average rank'] = df[['DiSCoVER rank','CMAP rank']].mean(axis=1)
+    df.sort_values(by=['Average rank'],ascending=True,axis=0,inplace=True)
+    df = df[((df['DiSCoVER']>0.001).values) & ((df['CMAP']>0.001).values)]
+#     combined_df = combined_df[((combined_df['DiSCoVER']>0.001).values) & ((combined_df['CMAP']>0.001).values)]
+
+    return df.drop(['GDSC','CTRP','CCLE'],axis=1,inplace=False)
