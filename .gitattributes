@@ -1,1 +1,2 @@
 *.cel filter=lfs diff=lfs merge=lfs -text
+*.gmt filter=lfs diff=lfs merge=lfs -text
