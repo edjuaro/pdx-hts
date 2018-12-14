@@ -1,3 +1,4 @@
 *.cel filter=lfs diff=lfs merge=lfs -text
 *.gmt filter=lfs diff=lfs merge=lfs -text
 Docker/base-container/to_add/** filter=lfs diff=lfs merge=lfs -text
+*.p filter=lfs diff=lfs merge=lfs -text
