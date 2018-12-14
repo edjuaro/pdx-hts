@@ -2,7 +2,7 @@ import os
 import sys
 import pandas as pd
 import re
-import modules.utils as utils
+import modules.local_utils as local_utils
 
 BASE_DIR = os.getcwd()
 sys.path.append(BASE_DIR)
