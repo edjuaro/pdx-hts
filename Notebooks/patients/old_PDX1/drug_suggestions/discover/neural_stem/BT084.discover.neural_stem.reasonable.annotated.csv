@@ -1,0 +1,264 @@
+drug,score,moa
+gdsc_Navitoclax,0.649,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w"
+gdsc_Linsitinib,0.625,IGF-1R inhibitor
+gdsc_Rucaparib,0.508,"PARP inhibitor, inhibits DNA repair"
+ctrp_linsitinib,0.419,IGF-1R inhibitor
+gdsc_Olaparib,0.419,PARP Inhibitor
+ctrp_dabrafenib,0.417,Braf (V600E) inhibitor
+ctrp_O-6-benzylguanine,0.395,"guanine analog, binds the DNA repair enzyme O(6)-alkylguanine DNA alkyltransferase (AGT) resulting in inhibition of AGT-mediated DNA repair"
+ctrp_olaparib,0.382,PARP Inhibitor
+gdsc_Selisistat,0.379,SIRT1 inhibitor
+ctrp_axitinib,0.378,"VEGFR, c-KIT and PDGFR inhibitor"
+ctrp_XL765,0.377,PI3K/mTOR inhibitor
+ctrp_lenvatinib,0.362,"VEGFR inhibitor (VEGFR1, VEGFR2 and VEGFR3)"
+ctrp_serdemetan,0.362,"(JNJ-26854165) Mdm2 antagonist, stabilizes p53"
+ctrp_ABT-737,0.360,Bcl-2/Bcl-xL inhibitor
+ctrp_nilotinib,0.357,"inhibits the kinases BCR-ABL,[26] KIT, LCK, EPHA3, EPHA8, DDR1, DDR2, PDGFRB, MAPK11 and ZAK"
+ctrp_tretinoin,0.357,Retinoid
+ctrp_chlorambucil,0.352,"alkylates and cross-links DNA, interfering with DNA replication and damaging the DNA"
+ctrp_foretinib,0.341,c-Met/VEGFR2 inhibitor
+ctrp_indisulam,0.341,"carbonic anhydrase inibitor and  CDK inhibitor, targets G1 by depleting cyclin E. inducing p53 and p21, and inhibiting CDK2"
+ctrp_bendamustine,0.339,alkylating agent
+ctrp_fingolimod,0.337,"sphingosine-1-phosphate receptor modulator, sequesters lymphocytes in lymph nodes, mostly used for treating multiple sclerosis"
+ctrp_tacrolimus,0.334,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
+ctrp_AZD4547,0.334,"FGFR-1,2 and 3 inhibitor"
+ctrp_cediranib,0.333,VEGFR inhibitor
+ctrp_ABT-199,0.333,Bcl2 inhibitor
+ctrp_barasertib,0.332,highly selective Aurora B kinase inhibitor
+ctrp_darinaparsin,0.330,organic arsenic compound composed of dimethylated arsenic linked to glutathione
+ctrp_sitagliptin,0.327,"used for Treating type 2 diabetes, works by increasing the amount of insulin released by your body"
+ctrp_sildenafil,0.326,"Viagra, used to treat erectile dysfunction and pulmonary arterial hypertension"
+ctrp_bexarotene,0.325,"retinoid that selectively activates retinoid X receptors (RXRs), induces cell differentiation and apoptosis "
+ctrp_TG-100-115,0.325,PI3Kγ/δ inhibitor
+ctrp_PLX-4032,0.323,BRAF (V600E) inhibitor
+ctrp_alisertib,0.321,Aurora A kinase inhibitor
+ctrp_elocalcitol,0.317,vitamin D receptor agonist
+ctrp_KW-2449,0.316,"multi-kinase inhibitor, mostly for Flt3, modestly potent to FGFR1, Bcr-Abl and Aurora A;"
+ctrp_MGCD-265,0.315,"inhibitor of c-Met and VEGFR1/2/3, as well as Ron and Tie2"
+gdsc_SN-38,0.313,"Topo I inhibitor, active metabolite of irinotecan but 1000 times more active"
+ctrp_tamoxifen,0.313,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+gdsc_Daporinad,0.312,"inhibits biosynthesis of (NAD+ from niacinamide (vitamin B3), which may deplete energy reserves in metabolically active tumor cells"
+ctrp_cabozantinib,0.308,"MET, AXL, VEGFR and RET inhibitor"
+ctrp_pazopanib,0.307,"KIT, FGFR, PDGFR and VEGFR inhibitor"
+ctrp_SGX-523,0.303, Met inhibitor
+ctrp_brivanib,0.300,"multitargeted tyrosine kinase inhibitor, esp VEGFR and FGFR"
+ctrp_nintedanib,0.299,"tyrosine-kinase inhibitor, targeting VEGFR, FGFR and PDGFR"
+ctrp_etoposide,0.299,Topo II inhibitor
+ctrp_AZD1480,0.295,JAK2 inhibitor with some activity against JAK3 and Tyk2
+ctrp_tivozanib,0.293,VEGFR inhibitor
+ctrp_tandutinib,0.292,"FLT3 antagonist, also inhibits PDGFR and c-Kit, "
+ctrp_omacetaxine mepesuccinate,0.292,"natural product, protein translation inhibitor, used for myeloid leukemia"
+ctrp_SN-38,0.290,"Topo I inhibitor, active metabolite of irinotecan but 1000 times more active"
+ctrp_VX-680,0.290,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C"
+ctrp_itraconazole,0.289,"Anti-fungal, hedgehog antagonist"
+ctrp_teniposide,0.288,Topo II inhibitor
+ctrp_sunitinib,0.287,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
+ctrp_AZD6482,0.286,"PI3Kβ inhibitor, less active against PI3Kδ, PI3Kα and PI3Kγ "
+ctrp_vorapaxar,0.285," thrombin receptor (protease-activated receptor, PAR-1) antagonist based on the natural product himbacine"
+ctrp_PX-12,0.284,thioredoxin-1 (Trx-1) inhibitor
+ctrp_navitoclax,0.282,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w"
+ctrp_hyperforin,0.280,"Active ingredient in St. John's Wort, blocks reuptake of of serotonin, norepinephrine, dopamine and GABA"
+ctrp_cyclophosphamide,0.279,"alkylating agent, nitrogen mustard family, works by disrupting the duplication of DNA and the creation of RNA (Cytoxan)"
+ctrp_topotecan,0.279,Topo I inhibitor
+ctrp_sorafenib,0.275,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
+ctrp_CAL-101,0.274,"Idelalisib,  PI3K/p110δ inhibitor"
+ctrp_MK-2206,0.272,Akt1/2/3 inhibitor
+ctrp_temozolomide,0.272,alkylating agent
+ctrp_RO4929097,0.271,Notch (gamma secretase) inhibitor
+ctrp_fluvastatin,0.265,"HMG-CoA reductase inhibitor,"
+ctrp_gossypol,0.264,"Natural product, may function to inhibit Bcl2 family members"
+ctrp_dacarbazine,0.264,"alkylating agent, Dacarbazine works by methylating guanine at the O-6 and N-7 positions"
+ctrp_GSK1059615,0.261,PI3Kα/β/δ/γ and mTOR inhibitor
+ctrp_GSK461364,0.259,"Plk1 inhibitor, less active against Plk2 and Plk3."
+ctrp_tivantinib,0.258,Met inhibitor
+ctrp_quizartinib,0.258,Flt3 inhibitor
+ctrp_ZSTK474,0.257,"PI3K inhibitor, inhibits all four PI3K isoforms, but most active against PI3Kδ"
+ctrp_thalidomide,0.257,"interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma"
+ctrp_momelotinib,0.256,JAK1 and JAK2 inhibitor
+ctrp_vincristine,0.255,"binds tubulin, disrupts microtubule dynamics"
+ctrp_mitomycin,0.251,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis"
+ctrp_semagacestat,0.249,Notch (gamma secretase) inhibitor
+ctrp_GSK2636771,0.249,"PI3K beta inhibitor, >900-fold selectivity over PI3Kα/PI3Kγ and >10-fold over PI3Kδ. "
+ctrp_silmitasertib,0.247,casein kinase 2 inhibitor 
+ctrp_alvocidib,0.247,"Flavopiridol, CDK inhibitor, works against CDK1, 2, 4, 6 and 9"
+ctrp_curcumin,0.247,"Natural Product, component of turmeric, may function as HDAC inhibitor"
+ctrp_doxorubicin,0.247,"Topo II inhibitor, DNA intercalator"
+ctrp_cimetidine,0.247,(Tagamet) Antacid and antihistamine
+ctrp_crizotinib,0.246,"ALK, ROS1 and MET inhibitor"
+ctrp_KX2-391,0.245,Src inhibitor (peptidomimetic) that targets the peptide substrate site of Src
+ctrp_tamatinib,0.244,(R4060) inhibitor of IgE and IgG-mediated activation of Fc receptor signaling. Primary target is Syk
+gdsc_Belinostat,0.244,HDAC inhibitor (PXD101)
+ctrp_niclosamide,0.243,"used to treat tapeworm infestations,  inhibits glucose uptake, oxidative phosphorylation, and anaerobic metabolism in the tapeworm"
+ctrp_AZD7762,0.243, Chk1 / Chk2 inhibitor
+ctrp_TG-101348,0.242,JAK2 inhibitor
+ctrp_clofarabine,0.240,purine nucleoside antimetabolite
+ctrp_rigosertib,0.240,"ON-01910, Plk-1 inhibitor"
+ctrp_GDC-0941,0.238,"Pictilisib, potent inhibitor of PI3Kα/δ, with modest selectivity against p110β (11-fold) and p110γ"
+ctrp_YM-155,0.238,"YM155 (Sepantronium Bromide), survivin suppressant "
+ctrp_BI-2536,0.236,"Plk1 inhibitor, less active against Plk2 and Plk3."
+ctrp_PHA-793887,0.235,"CDK inhibitor, esp CDK2, CDK5 and CDK7"
+ctrp_simvastatin,0.234,"HMG-CoA reductase inhibitor,"
+ctrp_bardoxolone methyl,0.233,"(CDDO-Me), synthetic triterpenoid, activator of the Nrf2 pathway and an inhibitor of the NF-κB pathway"
+ctrp_prochlorperazine,0.232,"dopamine (D2) receptor antagonist, used for treatment of nausea and vertigo."
+ctrp_OSI-027,0.230,mTORC1 and mTORC2 inhibitor
+ctrp_paclitaxel,0.225,disrupts microtubule dynamics
+ctrp_daporinad,0.225,"inhibits biosynthesis of (NAD+ from niacinamide (vitamin B3), which may deplete energy reserves in metabolically active tumor cells"
+ctrp_dinaciclib,0.224,"CDK inhibitor, esp CDK1, 2, 5, and 9"
+ctrp_bleomycin A2,0.224,"Induces DNA strand breaks, inhibits incorporation of thymidine into DNA strands."
+ctrp_MK-0752,0.224,Notch (gamma secretase) inhibitor
+ctrp_MK-1775,0.223,Wee1 kinase inhibitor
+ctrp_nutlin-3,0.222,"Mdm2 antagonist, stabilizes p53 "
+ctrp_ciclosporin,0.221,
+ctrp_obatoclax,0.219,Bcl-2 antagonist
+ctrp_lovastatin,0.218,"HMG-CoA reductase inhibitor,"
+ctrp_tigecycline,0.217,antibiotic used to treat a number of bacterial infections
+ctrp_dexamethasone,0.216,"synthetic corticosteroid, used to reduce inflammation"
+ctrp_gemcitabine,0.216,"Nucleoside analog,incorporation into DNA creates an irreparable error that leads to inhibition of further DNA synthesis"
+ctrp_regorafenib,0.211,VEGFR2-TIE2 inhibitor 
+ctrp_masitinib,0.211,"tyrosine-kinase inhibitor used in the treatment of mast cell tumors in animals, specifically dogs"
+ctrp_MLN2480,0.210,"TAK-580, pan-Raf kinase inhibitor"
+ctrp_RAF265,0.207,inhibitor of C-Raf/B-Raf/B-Raf V600E
+ctrp_SB-743921,0.206,kinesin spindle protein (KSP) inhibitor
+ctrp_fulvestrant,0.205,selective estrogen receptor degrader (SERD)
+ctrp_docetaxel,0.204,inhibits microtubule dynamics; semi-synthetic analogue of paclitaxel
+ctrp_NVP-BEZ235,0.204,PI3K/mTOR inhibitor
+ctrp_sirolimus,0.203,"rapamycin, mTOR inhibitor"
+ctrp_vandetanib,0.201,"VEGFR, EGFR and RET inhibitor"
+ctrp_EX-527,0.200,SIRT1 inhibitor
+ctrp_AZD8055,0.198,mTOR inhibitor
+ctrp_temsirolimus,0.191,mTOR inhibitor
+ctrp_pevonedistat,0.176,"(MLN4924), inhibitor of NEDD8-activating enzyme (NAE)"
+gdsc_Sepantronium bromide,0.176,"YM155 (Sepantronium Bromide), survivin suppressant "
+ctrp_bortezomib,-0.188,proteasome inhibitor (Velcade)
+ctrp_methotrexate,-0.196,"antimetabolite, competitively inhibits dihydrofolate reductase (DHFR), inhibits synthesis of DNA, RNA, thymidylates, and proteins"
+gdsc_Mitomycin-C,-0.199,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis"
+ccle_Topotecan,-0.199,Topo I inhibitor
+ctrp_SNS-032,-0.201,"CDK inhibitor, esp CDK2 , 7 and 9 "
+gdsc_Etoposide,-0.204,Topo II inhibitor
+gdsc_Doxorubicin,-0.205,"Topo II inhibitor, DNA intercalator"
+gdsc_Nilotinib,-0.207,"inhibits the kinases BCR-ABL,[26] KIT, LCK, EPHA3, EPHA8, DDR1, DDR2, PDGFRB, MAPK11 and ZAK"
+ccle_RAF265,-0.208,inhibitor of C-Raf/B-Raf/B-Raf V600E
+ccle_Paclitaxel,-0.212,disrupts microtubule dynamics
+ccle_Sorafenib,-0.213,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
+ctrp_bosutinib,-0.225,"BCR-Abl, Src, Lyn and Hck inhibitor"
+ccle_Irinotecan,-0.231,"aka CPT-11, inhibitor of Topo I"
+ctrp_triptolide,-0.233,"diterpenoid epoxide from thunder god vine, may act on the XBP helicase that is a part of the TFIIH transcription factor complex"
+ctrp_canertinib,-0.236,"pan-ErbB inhibitor for EGFR and ErbB2,  no activity to PDGFR, FGFR, InsR, PKC, or CDK1/2/4. "
+gdsc_Vinorelbine,-0.236,disrupts microtubule dynamics; natural product
+ctrp_MLN2238,-0.238,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (β5) site of the 20S proteasome "
+ccle_AZD0530,-0.239,"kinase inhibitor, with selectivity against Src and Bcr-Abl"
+ctrp_tosedostat,-0.240,inhibitor of the M1 family of aminopeptidases
+ctrp_saracatinib,-0.240,"kinase inhibitor, with selectivity against Src and Bcr-Abl"
+ccle_ZD-6474,-0.242,"VEGFR, EGFR and RET inhibitor"
+gdsc_Gemcitabine,-0.242,"Nucleoside analog,incorporation into DNA creates an irreparable error that leads to inhibition of further DNA synthesis"
+ccle_17-AAG,-0.243,HSP90 inhibitor
+ctrp_veliparib,-0.243,PARP inhibitor.
+ctrp_neratinib,-0.247,Her2 and EGFR inhibitor
+ctrp_selumetinib,-0.248,MEK1 inhibitor
+ctrp_ciclopirox,-0.249,antifungal agent for topical dermatologic treatment of superficial mycoses
+gdsc_OSI-027,-0.250,mTORC1 and mTORC2 inhibitor
+ctrp_gefitinib,-0.251,EGFR inhibitor (Iressa)
+ctrp_tanespimycin,-0.251,HSP90 inhibitor
+gdsc_Vinblastine,-0.252,"disrupts microtubule dynamics; vinca alkaloid, chemical analogue of vincristine"
+ctrp_nelarabine,-0.255,"purine nucleoside analog, which causes inhibition of DNA synthesis and cytotoxicity"
+gdsc_Imatinib,-0.257,"Bcr-abl, c-kit and PDGFR inhibitor"
+gdsc_Phenformin,-0.259,Anti-diabetic AMPK Activator - mTOR Inhibitor - Autophagy inducer
+ccle_PD-0332991,-0.261,CDK4/6 inhibitor
+ctrp_fluorouracil,-0.262,antimetabolite
+ctrp_valdecoxib,-0.264,"NSAID used in the treatment of osteoarthritis, rheumatoid arthritis"
+ctrp_entinostat,-0.267,HDAC inhibitor
+ccle_PF2341066,-0.269,"ALK, ROS1 and MET inhibitor"
+ctrp_ifosfamide,-0.269,"alkylating agent, nitrogen mustard family, works by disrupting the duplication of DNA and the creation of RNA"
+gdsc_Erlotinib,-0.270,EGFR inhibitor (Tarceva)
+ctrp_erismodegib,-0.272,Hedgehog (Smoothened) antagonist (LDE225)
+ccle_Nutlin-3,-0.272,"Mdm2 antagonist, stabilizes p53 "
+ctrp_OSI-930,-0.273," inhibitor of Kit, KDR and CSF-1R; also potent to Flt-1, c-Raf and Lck"
+ctrp_BYL-719,-0.274,PI3Kα inhibitor with minimal effect on PI3Kβ/γ/δ
+ctrp_lapatinib,-0.276,HER2/EGFR inhibitor
+ctrp_linifanib,-0.277,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R"
+ctrp_decitabine,-0.278,"Nucleoside analog, inhibitor of DNA methylation and DNA synthesis (Dacogen)"
+ctrp_AT13387,-0.278,Selective potent Hsp90 inhibitor
+gdsc_Entinostat,-0.279,HDAC inhibitor
+gdsc_AZD7762,-0.279, Chk1 / Chk2 inhibitor
+ctrp_azacitidine,-0.281,"Nucleoside analog, inhibitor of DNA methylation and DNA/RNA synthesis (Vidaza)"
+ctrp_COL-3,-0.286,matrix metalloproteinase (MMP) inhibitor
+ctrp_dasatinib,-0.286,"BCR-Abl, Src, c-Kit inhibitor"
+ctrp_vorinostat,-0.289,HDAC inhibitor (SAHA)
+gdsc_5-Fluorouracil,-0.290,antimetabolite
+ccle_Erlotinib,-0.293,EGFR inhibitor (Tarceva)
+gdsc_Palbociclib,-0.294,CDK4/6 inhibitor
+gdsc_Fedratinib,-0.294,JAK2 inhibitor
+ctrp_LBH-589,-0.296,HDAC inhibitor
+gdsc_Docetaxel,-0.296,inhibits microtubule dynamics; semi-synthetic analogue of paclitaxel
+ctrp_trametinib,-0.297,MEK inhibitor (MEK1 and MEK2)
+gdsc_Lapatinib,-0.298,HER2/EGFR inhibitor
+ccle_Lapatinib,-0.299,HER2/EGFR inhibitor
+gdsc_Cytarabine,-0.300,"antimetabolite, causes DNA damage,  inhibits both DNA and RNA polymerases and nucleotide reductase enzymes needed for DNA synthesis"
+ctrp_trifluoperazine,-0.300,"antipsychotic, antiadrenergic and antidopaminergic. Blocks dopamine D1 and D2 receptors "
+gdsc_Dactolisib,-0.301,PI3K/mTOR inhibitor
+ctrp_lomeguatrib,-0.303,"Inhibitor of MGMT, a DNA repair protein that confers resistance to alkylating agents such as Temozolomide, DTIC, Carmustine, etc. "
+gdsc_Methotrexate,-0.303,"antimetabolite, competitively inhibits dihydrofolate reductase (DHFR), inhibits synthesis of DNA, RNA, thymidylates, and proteins"
+ctrp_abiraterone,-0.303,steroidal CYP17A1 inhibitor and androgen synthesis inhibitor 
+gdsc_Bleomycin,-0.307,"Induces DNA strand breaks, inhibits incorporation of thymidine into DNA strands."
+gdsc_Vorinostat,-0.307,HDAC inhibitor (SAHA)
+gdsc_Serdemetan,-0.311,"(JNJ-26854165) Mdm2 antagonist, stabilizes p53"
+gdsc_Obatoclax Mesylate,-0.311,Bcl-2 antagonist
+ctrp_ibrutinib,-0.311,BTK kinase inhibitor
+gdsc_BI-2536,-0.313,"Plk1 inhibitor, less active against Plk2 and Plk3."
+ctrp_ruxolitinib,-0.315,"JAK1/2 inhibitor, used for myelofibrosis and polycythemia vera"
+gdsc_Pictilisib,-0.316,"Pictilisib, potent inhibitor of PI3Kα/δ, with modest selectivity against p110β (11-fold) and p110γ"
+gdsc_ZSTK474,-0.317,"PI3K inhibitor, inhibits all four PI3K isoforms, but most active against PI3Kδ"
+ctrp_afatinib,-0.318,EGFR and ErbB2 inhibitor
+ccle_AZD6244,-0.318,MEK1 inhibitor
+ccle_Nilotinib,-0.325,"inhibits the kinases BCR-ABL,[26] KIT, LCK, EPHA3, EPHA8, DDR1, DDR2, PDGFRB, MAPK11 and ZAK"
+gdsc_Ponatinib,-0.325,Bcr-abl inhibitor
+ctrp_belinostat,-0.328,HDAC inhibitor (PXD101)
+ccle_Panobinostat,-0.331,HDAC inhibitor
+ctrp_imatinib,-0.333,"Bcr-abl, c-kit and PDGFR inhibitor"
+ctrp_istradefylline,-0.335,"adenosine A2A receptor antagonist, useful in the treatment of Parkinson's disease"
+gdsc_MK-2206,-0.341,Akt1/2/3 inhibitor
+gdsc_Saracatinib,-0.341,"kinase inhibitor, with selectivity against Src and Bcr-Abl"
+gdsc_AZD8055,-0.344,mTOR inhibitor
+ctrp_procarbazine,-0.344,alkylating agent
+ctrp_erlotinib,-0.347,EGFR inhibitor (Tarceva)
+gdsc_PHA-793887,-0.347,"CDK inhibitor, esp CDK2, CDK5 and CDK7"
+gdsc_Paclitaxel,-0.349,disrupts microtubule dynamics
+ctrp_birinapant,-0.349,"SMAC mimetic, mostly to cIAP1, less potent against XIAP."
+ctrp_etomoxir,-0.349,"agonist of PPARα, inhibitor of carnitine palmitoyltransferase-1 (CPT-1)"
+gdsc_Bicalutamide,-0.353,"antiandrogen, used to treat prostate cancer"
+ctrp_sotrastaurin,-0.353,pan-PKC inhibitor
+gdsc_Tamoxifen,-0.358,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+gdsc_Pevonedistat,-0.358,"(MLN4924), inhibitor of NEDD8-activating enzyme (NAE)"
+gdsc_Trametinib,-0.370,MEK inhibitor (MEK1 and MEK2)
+gdsc_Cabozantinib,-0.371,"MET, AXL, VEGFR and RET inhibitor"
+gdsc_Bortezomib,-0.374,proteasome inhibitor (Velcade)
+gdsc_Temsirolimus,-0.380,mTOR inhibitor
+gdsc_OSI-930,-0.389," inhibitor of Kit, KDR and CSF-1R; also potent to Flt-1, c-Raf and Lck"
+gdsc_Masitinib,-0.392,"tyrosine-kinase inhibitor used in the treatment of mast cell tumors in animals, specifically dogs"
+gdsc_Dasatinib,-0.393,"BCR-Abl, Src, c-Kit inhibitor"
+gdsc_Veliparib,-0.395,PARP inhibitor.
+gdsc_Lenalidomide,-0.399,"derivative of thalidomide, which interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma"
+gdsc_Sunitinib,-0.401,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
+gdsc_Temozolomide,-0.403,alkylating agent
+gdsc_AZD6482,-0.412,"PI3Kβ inhibitor, less active against PI3Kδ, PI3Kα and PI3Kγ "
+gdsc_Tanespimycin,-0.414,HSP90 inhibitor
+gdsc_Vismodegib,-0.427,Hedgehog (Smoothened) antagonist (GDC-0449)
+gdsc_Tozasertib,-0.459,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C"
+gdsc_Pazopanib,-0.459,"KIT, FGFR, PDGFR and VEGFR inhibitor"
+gdsc_Bosutinib,-0.462,"BCR-Abl, Src, Lyn and Hck inhibitor"
+gdsc_Sorafenib,-0.468,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
+gdsc_Axitinib,-0.473,"VEGFR, c-KIT and PDGFR inhibitor"
+gdsc_Gefitinib,-0.484,EGFR inhibitor (Iressa)
+gdsc_Rapamycin,-0.500,"rapamycin, mTOR inhibitor"
+gdsc_Bexarotene,-0.501,"retinoid that selectively activates retinoid X receptors (RXRs), induces cell differentiation and apoptosis "
+gdsc_Tivozanib,-0.514,VEGFR inhibitor
+gdsc_Selumetinib,-0.518,MEK1 inhibitor
+gdsc_Dabrafenib,-0.523,Braf (V600E) inhibitor
+gdsc_Idelalisib,-0.527,"Idelalisib,  PI3K/p110δ inhibitor"
+gdsc_Afatinib,-0.548,EGFR and ErbB2 inhibitor
+gdsc_Crizotinib,-0.583,"ALK, ROS1 and MET inhibitor"
+gdsc_Tretinoin,-0.603,Retinoid
+gdsc_Quizartinib,-0.619,Flt3 inhibitor
+gdsc_Ruxolitinib,-0.670,"JAK1/2 inhibitor, used for myelofibrosis and polycythemia vera"
+gdsc_Linifanib,-0.694,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R"
+gdsc_Alectinib,-0.702,"ALK inhibitor, used to treat non-small-cell lung cancer (NSCLC)"

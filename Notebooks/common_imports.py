@@ -1,3 +1,5 @@
+import gp
+import genepattern
 import os
 import sys
 import pandas as pd
