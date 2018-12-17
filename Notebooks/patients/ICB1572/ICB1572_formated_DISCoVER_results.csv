@@ -1,0 +1,673 @@
+,moa,GDSC,CTRP,CCLE,drug,score,evidence
+gsk1070916,Not Clinically Relevant,0.626,,,gdsc_GSK1070916,0.626,+..
+ql-xii-61,Not Clinically Relevant,0.57,,,gdsc_QL-XII-61,0.57,+..
+sb52334,Not Clinically Relevant,0.562,,,gdsc_SB52334,0.562,+..
+gsk429286a,Not Clinically Relevant,0.556,,,gdsc_GSK429286A,0.556,+..
+vx-702,Not Clinically Relevant,0.552,,,gdsc_VX-702,0.552,+..
+tl-2-105,Not Clinically Relevant,0.5479999999999999,,,gdsc_TL-2-105,0.548,+..
+gw-2580,Not Clinically Relevant,0.5479999999999999,,,gdsc_GW-2580,0.548,+..
+linsitinib,IGF-1R inhibitor,0.626,0.428,,ctrp_linsitinib,0.527,++.
+tubastatin a,Not Clinically Relevant,0.599,0.44,,ctrp_tubastatin A,0.52,++.
+bx-912,Not Clinically Relevant,0.505,,,gdsc_BX-912,0.505,+..
+navitoclax,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w",0.659,0.315,,ctrp_navitoclax,0.487,++.
+tretinoin,Retinoid,0.583,0.379,,ctrp_tretinoin,0.481,++.
+axitinib,"VEGFR, c-KIT and PDGFR inhibitor",0.5589999999999999,0.389,,ctrp_axitinib,0.474,++.
+amuvatinib,Not Clinically Relevant,0.461,,,gdsc_Amuvatinib,0.461,+..
+rucaparib,"PARP inhibitor, inhibits DNA repair",0.456,,,gdsc_Rucaparib,0.456,+..
+quizartinib,Flt3 inhibitor,0.662,0.237,,ctrp_quizartinib,0.45,++.
+xmd13-2,Not Clinically Relevant,0.444,,,gdsc_XMD13-2,0.444,+..
+hg-5-88-01,Not Clinically Relevant,0.439,,,gdsc_HG-5-88-01,0.439,+..
+avrainvillamide,Not Clinically Relevant,,0.431,,ctrp_avrainvillamide,0.431,.+.
+sb-505124,Not Clinically Relevant,0.425,,,gdsc_SB-505124,0.425,+..
+sotrastaurin,pan-PKC inhibitor,,0.42200000000000004,,ctrp_sotrastaurin,0.422,.+.
+compound 7d-cis,Not Clinically Relevant,,0.414,,ctrp_Compound 7d-cis,0.414,.+.
+gsk319347a,Not Clinically Relevant,0.41100000000000003,,,gdsc_GSK319347A,0.411,+..
+cct036477,Not Clinically Relevant,,0.408,,ctrp_CCT036477,0.408,.+.
+bms-195614,Not Clinically Relevant,,0.40399999999999997,,ctrp_BMS-195614,0.404,.+.
+skepinone-l,Not Clinically Relevant,,0.40299999999999997,,ctrp_skepinone-L,0.403,.+.
+ispinesib mesylate,Not Clinically Relevant,0.40299999999999997,,,gdsc_Ispinesib Mesylate,0.403,+..
+brd-k51490254,Not Clinically Relevant,,0.401,,ctrp_BRD-K51490254,0.401,.+.
+brd-k42260513,Not Clinically Relevant,,0.4,,ctrp_BRD-K42260513,0.4,.+.
+brd-k88742110,Not Clinically Relevant,,0.4,,ctrp_BRD-K88742110,0.4,.+.
+brd-k99006945,Not Clinically Relevant,,0.396,,ctrp_BRD-K99006945,0.396,.+.
+abt-737,Bcl-2/Bcl-xL inhibitor,,0.395,,ctrp_ABT-737,0.395,.+.
+xl765,PI3K/mTOR inhibitor,,0.39299999999999996,,ctrp_XL765,0.393,.+.
+barasertib,highly selective Aurora B kinase inhibitor,,0.39299999999999996,,ctrp_barasertib,0.393,.+.
+brd-k49290616,Not Clinically Relevant,,0.392,,ctrp_BRD-K49290616,0.392,.+.
+iu1,Not Clinically Relevant,,0.391,,ctrp_IU1,0.391,.+.
+brd-k34485477,Not Clinically Relevant,,0.389,,ctrp_BRD-K34485477,0.389,.+.
+kin001-266,Not Clinically Relevant,0.38799999999999996,,,gdsc_KIN001-266,0.388,+..
+staurosporine,Not Clinically Relevant,,0.385,,ctrp_staurosporine,0.385,.+.
+brd-k26531177,Not Clinically Relevant,,0.385,,ctrp_BRD-K26531177,0.385,.+.
+ml050,Not Clinically Relevant,,0.385,,ctrp_ML050,0.385,.+.
+brd-k24690302,Not Clinically Relevant,,0.381,,ctrp_BRD-K24690302,0.381,.+.
+cil55,Not Clinically Relevant,,0.38,,ctrp_CIL55,0.38,.+.
+brd-m00053801,Not Clinically Relevant,,0.379,,ctrp_BRD-M00053801,0.379,.+.
+sz4ta2,Not Clinically Relevant,,0.379,,ctrp_SZ4TA2,0.379,.+.
+indisulam,"carbonic anhydrase inibitor and  CDK inhibitor, targets G1 by depleting cyclin E. inducing p53 and p21, and inhibiting CDK2",,0.37799999999999995,,ctrp_indisulam,0.378,.+.
+tacrolimus,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant",,0.377,,ctrp_tacrolimus,0.377,.+.
+sr1001,Not Clinically Relevant,,0.374,,ctrp_SR1001,0.374,.+.
+brd-k28456706,Not Clinically Relevant,,0.37200000000000005,,ctrp_BRD-K28456706,0.372,.+.
+brd-a71883111,Not Clinically Relevant,,0.371,,ctrp_BRD-A71883111,0.371,.+.
+compound 1541a,Not Clinically Relevant,,0.37,,ctrp_Compound 1541A,0.37,.+.
+repligen 136,Not Clinically Relevant,,0.37,,ctrp_Repligen 136,0.37,.+.
+ml203,Not Clinically Relevant,,0.369,,ctrp_ML203,0.369,.+.
+brd-k51831558,Not Clinically Relevant,,0.368,,ctrp_BRD-K51831558,0.368,.+.
+chlorambucil,"alkylates and cross-links DNA, interfering with DNA replication and damaging the DNA",,0.366,,ctrp_chlorambucil,0.366,.+.
+brd-k13999467,Not Clinically Relevant,,0.364,,ctrp_BRD-K13999467,0.364,.+.
+tipifarnib-p1,Not Clinically Relevant,,0.364,,ctrp_tipifarnib-P1,0.364,.+.
+epigallocatechin-3-monogallate,Not Clinically Relevant,,0.363,,ctrp_epigallocatechin-3-monogallate,0.363,.+.
+nsc23766,Not Clinically Relevant,,0.36200000000000004,,ctrp_NSC23766,0.362,.+.
+talazoparib,Not Clinically Relevant,0.361,,,gdsc_Talazoparib,0.361,+..
+ml239,Not Clinically Relevant,,0.36,,ctrp_ML239,0.36,.+.
+vx-680,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C",,0.36,,ctrp_VX-680,0.36,.+.
+rg-108,Not Clinically Relevant,,0.359,,ctrp_RG-108,0.359,.+.
+brd-k29313308,Not Clinically Relevant,,0.35700000000000004,,ctrp_BRD-K29313308,0.357,.+.
+foretinib,c-Met/VEGFR2 inhibitor,,0.35700000000000004,,ctrp_foretinib,0.357,.+.
+omacetaxine mepesuccinate,"natural product, protein translation inhibitor, used for myeloid leukemia",,0.35700000000000004,,ctrp_omacetaxine mepesuccinate,0.357,.+.
+16-beta-bromoandrosterone,Not Clinically Relevant,,0.35600000000000004,,ctrp_16-beta-bromoandrosterone,0.356,.+.
+fingolimod,"sphingosine-1-phosphate receptor modulator, sequesters lymphocytes in lymph nodes, mostly used for treating multiple sclerosis",,0.35600000000000004,,ctrp_fingolimod,0.356,.+.
+compound 1b,Not Clinically Relevant,,0.354,,ctrp_compound 1B,0.354,.+.
+pd 153035,Not Clinically Relevant,,0.35200000000000004,,ctrp_PD 153035,0.352,.+.
+mdivi-1,Not Clinically Relevant,,0.35100000000000003,,ctrp_Mdivi-1,0.351,.+.
+cisplatin,Not Clinically Relevant,0.35100000000000003,,,gdsc_Cisplatin,0.351,+..
+jw-74,Not Clinically Relevant,,0.35100000000000003,,ctrp_JW-74,0.351,.+.
+abt-199,Bcl2 inhibitor,,0.35100000000000003,,ctrp_ABT-199,0.351,.+.
+968,Not Clinically Relevant,,0.35100000000000003,,ctrp_968,0.351,.+.
+jw-55,Not Clinically Relevant,,0.35,,ctrp_JW-55,0.35,.+.
+cil41,Not Clinically Relevant,,0.35,,ctrp_CIL41,0.35,.+.
+prima-1-met,Not Clinically Relevant,,0.35,,ctrp_PRIMA-1-Met,0.35,.+.
+kin001-270,Not Clinically Relevant,0.349,,,gdsc_KIN001-270,0.349,+..
+itraconazole,"Anti-fungal, hedgehog antagonist",,0.349,,ctrp_itraconazole,0.349,.+.
+isoliquiritigenin,Not Clinically Relevant,,0.348,,ctrp_isoliquiritigenin,0.348,.+.
+sitagliptin,"used for Treating type 2 diabetes, works by increasing the amount of insulin released by your body",,0.34700000000000003,,ctrp_sitagliptin,0.347,.+.
+brd-k84807411,Not Clinically Relevant,,0.34600000000000003,,ctrp_BRD-K84807411,0.346,.+.
+qs-11,Not Clinically Relevant,,0.344,,ctrp_QS-11,0.344,.+.
+mi-2,Not Clinically Relevant,,0.342,,ctrp_MI-2,0.342,.+.
+brd1835,Not Clinically Relevant,,0.342,,ctrp_BRD1835,0.342,.+.
+necrostatin-7,Not Clinically Relevant,,0.34,,ctrp_necrostatin-7,0.34,.+.
+brd-k11533227,Not Clinically Relevant,,0.34,,ctrp_BRD-K11533227,0.34,.+.
+darinaparsin,organic arsenic compound composed of dimethylated arsenic linked to glutathione,,0.33899999999999997,,ctrp_darinaparsin,0.339,.+.
+brd-k29086754,Not Clinically Relevant,,0.33899999999999997,,ctrp_BRD-K29086754,0.339,.+.
+mgcd-265,"inhibitor of c-Met and VEGFR1/2/3, as well as Ron and Tie2",,0.33799999999999997,,ctrp_MGCD-265,0.338,.+.
+tg-100-115,PI3Kγ/δ inhibitor,,0.33799999999999997,,ctrp_TG-100-115,0.338,.+.
+ski-ii,Not Clinically Relevant,,0.337,,ctrp_SKI-II,0.337,.+.
+ceranib-2,Not Clinically Relevant,,0.337,,ctrp_ceranib-2,0.337,.+.
+brd6340,Not Clinically Relevant,,0.336,,ctrp_BRD6340,0.336,.+.
+alisertib,Aurora A kinase inhibitor,,0.336,,ctrp_alisertib,0.336,.+.
+brd-k41597374,Not Clinically Relevant,,0.335,,ctrp_BRD-K41597374,0.335,.+.
+apicidin,Not Clinically Relevant,,0.33399999999999996,,ctrp_apicidin,0.334,.+.
+cay10576,Not Clinically Relevant,,0.332,,ctrp_CAY10576,0.332,.+.
+bms-270394,Not Clinically Relevant,,0.332,,ctrp_BMS-270394,0.332,.+.
+kw-2449,"multi-kinase inhibitor, mostly for Flt3, modestly potent to FGFR1, Bcr-Abl and Aurora A;",,0.331,,ctrp_KW-2449,0.331,.+.
+lenvatinib,"VEGFR inhibitor (VEGFR1, VEGFR2 and VEGFR3)",,0.331,,ctrp_lenvatinib,0.331,.+.
+brd-k19103580,Not Clinically Relevant,,0.33,,ctrp_BRD-K19103580,0.33,.+.
+ly-2183240,Not Clinically Relevant,,0.32899999999999996,,ctrp_LY-2183240,0.329,.+.
+mst-312,Not Clinically Relevant,,0.32899999999999996,,ctrp_MST-312,0.329,.+.
+azd1480,JAK2 inhibitor with some activity against JAK3 and Tyk2,,0.32899999999999996,,ctrp_AZD1480,0.329,.+.
+nsc30930,Not Clinically Relevant,,0.32899999999999996,,ctrp_NSC30930,0.329,.+.
+brd-k92856060,Not Clinically Relevant,,0.32799999999999996,,ctrp_BRD-K92856060,0.328,.+.
+brd-k61166597,Not Clinically Relevant,,0.327,,ctrp_BRD-K61166597,0.327,.+.
+brd8899,Not Clinically Relevant,,0.327,,ctrp_BRD8899,0.327,.+.
+cytarabine hydrochloride,Not Clinically Relevant,,0.326,,ctrp_cytarabine hydrochloride,0.326,.+.
+azd4547,"FGFR-1,2 and 3 inhibitor",,0.324,,ctrp_AZD4547,0.324,.+.
+nsc19630,Not Clinically Relevant,,0.32299999999999995,,ctrp_NSC19630,0.323,.+.
+trifluoperazine,"antipsychotic, antiadrenergic and antidopaminergic. Blocks dopamine D1 and D2 receptors ",,0.32299999999999995,,ctrp_trifluoperazine,0.323,.+.
+nsc 74859,Not Clinically Relevant,,0.322,,ctrp_NSC 74859,0.322,.+.
+npk76-ii-72-1,Not Clinically Relevant,0.322,,,gdsc_NPK76-II-72-1,0.322,+..
+pitstop2,Not Clinically Relevant,,0.322,,ctrp_pitstop2,0.322,.+.
+nvp-adw742,Not Clinically Relevant,,0.322,,ctrp_NVP-ADW742,0.322,.+.
+ml006,Not Clinically Relevant,,0.321,,ctrp_ML006,0.321,.+.
+kpt185,Not Clinically Relevant,,0.32,,ctrp_KPT185,0.32,.+.
+isox,Not Clinically Relevant,,0.319,,ctrp_ISOX,0.319,.+.
+fgin-1-27,Not Clinically Relevant,,0.319,,ctrp_FGIN-1-27,0.319,.+.
+brd-k66532283,Not Clinically Relevant,,0.319,,ctrp_BRD-K66532283,0.319,.+.
+px-12,thioredoxin-1 (Trx-1) inhibitor,,0.319,,ctrp_PX-12,0.319,.+.
+elcpk,Not Clinically Relevant,,0.317,,ctrp_ELCPK,0.317,.+.
+manumycin a,Not Clinically Relevant,,0.317,,ctrp_manumycin A,0.317,.+.
+pf-184,Not Clinically Relevant,,0.317,,ctrp_PF-184,0.317,.+.
+sildenafil,"Viagra, used to treat erectile dysfunction and pulmonary arterial hypertension",,0.317,,ctrp_sildenafil,0.317,.+.
+at-406,Not Clinically Relevant,,0.317,,ctrp_AT-406,0.317,.+.
+ku-0063794,Not Clinically Relevant,,0.316,,ctrp_KU-0063794,0.316,.+.
+brd-k34099515,Not Clinically Relevant,,0.316,,ctrp_BRD-K34099515,0.316,.+.
+tacedinaline,Not Clinically Relevant,,0.316,,ctrp_tacedinaline,0.316,.+.
+birb-796,Not Clinically Relevant,,0.316,,ctrp_BIRB-796,0.316,.+.
+lbw242,Not Clinically Relevant,,,0.316,ccle_LBW242,0.316,..+
+lbh-589,HDAC inhibitor,,0.315,,ctrp_LBH-589,0.315,.+.
+ac55649,Not Clinically Relevant,,0.315,,ctrp_AC55649,0.315,.+.
+nsc95397,Not Clinically Relevant,,0.314,,ctrp_NSC95397,0.314,.+.
+brd-k90370028,Not Clinically Relevant,,0.314,,ctrp_BRD-K90370028,0.314,.+.
+brd-k37390332,Not Clinically Relevant,,0.314,,ctrp_BRD-K37390332,0.314,.+.
+elocalcitol,vitamin D receptor agonist,,0.314,,ctrp_elocalcitol,0.314,.+.
+cil70,Not Clinically Relevant,,0.313,,ctrp_CIL70,0.313,.+.
+necrosulfonamide,Not Clinically Relevant,,0.313,,ctrp_necrosulfonamide,0.313,.+.
+nsc48300,Not Clinically Relevant,,0.313,,ctrp_NSC48300,0.313,.+.
+ml083,Not Clinically Relevant,,0.313,,ctrp_ML083,0.313,.+.
+imatinib,"Bcr-abl, c-kit and PDGFR inhibitor",0.27699999999999997,0.34600000000000003,,gdsc_Imatinib,0.312,++.
+bibr-1532,Not Clinically Relevant,,0.312,,ctrp_BIBR-1532,0.312,.+.
+pdmp,Not Clinically Relevant,,0.312,,ctrp_PDMP,0.312,.+.
+hli 373,Not Clinically Relevant,,0.311,,ctrp_HLI 373,0.311,.+.
+vorinostat,HDAC inhibitor (SAHA),0.304,0.316,,gdsc_Vorinostat,0.31,++.
+compound 23 citrate,Not Clinically Relevant,,0.31,,ctrp_Compound 23 citrate,0.31,.+.
+brd-k80183349,Not Clinically Relevant,,0.309,,ctrp_BRD-K80183349,0.309,.+.
+thalidomide,"interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma",,0.308,,ctrp_thalidomide,0.308,.+.
+cucurbitacin i,Not Clinically Relevant,,0.308,,ctrp_cucurbitacin I,0.308,.+.
+gmx-1778,Not Clinically Relevant,,0.307,,ctrp_GMX-1778,0.307,.+.
+etp-46464,Not Clinically Relevant,,0.307,,ctrp_ETP-46464,0.307,.+.
+lrrk2-in-1,Not Clinically Relevant,,0.307,,ctrp_LRRK2-IN-1,0.307,.+.
+byl-719,PI3Kα inhibitor with minimal effect on PI3Kβ/γ/δ,,0.307,,ctrp_BYL-719,0.307,.+.
+belinostat,HDAC inhibitor (PXD101),0.24,0.374,,gdsc_Belinostat,0.307,++.
+vorapaxar," thrombin receptor (protease-activated receptor, PAR-1) antagonist based on the natural product himbacine",,0.307,,ctrp_vorapaxar,0.307,.+.
+zm447439,Not Clinically Relevant,0.306,,,gdsc_ZM447439,0.306,+..
+tpca-1,Not Clinically Relevant,0.354,0.259,,ctrp_TPCA-1,0.306,++.
+ro4929097,Notch (gamma secretase) inhibitor,,0.306,,ctrp_RO4929097,0.306,.+.
+isoevodiamine,Not Clinically Relevant,,0.305,,ctrp_isoevodiamine,0.305,.+.
+necrostatin-1,Not Clinically Relevant,,0.305,,ctrp_necrostatin-1,0.305,.+.
+tivantinib,Met inhibitor,,0.305,,ctrp_tivantinib,0.305,.+.
+cediranib,VEGFR inhibitor,,0.305,,ctrp_cediranib,0.305,.+.
+lomeguatrib,"Inhibitor of MGMT, a DNA repair protein that confers resistance to alkylating agents such as Temozolomide, DTIC, Carmustine, etc. ",,0.304,,ctrp_lomeguatrib,0.304,.+.
+pifithrin-mu,Not Clinically Relevant,,0.304,,ctrp_pifithrin-mu,0.304,.+.
+ml031,Not Clinically Relevant,,0.303,,ctrp_ML031,0.303,.+.
+brivanib,"multitargeted tyrosine kinase inhibitor, esp VEGFR and FGFR",,0.303,,ctrp_brivanib,0.303,.+.
+erastin,Not Clinically Relevant,,0.303,,ctrp_erastin,0.303,.+.
+sgx-523, Met inhibitor,,0.302,,ctrp_SGX-523,0.302,.+.
+brd-k35604418,Not Clinically Relevant,,0.302,,ctrp_BRD-K35604418,0.302,.+.
+brd-k44224150,Not Clinically Relevant,,0.3,,ctrp_BRD-K44224150,0.3,.+.
+pandacostat,Not Clinically Relevant,,0.3,,ctrp_pandacostat,0.3,.+.
+ki8751,Not Clinically Relevant,,0.3,,ctrp_Ki8751,0.3,.+.
+bms-754807,Not Clinically Relevant,0.309,0.289,,ctrp_BMS-754807,0.299,++.
+ym201636,Not Clinically Relevant,0.299,,,gdsc_YM201636,0.299,+..
+hc-067047,Not Clinically Relevant,,0.298,,ctrp_HC-067047,0.298,.+.
+cil55a,Not Clinically Relevant,,0.298,,ctrp_CIL55A,0.298,.+.
+gsk1059615,PI3Kα/β/δ/γ and mTOR inhibitor,,0.297,,ctrp_GSK1059615,0.297,.+.
+plx-4032,BRAF (V600E) inhibitor,,0.297,,ctrp_PLX-4032,0.297,.+.
+brd-k75293299,Not Clinically Relevant,,0.297,,ctrp_BRD-K75293299,0.297,.+.
+sb-225002,Not Clinically Relevant,,0.29600000000000004,,ctrp_SB-225002,0.296,.+.
+dacarbazine,"alkylating agent, Dacarbazine works by methylating guanine at the O-6 and N-7 positions",,0.29600000000000004,,ctrp_dacarbazine,0.296,.+.
+pyr-41,Not Clinically Relevant,,0.295,,ctrp_PYR-41,0.295,.+.
+brd-k70511574,Not Clinically Relevant,,0.295,,ctrp_BRD-K70511574,0.295,.+.
+pf-3758309,Not Clinically Relevant,,0.295,,ctrp_PF-3758309,0.295,.+.
+ml311,Not Clinically Relevant,,0.295,,ctrp_ML311,0.295,.+.
+bendamustine,alkylating agent,,0.294,,ctrp_bendamustine,0.294,.+.
+hyperforin,"Active ingredient in St. John's Wort, blocks reuptake of of serotonin, norepinephrine, dopamine and GABA",,0.294,,ctrp_hyperforin,0.294,.+.
+merck60,Not Clinically Relevant,,0.294,,ctrp_Merck60,0.294,.+.
+rigosertib,"ON-01910, Plk-1 inhibitor",,0.294,,ctrp_rigosertib,0.294,.+.
+bardoxolone methyl,Not Clinically Relevant,,0.293,,ctrp_bardoxolone methyl,0.293,.+.
+bix-01294,Not Clinically Relevant,,0.293,,ctrp_BIX-01294,0.293,.+.
+dinaciclib,"CDK inhibitor, esp CDK1, 2, 5, and 9",,0.293,,ctrp_dinaciclib,0.293,.+.
+ml029,Not Clinically Relevant,,0.293,,ctrp_ML029,0.293,.+.
+ko-143,Not Clinically Relevant,,0.293,,ctrp_Ko-143,0.293,.+.
+brd-k17060750,Not Clinically Relevant,,0.292,,ctrp_BRD-K17060750,0.292,.+.
+wz4002,Not Clinically Relevant,,0.29100000000000004,,ctrp_WZ4002,0.291,.+.
+neuronal differentiation inducer iii,Not Clinically Relevant,,0.289,,ctrp_neuronal differentiation inducer III,0.289,.+.
+hg-5-113-01,Not Clinically Relevant,0.289,,,gdsc_HG-5-113-01,0.289,+..
+mps-1-in-1,Not Clinically Relevant,0.28800000000000003,,,gdsc_MPS-1-IN-1,0.288,+..
+jw-480,Not Clinically Relevant,,0.28800000000000003,,ctrp_JW-480,0.288,.+.
+nsc-207895,Not Clinically Relevant,0.28800000000000003,,,gdsc_NSC-207895,0.288,+..
+yk 4-279,Not Clinically Relevant,,0.287,,ctrp_YK 4-279,0.287,.+.
+stf-31,Not Clinically Relevant,,0.287,,ctrp_STF-31,0.287,.+.
+marinopyrrole a,Not Clinically Relevant,,0.287,,ctrp_marinopyrrole A,0.287,.+.
+narciclasine,Not Clinically Relevant,,0.287,,ctrp_narciclasine,0.287,.+.
+ml162,Not Clinically Relevant,,0.28600000000000003,,ctrp_ML162,0.286,.+.
+cyclophosphamide,"alkylating agent, nitrogen mustard family, works by disrupting the duplication of DNA and the creation of RNA (Cytoxan)",,0.28600000000000003,,ctrp_cyclophosphamide,0.286,.+.
+pf2341066,"ALK, ROS1 and MET inhibitor",,,0.285,ccle_PF2341066,0.285,..+
+triazolothiadiazine,Not Clinically Relevant,,0.285,,ctrp_triazolothiadiazine,0.285,.+.
+fqi-1,Not Clinically Relevant,,0.285,,ctrp_FQI-1,0.285,.+.
+pl-di,Not Clinically Relevant,,0.285,,ctrp_PL-DI,0.285,.+.
+fedratinib,JAK2 inhibitor,0.284,,,gdsc_Fedratinib,0.284,+..
+ouabain,Not Clinically Relevant,,0.284,,ctrp_ouabain,0.284,.+.
+gsk-3 inhibitor ix,Not Clinically Relevant,,0.28300000000000003,,ctrp_GSK-3 inhibitor IX,0.283,.+.
+curcumin,"Natural Product, component of turmeric, may function as HDAC inhibitor",,0.28300000000000003,,ctrp_curcumin,0.283,.+.
+bms-345541,Not Clinically Relevant,0.33899999999999997,0.22399999999999998,,ctrp_BMS-345541,0.282,++.
+decitabine,"Nucleoside analog, inhibitor of DNA methylation and DNA synthesis (Dacogen)",,0.282,,ctrp_decitabine,0.282,.+.
+gw-843682x,Not Clinically Relevant,,0.282,,ctrp_GW-843682X,0.282,.+.
+unc0638,Not Clinically Relevant,0.267,0.29600000000000004,,gdsc_UNC0638,0.282,++.
+bax channel blocker,Not Clinically Relevant,,0.281,,ctrp_Bax channel blocker,0.281,.+.
+alvocidib,"Flavopiridol, CDK inhibitor, works against CDK1, 2, 4, 6 and 9",,0.281,,ctrp_alvocidib,0.281,.+.
+fqi-2,Not Clinically Relevant,,0.281,,ctrp_FQI-2,0.281,.+.
+kh-cb19,Not Clinically Relevant,,0.28,,ctrp_KH-CB19,0.28,.+.
+pluripotin,Not Clinically Relevant,,0.278,,ctrp_pluripotin,0.278,.+.
+momelotinib,JAK1 and JAK2 inhibitor,,0.278,,ctrp_momelotinib,0.278,.+.
+parbendazole,Not Clinically Relevant,,0.278,,ctrp_parbendazole,0.278,.+.
+daporinad,"inhibits biosynthesis of (NAD+ from niacinamide (vitamin B3), which may deplete energy reserves in metabolically active tumor cells",0.318,0.23800000000000002,,ctrp_daporinad,0.278,++.
+brd-k02492147,Not Clinically Relevant,,0.27699999999999997,,ctrp_BRD-K02492147,0.277,.+.
+i-bet-762,Not Clinically Relevant,0.27699999999999997,,,gdsc_I-BET-762,0.277,+..
+tandutinib,"FLT3 antagonist, also inhibits PDGFR and c-Kit, ",,0.27699999999999997,,ctrp_tandutinib,0.277,.+.
+brd-k34222889,Not Clinically Relevant,,0.276,,ctrp_BRD-K34222889,0.276,.+.
+teniposide,Topo II inhibitor,,0.276,,ctrp_teniposide,0.276,.+.
+brd-k66453893,Not Clinically Relevant,,0.276,,ctrp_BRD-K66453893,0.276,.+.
+silmitasertib,casein kinase 2 inhibitor ,,0.275,,ctrp_silmitasertib,0.275,.+.
+ku-60019,Not Clinically Relevant,,0.275,,ctrp_KU-60019,0.275,.+.
+importazole,Not Clinically Relevant,,0.275,,ctrp_importazole,0.275,.+.
+am-580,Not Clinically Relevant,,0.27399999999999997,,ctrp_AM-580,0.274,.+.
+tipifarnib-p2,Not Clinically Relevant,,0.27399999999999997,,ctrp_tipifarnib-P2,0.274,.+.
+ciclopirox,antifungal agent for topical dermatologic treatment of superficial mycoses,,0.27399999999999997,,ctrp_ciclopirox,0.274,.+.
+mitomycin,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis",,0.27399999999999997,,ctrp_mitomycin,0.274,.+.
+sch-79797,Not Clinically Relevant,,0.27399999999999997,,ctrp_SCH-79797,0.274,.+.
+cay10618,Not Clinically Relevant,,0.273,,ctrp_CAY10618,0.273,.+.
+gsk461364,"Plk1 inhibitor, less active against Plk2 and Plk3.",,0.273,,ctrp_GSK461364,0.273,.+.
+irinotecan,"aka CPT-11, inhibitor of Topo I",,,0.273,ccle_Irinotecan,0.273,..+
+tgx-221,Not Clinically Relevant,,0.273,,ctrp_TGX-221,0.273,.+.
+brd-k45681478,Not Clinically Relevant,,0.272,,ctrp_BRD-K45681478,0.272,.+.
+brd-a94377914,Not Clinically Relevant,,0.272,,ctrp_BRD-A94377914,0.272,.+.
+pha-793887,"CDK inhibitor, esp CDK2, CDK5 and CDK7",0.27899999999999997,0.264,,ctrp_PHA-793887,0.271,++.
+gdc-0941,"Pictilisib, potent inhibitor of PI3Kα/δ, with modest selectivity against p110β (11-fold) and p110γ",,0.271,,ctrp_GDC-0941,0.271,.+.
+at13387,Selective potent Hsp90 inhibitor,,0.271,,ctrp_AT13387,0.271,.+.
+gsk2636771,"PI3K beta inhibitor, >900-fold selectivity over PI3Kα/PI3Kγ and >10-fold over PI3Kδ. ",,0.271,,ctrp_GSK2636771,0.271,.+.
+agk-2,Not Clinically Relevant,,0.271,,ctrp_AGK-2,0.271,.+.
+aa-cocf3,Not Clinically Relevant,,0.27,,ctrp_AA-COCF3,0.27,.+.
+ch-55,Not Clinically Relevant,,0.27,,ctrp_Ch-55,0.27,.+.
+brd1812,Not Clinically Relevant,,0.27,,ctrp_BRD1812,0.27,.+.
+n9-isopropylolomoucine,Not Clinically Relevant,,0.26899999999999996,,ctrp_N9-isopropylolomoucine,0.269,.+.
+mln2480,"TAK-580, pan-Raf kinase inhibitor",,0.26899999999999996,,ctrp_MLN2480,0.269,.+.
+cerulenin,Not Clinically Relevant,,0.26899999999999996,,ctrp_cerulenin,0.269,.+.
+vincristine,"binds tubulin, disrupts microtubule dynamics",,0.26899999999999996,,ctrp_vincristine,0.269,.+.
+brd-k85133207,Not Clinically Relevant,,0.268,,ctrp_BRD-K85133207,0.268,.+.
+methylstat,Not Clinically Relevant,,0.268,,ctrp_methylstat,0.268,.+.
+cal-101,"Idelalisib,  PI3K/p110δ inhibitor",,0.268,,ctrp_CAL-101,0.268,.+.
+brd-k96970199,Not Clinically Relevant,,0.266,,ctrp_BRD-K96970199,0.266,.+.
+wz3105,Not Clinically Relevant,0.266,,,gdsc_WZ3105,0.266,+..
+ym-155,"YM155 (Sepantronium Bromide), survivin suppressant ",,0.266,,ctrp_YM-155,0.266,.+.
+nvp-bez235,PI3K/mTOR inhibitor,,0.266,,ctrp_NVP-BEZ235,0.266,.+.
+gossypol,"Natural product, may function to inhibit Bcl2 family members",,0.265,,ctrp_gossypol,0.265,.+.
+osi-027,Not Clinically Relevant,0.263,0.267,,gdsc_OSI-027,0.265,++.
+mk-1775,Wee1 kinase inhibitor,,0.264,,ctrp_MK-1775,0.264,.+.
+nakiterpiosin,Not Clinically Relevant,,0.264,,ctrp_nakiterpiosin,0.264,.+.
+pifithrin-alpha,Not Clinically Relevant,,0.263,,ctrp_pifithrin-alpha,0.263,.+.
+cimetidine,(Tagamet) Antacid and antihistamine,,0.263,,ctrp_cimetidine,0.263,.+.
+tamatinib,(R4060) inhibitor of IgE and IgG-mediated activation of Fc receptor signaling. Primary target is Syk,,0.263,,ctrp_tamatinib,0.263,.+.
+purmorphamine,Not Clinically Relevant,,0.263,,ctrp_purmorphamine,0.263,.+.
+zg-10,Not Clinically Relevant,0.263,,,gdsc_ZG-10,0.263,+..
+mln2238,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (β5) site of the 20S proteasome ",,0.263,,ctrp_MLN2238,0.263,.+.
+cyanoquinoline 11,Not Clinically Relevant,,0.263,,ctrp_cyanoquinoline 11,0.263,.+.
+i-bet151,Not Clinically Relevant,,0.262,,ctrp_I-BET151,0.262,.+.
+bleomycin a2,"Induces DNA strand breaks, inhibits incorporation of thymidine into DNA strands.",,0.261,,ctrp_bleomycin A2,0.261,.+.
+jw-7-24-1,Not Clinically Relevant,0.261,,,gdsc_JW-7-24-1,0.261,+..
+srt-1720,Not Clinically Relevant,,0.261,,ctrp_SRT-1720,0.261,.+.
+b02,Not Clinically Relevant,,0.261,,ctrp_B02,0.261,.+.
+su11274,Not Clinically Relevant,,0.261,,ctrp_SU11274,0.261,.+.
+at7867,Not Clinically Relevant,,0.26,,ctrp_AT7867,0.26,.+.
+sch-529074,Not Clinically Relevant,,0.259,,ctrp_SCH-529074,0.259,.+.
+cr-1-31b,Not Clinically Relevant,,0.258,,ctrp_CR-1-31B,0.258,.+.
+brd-a86708339,Not Clinically Relevant,,0.258,,ctrp_BRD-A86708339,0.258,.+.
+salermide,Not Clinically Relevant,,0.257,,ctrp_salermide,0.257,.+.
+cil56,Not Clinically Relevant,,0.257,,ctrp_CIL56,0.257,.+.
+gant-61,Not Clinically Relevant,,0.256,,ctrp_GANT-61,0.256,.+.
+brd-k86535717,Not Clinically Relevant,,0.256,,ctrp_BRD-K86535717,0.256,.+.
+ciclosporin,,,0.256,,ctrp_ciclosporin,0.256,.+.
+smer-3,Not Clinically Relevant,,0.256,,ctrp_SMER-3,0.256,.+.
+fluorouracil,antimetabolite,,0.254,,ctrp_fluorouracil,0.254,.+.
+nvp-231,Not Clinically Relevant,,0.254,,ctrp_NVP-231,0.254,.+.
+brd-k78574327,Not Clinically Relevant,,0.254,,ctrp_BRD-K78574327,0.254,.+.
+blebbistatin,Not Clinically Relevant,,0.254,,ctrp_blebbistatin,0.254,.+.
+ml258,Not Clinically Relevant,,0.253,,ctrp_ML258,0.253,.+.
+wz8040,Not Clinically Relevant,,0.253,,ctrp_WZ8040,0.253,.+.
+kx2-391,Src inhibitor (peptidomimetic) that targets the peptide substrate site of Src,,0.253,,ctrp_KX2-391,0.253,.+.
+panobinostat,HDAC inhibitor,,,0.253,ccle_Panobinostat,0.253,..+
+phloretin,Not Clinically Relevant,,0.252,,ctrp_phloretin,0.252,.+.
+ar-42,Not Clinically Relevant,0.252,,,gdsc_AR-42,0.252,+..
+brd-k30019337,Not Clinically Relevant,,0.252,,ctrp_BRD-K30019337,0.252,.+.
+nsc632839,Not Clinically Relevant,,0.252,,ctrp_NSC632839,0.252,.+.
+prl-3 inhibitor i,Not Clinically Relevant,,0.251,,ctrp_PRL-3 inhibitor I,0.251,.+.
+ex-527,SIRT1 inhibitor,,0.251,,ctrp_EX-527,0.251,.+.
+clofarabine,purine nucleoside antimetabolite,,0.25,,ctrp_clofarabine,0.25,.+.
+topotecan,Topo I inhibitor,,0.302,0.19699999999999998,ccle_Topotecan,0.25,.++
+r428,Not Clinically Relevant,,0.25,,ctrp_R428,0.25,.+.
+cd-1530,Not Clinically Relevant,,0.25,,ctrp_CD-1530,0.25,.+.
+aew541,Not Clinically Relevant,,,0.25,ccle_AEW541,0.25,..+
+cytochalasin b,Not Clinically Relevant,,0.25,,ctrp_cytochalasin B,0.25,.+.
+prochlorperazine,"dopamine (D2) receptor antagonist, used for treatment of nausea and vertigo.",,0.249,,ctrp_prochlorperazine,0.249,.+.
+palmostatin b,Not Clinically Relevant,,0.249,,ctrp_palmostatin B,0.249,.+.
+vu0155056,Not Clinically Relevant,,0.249,,ctrp_VU0155056,0.249,.+.
+niclosamide,"used to treat tapeworm infestations,  inhibits glucose uptake, oxidative phosphorylation, and anaerobic metabolism in the tapeworm",,0.249,,ctrp_niclosamide,0.249,.+.
+brd-k01737880,Not Clinically Relevant,,0.248,,ctrp_BRD-K01737880,0.248,.+.
+cay10603,Not Clinically Relevant,0.24600000000000002,,,gdsc_CAY10603,0.246,+..
+jq-1,Not Clinically Relevant,,0.24600000000000002,,ctrp_JQ-1,0.246,.+.
+simvastatin,"HMG-CoA reductase inhibitor,",,0.24600000000000002,,ctrp_simvastatin,0.246,.+.
+pi-103,Not Clinically Relevant,0.207,0.284,,gdsc_PI-103,0.246,++.
+nvp-bsk805,Not Clinically Relevant,,0.24600000000000002,,ctrp_NVP-BSK805,0.246,.+.
+sr-ii-138a,Not Clinically Relevant,,0.24600000000000002,,ctrp_SR-II-138A,0.246,.+.
+pf-573228,Not Clinically Relevant,,0.24600000000000002,,ctrp_PF-573228,0.246,.+.
+fulvestrant,selective estrogen receptor degrader (SERD),,0.24600000000000002,,ctrp_fulvestrant,0.246,.+.
+nintedanib,"tyrosine-kinase inhibitor, targeting VEGFR, FGFR and PDGFR",,0.245,,ctrp_nintedanib,0.245,.+.
+ku 0060648,Not Clinically Relevant,,0.245,,ctrp_KU 0060648,0.245,.+.
+ql-x-138,Not Clinically Relevant,0.245,,,gdsc_QL-X-138,0.245,+..
+cay10594,Not Clinically Relevant,,0.244,,ctrp_CAY10594,0.244,.+.
+brd-a02303741,Not Clinically Relevant,,0.244,,ctrp_BRD-A02303741,0.244,.+.
+semagacestat,Notch (gamma secretase) inhibitor,,0.243,,ctrp_semagacestat,0.243,.+.
+sb-525334,Not Clinically Relevant,,0.243,,ctrp_SB-525334,0.243,.+.
+leptomycin b,Not Clinically Relevant,,0.243,,ctrp_leptomycin B,0.243,.+.
+prima-1,Not Clinically Relevant,,0.242,,ctrp_PRIMA-1,0.242,.+.
+brd-k14844214,Not Clinically Relevant,,0.242,,ctrp_BRD-K14844214,0.242,.+.
+azd7545,Not Clinically Relevant,,0.242,,ctrp_AZD7545,0.242,.+.
+le-135,Not Clinically Relevant,,0.24100000000000002,,ctrp_LE-135,0.241,.+.
+sb-743921,kinesin spindle protein (KSP) inhibitor,,0.24,,ctrp_SB-743921,0.24,.+.
+qw-bi-011,Not Clinically Relevant,,0.24,,ctrp_QW-BI-011,0.24,.+.
+tae684,Not Clinically Relevant,,,0.24,ccle_TAE684,0.24,..+
+5-fluorouracil,antimetabolite,0.239,,,gdsc_5-Fluorouracil,0.239,+..
+pyrazolanthrone,Not Clinically Relevant,,0.239,,ctrp_pyrazolanthrone,0.239,.+.
+fluvastatin,"HMG-CoA reductase inhibitor,",,0.239,,ctrp_fluvastatin,0.239,.+.
+brd-k30748066,Not Clinically Relevant,,0.239,,ctrp_BRD-K30748066,0.239,.+.
+cx-5461,Not Clinically Relevant,0.23800000000000002,,,gdsc_CX-5461,0.238,+..
+cd-437,Not Clinically Relevant,,0.23800000000000002,,ctrp_CD-437,0.238,.+.
+chm-1,Not Clinically Relevant,,0.237,,ctrp_CHM-1,0.237,.+.
+ml312,Not Clinically Relevant,,0.237,,ctrp_ML312,0.237,.+.
+tki258,Not Clinically Relevant,,,0.237,ccle_TKI258,0.237,..+
+mk-0752,Notch (gamma secretase) inhibitor,,0.237,,ctrp_MK-0752,0.237,.+.
+brd-k27224038,Not Clinically Relevant,,0.23600000000000002,,ctrp_BRD-K27224038,0.236,.+.
+az-3146,Not Clinically Relevant,,0.235,,ctrp_AZ-3146,0.235,.+.
+gsk525762a,Not Clinically Relevant,,0.235,,ctrp_GSK525762A,0.235,.+.
+pf-750,Not Clinically Relevant,,0.235,,ctrp_PF-750,0.235,.+.
+wiki4,Not Clinically Relevant,0.23399999999999999,,,gdsc_WIKI4,0.234,+..
+dbeq,Not Clinically Relevant,,0.23399999999999999,,ctrp_DBeQ,0.234,.+.
+gw-405833,Not Clinically Relevant,,0.233,,ctrp_GW-405833,0.233,.+.
+tg-101348,JAK2 inhibitor,,0.233,,ctrp_TG-101348,0.233,.+.
+obatoclax,Not Clinically Relevant,,0.23199999999999998,,ctrp_obatoclax,0.232,.+.
+methotrexate,"antimetabolite, competitively inhibits dihydrofolate reductase (DHFR), inhibits synthesis of DNA, RNA, thymidylates, and proteins",0.264,0.201,,ctrp_methotrexate,0.232,++.
+tigecycline,antibiotic used to treat a number of bacterial infections,,0.231,,ctrp_tigecycline,0.231,.+.
+regorafenib,VEGFR2-TIE2 inhibitor ,,0.23,,ctrp_regorafenib,0.23,.+.
+brd9876,Not Clinically Relevant,,0.228,,ctrp_BRD9876,0.228,.+.
+cudc-101,Not Clinically Relevant,0.22699999999999998,,,gdsc_CUDC-101,0.227,+..
+neopeltolide,Not Clinically Relevant,,0.22699999999999998,,ctrp_neopeltolide,0.227,.+.
+ci-976,Not Clinically Relevant,,0.226,,ctrp_CI-976,0.226,.+.
+brefeldin a,Not Clinically Relevant,,0.225,,ctrp_brefeldin A,0.225,.+.
+unc0321,Not Clinically Relevant,,0.225,,ctrp_UNC0321,0.225,.+.
+brd-k55116708,Not Clinically Relevant,,0.225,,ctrp_BRD-K55116708,0.225,.+.
+hbx-41108,Not Clinically Relevant,,0.225,,ctrp_HBX-41108,0.225,.+.
+spautin-1,Not Clinically Relevant,,0.225,,ctrp_spautin-1,0.225,.+.
+3-cl-ahpc,Not Clinically Relevant,,0.225,,ctrp_3-Cl-AHPC,0.225,.+.
+genentech cpd 10,Not Clinically Relevant,0.225,,,gdsc_Genentech Cpd 10,0.225,+..
+brd-k94991378,Not Clinically Relevant,,0.22,,ctrp_BRD-K94991378,0.22,.+.
+tw 37,Not Clinically Relevant,0.22,,,gdsc_TW 37,0.22,+..
+myricetin,Not Clinically Relevant,,0.21899999999999997,,ctrp_myricetin,0.219,.+.
+oligomycin a,Not Clinically Relevant,,0.218,,ctrp_oligomycin A,0.218,.+.
+dexamethasone,"synthetic corticosteroid, used to reduce inflammation",,0.217,,ctrp_dexamethasone,0.217,.+.
+stemregenin 1,Not Clinically Relevant,,0.217,,ctrp_StemRegenin 1,0.217,.+.
+sirolimus,"rapamycin, mTOR inhibitor",,0.214,,ctrp_sirolimus,0.214,.+.
+brd-k41334119,Not Clinically Relevant,,0.212,,ctrp_BRD-K41334119,0.212,.+.
+wp1130,Not Clinically Relevant,,0.212,,ctrp_WP1130,0.212,.+.
+vandetanib,"VEGFR, EGFR and RET inhibitor",,0.21100000000000002,,ctrp_vandetanib,0.211,.+.
+lovastatin,"HMG-CoA reductase inhibitor,",,0.21,,ctrp_lovastatin,0.21,.+.
+sid 26681509,Not Clinically Relevant,,0.209,,ctrp_SID 26681509,0.209,.+.
+ml210,Not Clinically Relevant,,0.20800000000000002,,ctrp_ML210,0.208,.+.
+sns-032,"CDK inhibitor, esp CDK2 , 7 and 9 ",,0.20199999999999999,,ctrp_SNS-032,0.202,.+.
+sepantronium bromide,"YM155 (Sepantronium Bromide), survivin suppressant ",0.198,,,gdsc_Sepantronium bromide,0.198,+..
+tw-37,Not Clinically Relevant,,0.198,,ctrp_TW-37,0.198,.+.
+ml320,Not Clinically Relevant,,0.19699999999999998,,ctrp_ML320,0.197,.+.
+"1s,3r-rsl-3",Not Clinically Relevant,,0.19,,"ctrp_1S,3R-RSL-3",0.19,.+.
+brd-k63431240,Not Clinically Relevant,,0.187,,ctrp_BRD-K63431240,0.187,.+.
+brd4132,Not Clinically Relevant,,0.182,,ctrp_BRD4132,0.182,.+.
+thz-2-102-1,Not Clinically Relevant,0.18100000000000002,,,gdsc_THZ-2-102-1,0.181,+..
+l-685458,Not Clinically Relevant,,0.309,-0.205,ccle_L-685458,0.052,.+-
+etoposide,Topo II inhibitor,-0.2,0.29100000000000004,,gdsc_Etoposide,0.046,-+.
+paclitaxel,disrupts microtubule dynamics,-0.305,0.244,0.185,gdsc_Paclitaxel,0.041,-++
+serdemetan,"(JNJ-26854165) Mdm2 antagonist, stabilizes p53",-0.35200000000000004,0.41200000000000003,,gdsc_Serdemetan,0.03,-+.
+raf265,inhibitor of C-Raf/B-Raf/B-Raf V600E,,0.258,-0.20199999999999999,ccle_RAF265,0.028,.+-
+gemcitabine,"Nucleoside analog,incorporation into DNA creates an irreparable error that leads to inhibition of further DNA synthesis",-0.23,0.257,,gdsc_Gemcitabine,0.013,-+.
+entinostat,HDAC inhibitor,-0.248,0.271,,gdsc_Entinostat,0.012,-+.
+doxorubicin,"Topo II inhibitor, DNA intercalator",-0.237,0.257,,gdsc_Doxorubicin,0.01,-+.
+pik-93,Not Clinically Relevant,-0.28300000000000003,0.278,,gdsc_PIK-93,-0.003,-+.
+bi-2536,"Plk1 inhibitor, less active against Plk2 and Plk3.",-0.264,0.258,,gdsc_BI-2536,-0.003,-+.
+sn-38,"Topo I inhibitor, active metabolite of irinotecan but 1000 times more active",-0.317,0.307,,gdsc_SN-38,-0.005,-+.
+sorafenib,"VEGFR, PDGFR and Raf (c-Raf) inhibitor",-0.486,0.251,0.20199999999999999,gdsc_Sorafenib,-0.011,-++
+mg-132,Not Clinically Relevant,-0.353,0.33,,gdsc_MG-132,-0.011,-+.
+nutlin-3,"Mdm2 antagonist, stabilizes p53 ",,0.252,-0.278,ccle_Nutlin-3,-0.013,.+-
+olaparib,PARP Inhibitor,-0.39899999999999997,0.359,,gdsc_Olaparib,-0.02,-+.
+tamoxifen,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes",-0.381,0.33899999999999997,,gdsc_Tamoxifen,-0.021,-+.
+azd7762, Chk1 / Chk2 inhibitor,-0.301,0.257,,gdsc_AZD7762,-0.022,-+.
+snx-2112,Not Clinically Relevant,-0.255,0.209,,gdsc_SNX-2112,-0.023,-+.
+mk-2206,Akt1/2/3 inhibitor,-0.32299999999999995,0.275,,gdsc_MK-2206,-0.024,-+.
+zstk474,"PI3K inhibitor, inhibits all four PI3K isoforms, but most active against PI3Kδ",-0.319,0.26899999999999996,,gdsc_ZSTK474,-0.025,-+.
+docetaxel,inhibits microtubule dynamics; semi-synthetic analogue of paclitaxel,-0.327,0.245,,gdsc_Docetaxel,-0.041,-+.
+piperlongumine,Not Clinically Relevant,-0.34600000000000003,0.258,,gdsc_Piperlongumine,-0.044,-+.
+azd8055,mTOR inhibitor,-0.321,0.23,,gdsc_AZD8055,-0.046,-+.
+sunitinib,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3",-0.387,0.294,,gdsc_Sunitinib,-0.047,-+.
+dabrafenib,Braf (V600E) inhibitor,-0.5489999999999999,0.45,,gdsc_Dabrafenib,-0.049,-+.
+cabozantinib,"MET, AXL, VEGFR and RET inhibitor",-0.40399999999999997,0.28300000000000003,,gdsc_Cabozantinib,-0.06,-+.
+osi-930," inhibitor of Kit, KDR and CSF-1R; also potent to Flt-1, c-Raf and Lck",-0.387,0.26,,gdsc_OSI-930,-0.064,-+.
+ku-55933,Not Clinically Relevant,-0.451,0.314,,gdsc_KU-55933,-0.068,-+.
+bms-536924,Not Clinically Relevant,-0.386,0.251,,gdsc_BMS-536924,-0.068,-+.
+nvp-tae684,Not Clinically Relevant,-0.419,0.28,,gdsc_NVP-TAE684,-0.069,-+.
+chir-99021,Not Clinically Relevant,-0.396,0.249,,gdsc_CHIR-99021,-0.074,-+.
+temozolomide,alkylating agent,-0.405,0.25,,gdsc_Temozolomide,-0.078,-+.
+bortezomib,proteasome inhibitor (Velcade),-0.39899999999999997,0.24100000000000002,,gdsc_Bortezomib,-0.079,-+.
+temsirolimus,Not Clinically Relevant,-0.40399999999999997,0.239,,gdsc_Temsirolimus,-0.082,-+.
+pevonedistat,"(MLN4924), inhibitor of NEDD8-activating enzyme (NAE)",-0.382,0.20800000000000002,,gdsc_Pevonedistat,-0.087,-+.
+plx-4720,Not Clinically Relevant,-0.517,0.344,,gdsc_PLX-4720,-0.087,-+.
+bexarotene,"retinoid that selectively activates retinoid X receptors (RXRs), induces cell differentiation and apoptosis ",-0.516,0.332,,gdsc_Bexarotene,-0.092,-+.
+masitinib,"tyrosine-kinase inhibitor used in the treatment of mast cell tumors in animals, specifically dogs",-0.444,0.259,,gdsc_Masitinib,-0.092,-+.
+pazopanib,"KIT, FGFR, PDGFR and VEGFR inhibitor",-0.467,0.276,,gdsc_Pazopanib,-0.096,-+.
+azd6482,"PI3Kβ inhibitor, less active against PI3Kδ, PI3Kα and PI3Kγ ",-0.462,0.255,,gdsc_AZD6482,-0.104,-+.
+parthenolide,Not Clinically Relevant,-0.467,0.254,,gdsc_Parthenolide,-0.107,-+.
+tivozanib,VEGFR inhibitor,-0.502,0.28800000000000003,,gdsc_Tivozanib,-0.107,-+.
+pac-1,Not Clinically Relevant,-0.496,0.23399999999999999,,gdsc_PAC-1,-0.131,-+.
+crizotinib,"ALK, ROS1 and MET inhibitor",-0.5870000000000001,0.297,,gdsc_Crizotinib,-0.145,-+.
+bec,Not Clinically Relevant,,-0.175,,ctrp_BEC,-0.175,.-.
+linifanib,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R",-0.586,0.23,,gdsc_Linifanib,-0.178,-+.
+brd-k71935468,Not Clinically Relevant,,-0.179,,ctrp_BRD-K71935468,-0.179,.-.
+khs101,Not Clinically Relevant,,-0.195,,ctrp_KHS101,-0.195,.-.
+sr8278,Not Clinically Relevant,,-0.213,,ctrp_SR8278,-0.213,.-.
+mitomycin-c,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis",-0.214,,,gdsc_Mitomycin-C,-0.214,-..
+brd-k97651142,Not Clinically Relevant,,-0.21600000000000003,,ctrp_BRD-K97651142,-0.216,.-.
+brd-k33514849,Not Clinically Relevant,,-0.22,,ctrp_BRD-K33514849,-0.22,.-.
+neratinib,Her2 and EGFR inhibitor,,-0.22399999999999998,,ctrp_neratinib,-0.224,.-.
+austocystin d,Not Clinically Relevant,,-0.225,,ctrp_austocystin D,-0.225,.-.
+dacinostat,Not Clinically Relevant,-0.226,,,gdsc_Dacinostat,-0.226,-..
+bafilomycin a1,Not Clinically Relevant,,-0.228,,ctrp_bafilomycin A1,-0.228,.-.
+zd-6474,"VEGFR, EGFR and RET inhibitor",,,-0.228,ccle_ZD-6474,-0.228,..-
+col-3,matrix metalloproteinase (MMP) inhibitor,,-0.228,,ctrp_COL-3,-0.228,.-.
+betulinic acid,Not Clinically Relevant,,-0.23,,ctrp_betulinic acid,-0.23,.-.
+ql-xii-47,Not Clinically Relevant,-0.23,,,gdsc_QL-XII-47,-0.23,-..
+ipa-3,Not Clinically Relevant,-0.23,,,gdsc_IPA-3,-0.23,-..
+pd-0332991,CDK4/6 inhibitor,,,-0.23199999999999998,ccle_PD-0332991,-0.232,..-
+tl-1-85,Not Clinically Relevant,-0.23199999999999998,,,gdsc_TL-1-85,-0.232,-..
+valdecoxib,"NSAID used in the treatment of osteoarthritis, rheumatoid arthritis",,-0.233,,ctrp_valdecoxib,-0.233,.-.
+pd-0325901,Not Clinically Relevant,,,-0.23399999999999999,ccle_PD-0325901,-0.234,..-
+17-aag,Not Clinically Relevant,,,-0.235,ccle_17-AAG,-0.235,..-
+azd0530,"kinase inhibitor, with selectivity against Src and Bcr-Abl",,,-0.235,ccle_AZD0530,-0.235,..-
+brd8958,Not Clinically Relevant,,-0.23600000000000002,,ctrp_BRD8958,-0.236,.-.
+cp466722,Not Clinically Relevant,-0.237,,,gdsc_CP466722,-0.237,-..
+gsk690693,Not Clinically Relevant,-0.23800000000000002,,,gdsc_GSK690693,-0.238,-..
+brd-k09344309,Not Clinically Relevant,,-0.24,,ctrp_BRD-K09344309,-0.24,.-.
+gw843682x,Not Clinically Relevant,-0.24,,,gdsc_GW843682X,-0.24,-..
+ver-155008,Not Clinically Relevant,,-0.242,,ctrp_VER-155008,-0.242,.-.
+brd-k48334597,Not Clinically Relevant,,-0.245,,ctrp_BRD-K48334597,-0.245,.-.
+ly-2157299,Not Clinically Relevant,,-0.24600000000000002,,ctrp_LY-2157299,-0.246,.-.
+xmd8-92,Not Clinically Relevant,-0.247,,,gdsc_XMD8-92,-0.247,-..
+phenformin,Anti-diabetic AMPK Activator - mTOR Inhibitor - Autophagy inducer,-0.248,,,gdsc_Phenformin,-0.248,-..
+tosedostat,inhibitor of the M1 family of aminopeptidases,,-0.25,,ctrp_tosedostat,-0.25,.-.
+fumonisin b1,Not Clinically Relevant,,-0.25,,ctrp_fumonisin B1,-0.25,.-.
+ng-25,Not Clinically Relevant,-0.254,,,gdsc_NG-25,-0.254,-..
+vinorelbine,Not Clinically Relevant,-0.255,,,gdsc_Vinorelbine,-0.255,-..
+sb590885,Not Clinically Relevant,-0.256,,,gdsc_SB590885,-0.256,-..
+camptothecin,Not Clinically Relevant,-0.257,,,gdsc_Camptothecin,-0.257,-..
+thz-2-49,Not Clinically Relevant,-0.259,,,gdsc_THZ-2-49,-0.259,-..
+pd318088,Not Clinically Relevant,,-0.259,,ctrp_PD318088,-0.259,.-.
+nelarabine,"purine nucleoside analog, which causes inhibition of DNA synthesis and cytotoxicity",,-0.26,,ctrp_nelarabine,-0.26,.-.
+canertinib,"pan-ErbB inhibitor for EGFR and ErbB2,  no activity to PDGFR, FGFR, InsR, PKC, or CDK1/2/4. ",,-0.26,,ctrp_canertinib,-0.26,.-.
+gsk-j4,Not Clinically Relevant,,-0.263,,ctrp_GSK-J4,-0.263,.-.
+jq1,Not Clinically Relevant,-0.265,,,gdsc_JQ1,-0.265,-..
+lestauritinib,Not Clinically Relevant,-0.265,,,gdsc_Lestauritinib,-0.265,-..
+azd6244,MEK1 inhibitor,,,-0.265,ccle_AZD6244,-0.265,..-
+avicin d,Not Clinically Relevant,,-0.266,,ctrp_avicin D,-0.266,.-.
+brd-k96431673,Not Clinically Relevant,,-0.266,,ctrp_BRD-K96431673,-0.266,.-.
+elesclomol,Not Clinically Relevant,-0.266,,,gdsc_Elesclomol,-0.266,-..
+omipalisib,Not Clinically Relevant,-0.266,,,gdsc_Omipalisib,-0.266,-..
+pfi-1,Not Clinically Relevant,-0.267,,,gdsc_PFI-1,-0.267,-..
+at-7519,Not Clinically Relevant,-0.268,,,gdsc_AT-7519,-0.268,-..
+brd-k27986637,Not Clinically Relevant,,-0.26899999999999996,,ctrp_BRD-K27986637,-0.269,.-.
+gsk4112,Not Clinically Relevant,,-0.27,,ctrp_GSK4112,-0.27,.-.
+vinblastine,"disrupts microtubule dynamics; vinca alkaloid, chemical analogue of vincristine",-0.27,,,gdsc_Vinblastine,-0.27,-..
+brd-k50799972,Not Clinically Relevant,,-0.271,,ctrp_BRD-K50799972,-0.271,.-.
+gdc-0879,Not Clinically Relevant,,-0.271,,ctrp_GDC-0879,-0.271,.-.
+abiraterone,steroidal CYP17A1 inhibitor and androgen synthesis inhibitor ,,-0.272,,ctrp_abiraterone,-0.272,.-.
+bx796,Not Clinically Relevant,-0.272,,,gdsc_BX796,-0.272,-..
+a-804598,Not Clinically Relevant,,-0.273,,ctrp_A-804598,-0.273,.-.
+cid-5951923,Not Clinically Relevant,,-0.27399999999999997,,ctrp_CID-5951923,-0.274,.-.
+brd-k71781559,Not Clinically Relevant,,-0.275,,ctrp_BRD-K71781559,-0.275,.-.
+myriocin,Not Clinically Relevant,,-0.275,,ctrp_myriocin,-0.275,.-.
+bay-61-3606,Not Clinically Relevant,-0.275,,,gdsc_BAY-61-3606,-0.275,-..
+erismodegib,Hedgehog (Smoothened) antagonist (LDE225),,-0.275,,ctrp_erismodegib,-0.275,.-.
+sj-172550,Not Clinically Relevant,,-0.275,,ctrp_SJ-172550,-0.275,.-.
+epothilone b,Not Clinically Relevant,-0.27699999999999997,,,gdsc_Epothilone B,-0.277,-..
+triptolide,"diterpenoid epoxide from thunder god vine, may act on the XBP helicase that is a part of the TFIIH transcription factor complex",,-0.278,,ctrp_triptolide,-0.278,.-.
+s-trityl-l-cysteine,Not Clinically Relevant,-0.27899999999999997,,,gdsc_S-Trityl-L-cysteine,-0.279,-..
+c6-ceramide,Not Clinically Relevant,,-0.28,,ctrp_C6-ceramide,-0.28,.-.
+plx4720,Not Clinically Relevant,,,-0.281,ccle_PLX4720,-0.281,..-
+npc-26,Not Clinically Relevant,,-0.281,,ctrp_NPC-26,-0.281,.-.
+gsk650394,Not Clinically Relevant,-0.281,,,gdsc_GSK650394,-0.281,-..
+azacitidine,"Nucleoside analog, inhibitor of DNA methylation and DNA/RNA synthesis (Vidaza)",,-0.28300000000000003,,ctrp_azacitidine,-0.283,.-.
+brd-k04800985,Not Clinically Relevant,,-0.28300000000000003,,ctrp_BRD-K04800985,-0.283,.-.
+brd-k33199242,Not Clinically Relevant,,-0.284,,ctrp_BRD-K33199242,-0.284,.-.
+saracatinib,"kinase inhibitor, with selectivity against Src and Bcr-Abl",-0.322,-0.245,,gdsc_Saracatinib,-0.284,--.
+dmog,Not Clinically Relevant,-0.285,,,gdsc_DMOG,-0.285,-..
+kin001-244,Not Clinically Relevant,-0.28600000000000003,,,gdsc_KIN001-244,-0.286,-..
+fsc231,Not Clinically Relevant,,-0.28600000000000003,,ctrp_FSC231,-0.286,.-.
+way-362450,Not Clinically Relevant,,-0.28600000000000003,,ctrp_WAY-362450,-0.286,.-.
+lapatinib,HER2/EGFR inhibitor,-0.302,-0.28600000000000003,-0.282,gdsc_Lapatinib,-0.29,---
+ifosfamide,"alkylating agent, nitrogen mustard family, works by disrupting the duplication of DNA and the creation of RNA",,-0.29,,ctrp_ifosfamide,-0.29,.-.
+ic-87114,Not Clinically Relevant,,-0.29100000000000004,,ctrp_IC-87114,-0.291,.-.
+vaf-347,Not Clinically Relevant,,-0.293,,ctrp_VAF-347,-0.293,.-.
+ml334 diastereomer,Not Clinically Relevant,,-0.293,,ctrp_ML334 diastereomer,-0.293,.-.
+nilotinib,"inhibits the kinases BCR-ABL,[26] KIT, LCK, EPHA3, EPHA8, DDR1, DDR2, PDGFRB, MAPK11 and ZAK",-0.23600000000000002,-0.34,-0.303,ctrp_nilotinib,-0.293,---
+brd-k48477130,Not Clinically Relevant,,-0.294,,ctrp_BRD-K48477130,-0.294,.-.
+yk-4-279,Not Clinically Relevant,-0.295,,,gdsc_YK-4-279,-0.295,-..
+cmk,Not Clinically Relevant,-0.297,,,gdsc_CMK,-0.297,-..
+pf-543,Not Clinically Relevant,,-0.302,,ctrp_PF-543,-0.302,.-.
+mi-1,Not Clinically Relevant,,-0.302,,ctrp_MI-1,-0.302,.-.
+jq12,Not Clinically Relevant,-0.303,,,gdsc_JQ12,-0.303,-..
+a-443654,Not Clinically Relevant,-0.305,,,gdsc_A-443654,-0.305,-..
+as605240,Not Clinically Relevant,-0.307,,,gdsc_AS605240,-0.307,-..
+brd-a05715709,Not Clinically Relevant,,-0.308,,ctrp_BRD-A05715709,-0.308,.-.
+osu-03012,Not Clinically Relevant,-0.308,,,gdsc_OSU-03012,-0.308,-..
+brd-k02251932,Not Clinically Relevant,,-0.308,,ctrp_BRD-K02251932,-0.308,.-.
+procarbazine,alkylating agent,,-0.31,,ctrp_procarbazine,-0.31,.-.
+brd-k64610608,Not Clinically Relevant,,-0.313,,ctrp_BRD-K64610608,-0.313,.-.
+dasatinib,"BCR-Abl, Src, c-Kit inhibitor",-0.34700000000000003,-0.27899999999999997,,gdsc_Dasatinib,-0.313,--.
+bcl-lzh-4,Not Clinically Relevant,,-0.314,,ctrp_BCL-LZH-4,-0.314,.-.
+palbociclib,CDK4/6 inhibitor,-0.314,,,gdsc_Palbociclib,-0.314,-..
+brd-k16147474,Not Clinically Relevant,,-0.315,,ctrp_BRD-K16147474,-0.315,.-.
+cytarabine,"antimetabolite, causes DNA damage,  inhibits both DNA and RNA polymerases and nucleotide reductase enzymes needed for DNA synthesis",-0.316,,,gdsc_Cytarabine,-0.316,-..
+erlotinib,EGFR inhibitor (Tarceva),-0.317,-0.32,-0.314,ctrp_erlotinib,-0.317,---
+pyrimethamine,Not Clinically Relevant,-0.318,,,gdsc_Pyrimethamine,-0.318,-..
+cbb-1007,Not Clinically Relevant,,-0.318,,ctrp_CBB-1007,-0.318,.-.
+aica ribonucleotide,Not Clinically Relevant,-0.32,,,gdsc_AICA Ribonucleotide,-0.32,-..
+cct-018159,Not Clinically Relevant,-0.32,,,gdsc_CCT-018159,-0.32,-..
+ibrutinib,BTK kinase inhibitor,,-0.32,,ctrp_ibrutinib,-0.32,.-.
+trametinib,MEK inhibitor (MEK1 and MEK2),-0.375,-0.266,,gdsc_Trametinib,-0.32,--.
+seliciclib,Not Clinically Relevant,-0.321,,,gdsc_Seliciclib,-0.321,-..
+bleomycin (50 um),Not Clinically Relevant,-0.321,,,gdsc_Bleomycin (50 uM),-0.321,-..
+wh-4-023,Not Clinically Relevant,-0.321,,,gdsc_WH-4-023,-0.321,-..
+thapsigargin,Not Clinically Relevant,-0.322,,,gdsc_Thapsigargin,-0.322,-..
+brd-k09587429,Not Clinically Relevant,,-0.322,,ctrp_BRD-K09587429,-0.322,.-.
+luminespib,Not Clinically Relevant,-0.32299999999999995,,,gdsc_Luminespib,-0.323,-..
+istradefylline,"adenosine A2A receptor antagonist, useful in the treatment of Parkinson's disease",,-0.325,,ctrp_istradefylline,-0.325,.-.
+pictilisib,"Pictilisib, potent inhibitor of PI3Kα/δ, with modest selectivity against p110β (11-fold) and p110γ",-0.325,,,gdsc_Pictilisib,-0.325,-..
+embelin,Not Clinically Relevant,-0.326,,,gdsc_Embelin,-0.326,-..
+dactolisib,PI3K/mTOR inhibitor,-0.326,,,gdsc_Dactolisib,-0.326,-..
+sb-431542,Not Clinically Relevant,,-0.32799999999999996,,ctrp_SB-431542,-0.328,.-.
+ipr-456,Not Clinically Relevant,,-0.32899999999999996,,ctrp_IPR-456,-0.329,.-.
+ponatinib,Bcr-abl inhibitor,-0.33,,,gdsc_Ponatinib,-0.33,-..
+rita,Not Clinically Relevant,,-0.331,,ctrp_RITA,-0.331,.-.
+midostaurin,Not Clinically Relevant,-0.33299999999999996,,,gdsc_Midostaurin,-0.333,-..
+pd0325901,Not Clinically Relevant,-0.33299999999999996,,,gdsc_PD0325901,-0.333,-..
+etomoxir,"agonist of PPARα, inhibitor of carnitine palmitoyltransferase-1 (CPT-1)",,-0.33399999999999996,,ctrp_etomoxir,-0.334,.-.
+zebularine,Not Clinically Relevant,,-0.33399999999999996,,ctrp_zebularine,-0.334,.-.
+brd9647,Not Clinically Relevant,,-0.335,,ctrp_BRD9647,-0.335,.-.
+shikonin,Not Clinically Relevant,-0.336,,,gdsc_Shikonin,-0.336,-..
+xmd11-85h,Not Clinically Relevant,-0.337,,,gdsc_XMD11-85h,-0.337,-..
+pf-562271,Not Clinically Relevant,-0.337,,,gdsc_PF-562271,-0.337,-..
+gsk269962a,Not Clinically Relevant,-0.33899999999999997,,,gdsc_GSK269962A,-0.339,-..
+salubrinal,Not Clinically Relevant,-0.33899999999999997,,,gdsc_Salubrinal,-0.339,-..
+brd-k52037352,Not Clinically Relevant,,-0.342,,ctrp_BRD-K52037352,-0.342,.-.
+tgx221,Not Clinically Relevant,-0.344,,,gdsc_TGX221,-0.344,-..
+tanespimycin,HSP90 inhibitor,-0.467,-0.225,,gdsc_Tanespimycin,-0.346,--.
+obatoclax mesylate,Not Clinically Relevant,-0.34600000000000003,,,gdsc_Obatoclax Mesylate,-0.346,-..
+veliparib,PARP inhibitor.,-0.447,-0.24600000000000002,,gdsc_Veliparib,-0.347,--.
+bleomycin,"Induces DNA strand breaks, inhibits incorporation of thymidine into DNA strands.",-0.348,,,gdsc_Bleomycin,-0.348,-..
+refametinib,Not Clinically Relevant,-0.349,,,gdsc_Refametinib,-0.349,-..
+a-770041,Not Clinically Relevant,-0.349,,,gdsc_A-770041,-0.349,-..
+birinapant,"SMAC mimetic, mostly to cIAP1, less potent against XIAP.",,-0.35200000000000004,,ctrp_birinapant,-0.352,.-.
+enzastaurin,Not Clinically Relevant,-0.353,,,gdsc_Enzastaurin,-0.353,-..
+tipifarnib,Not Clinically Relevant,-0.354,,,gdsc_Tipifarnib,-0.354,-..
+zibotentan,Not Clinically Relevant,-0.355,,,gdsc_Zibotentan,-0.355,-..
+lenalidomide,"derivative of thalidomide, which interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma",-0.35700000000000004,,,gdsc_Lenalidomide,-0.357,-..
+akt inhibitor viii,Not Clinically Relevant,-0.36,,,gdsc_AKT inhibitor VIII,-0.36,-..
+bicalutamide,"antiandrogen, used to treat prostate cancer",-0.36,,,gdsc_Bicalutamide,-0.36,-..
+(5z)-7-oxozeaenol,Not Clinically Relevant,-0.36200000000000004,,,gdsc_(5Z)-7-Oxozeaenol,-0.362,-..
+ql-viii-58,Not Clinically Relevant,-0.363,,,gdsc_QL-VIII-58,-0.363,-..
+as601245,Not Clinically Relevant,-0.36700000000000005,,,gdsc_AS601245,-0.367,-..
+sgc0946,Not Clinically Relevant,-0.37,,,gdsc_SGC0946,-0.37,-..
+unc1215,Not Clinically Relevant,-0.373,,,gdsc_UNC1215,-0.373,-..
+nvp-bhg712,Not Clinically Relevant,-0.373,,,gdsc_NVP-BHG712,-0.373,-..
+bms-509744,Not Clinically Relevant,-0.374,,,gdsc_BMS-509744,-0.374,-..
+isonicotinohydroxamic acid,Not Clinically Relevant,,-0.374,,ctrp_isonicotinohydroxamic acid,-0.374,.-.
+bosutinib,"BCR-Abl, Src, Lyn and Hck inhibitor",-0.517,-0.242,,gdsc_Bosutinib,-0.38,--.
+fh535,Not Clinically Relevant,-0.38,,,gdsc_FH535,-0.38,-..
+hg6-64-1,Not Clinically Relevant,-0.38299999999999995,,,gdsc_HG6-64-1,-0.383,-..
+selumetinib,MEK1 inhibitor,-0.536,-0.237,,gdsc_Selumetinib,-0.386,--.
+pf-4800567 hydrochloride,Not Clinically Relevant,,-0.387,,ctrp_PF-4800567 hydrochloride,-0.387,.-.
+lfm-a13,Not Clinically Relevant,-0.387,,,gdsc_LFM-A13,-0.387,-..
+t0901317,Not Clinically Relevant,-0.389,,,gdsc_T0901317,-0.389,-..
+fr-180204,Not Clinically Relevant,-0.391,,,gdsc_FR-180204,-0.391,-..
+jnk-9l,Not Clinically Relevant,-0.392,,,gdsc_JNK-9L,-0.392,-..
+o-6-benzylguanine,"guanine analog, binds the DNA repair enzyme O(6)-alkylguanine DNA alkyltransferase (AGT) resulting in inhibition of AGT-mediated DNA repair",,-0.395,,ctrp_O-6-benzylguanine,-0.395,.-.
+cgp-082996,Not Clinically Relevant,-0.396,,,gdsc_CGP-082996,-0.396,-..
+eht-1864,Not Clinically Relevant,-0.397,,,gdsc_EHT-1864,-0.397,-..
+avagacestat,Not Clinically Relevant,-0.39899999999999997,,,gdsc_Avagacestat,-0.399,-..
+jw-7-52-1,Not Clinically Relevant,-0.4,,,gdsc_JW-7-52-1,-0.4,-..
+xmd8-85,Not Clinically Relevant,-0.4,,,gdsc_XMD8-85,-0.4,-..
+cct007093,Not Clinically Relevant,-0.401,,,gdsc_CCT007093,-0.401,-..
+selisistat,SIRT1 inhibitor,-0.402,,,gdsc_Selisistat,-0.402,-..
+stf-62247,Not Clinically Relevant,-0.40299999999999997,,,gdsc_STF-62247,-0.403,-..
+gefitinib,EGFR inhibitor (Iressa),-0.5379999999999999,-0.271,,gdsc_Gefitinib,-0.404,--.
+cgp-60474,Not Clinically Relevant,-0.40399999999999997,,,gdsc_CGP-60474,-0.404,-..
+ci-1040,Not Clinically Relevant,-0.405,,,gdsc_CI-1040,-0.405,-..
+kin001-236,Not Clinically Relevant,-0.406,,,gdsc_KIN001-236,-0.406,-..
+pf-4708671,Not Clinically Relevant,-0.40700000000000003,,,gdsc_PF-4708671,-0.407,-..
+gsk1904529a,Not Clinically Relevant,-0.40700000000000003,,,gdsc_GSK1904529A,-0.407,-..
+doramapimod,Not Clinically Relevant,-0.409,,,gdsc_Doramapimod,-0.409,-..
+z-llnle-cho,Not Clinically Relevant,-0.41100000000000003,,,gdsc_Z-LLNle-CHO,-0.411,-..
+sl0101,Not Clinically Relevant,-0.41100000000000003,,,gdsc_SL0101,-0.411,-..
+jnk inhibitor viii,Not Clinically Relevant,-0.41200000000000003,,,gdsc_JNK Inhibitor VIII,-0.412,-..
+nsc-87877,Not Clinically Relevant,-0.413,,,gdsc_NSC-87877,-0.413,-..
+pha-665752,Not Clinically Relevant,-0.545,,-0.284,gdsc_PHA-665752,-0.414,-.-
+xmd15-27,Not Clinically Relevant,-0.414,,,gdsc_XMD15-27,-0.414,-..
+fti-277,Not Clinically Relevant,-0.42100000000000004,,,gdsc_FTI-277,-0.421,-..
+nu7441,Not Clinically Relevant,-0.428,,,gdsc_NU7441,-0.428,-..
+fmk,Not Clinically Relevant,-0.433,,,gdsc_FMK,-0.433,-..
+bix02189,Not Clinically Relevant,-0.434,,,gdsc_BIX02189,-0.434,-..
+ro-3306,Not Clinically Relevant,-0.436,,,gdsc_RO-3306,-0.436,-..
+afatinib,EGFR and ErbB2 inhibitor,-0.574,-0.303,,gdsc_Afatinib,-0.438,--.
+iox2,Not Clinically Relevant,-0.439,,,gdsc_IOX2,-0.439,-..
+motesanib,Not Clinically Relevant,-0.441,,,gdsc_Motesanib,-0.441,-..
+whi-p97,Not Clinically Relevant,-0.445,,,gdsc_WHI-P97,-0.445,-..
+tozasertib,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C",-0.45,,,gdsc_Tozasertib,-0.45,-..
+bryostatin 1,Not Clinically Relevant,-0.451,,,gdsc_Bryostatin 1,-0.451,-..
+tak-715,Not Clinically Relevant,-0.451,,,gdsc_TAK-715,-0.451,-..
+vismodegib,Hedgehog (Smoothened) antagonist (GDC-0449),-0.456,,,gdsc_Vismodegib,-0.456,-..
+rapamycin,"rapamycin, mTOR inhibitor",-0.46,,,gdsc_Rapamycin,-0.46,-..
+xav939,Not Clinically Relevant,-0.466,,,gdsc_XAV939,-0.466,-..
+ruxolitinib,"JAK1/2 inhibitor, used for myelofibrosis and polycythemia vera",-0.626,-0.306,,gdsc_Ruxolitinib,-0.466,--.
+az628,Not Clinically Relevant,-0.47,,,gdsc_AZ628,-0.47,-..
+sb216763,Not Clinically Relevant,-0.473,,,gdsc_SB216763,-0.473,-..
+xmd14-99,Not Clinically Relevant,-0.49200000000000005,,,gdsc_XMD14-99,-0.492,-..
+cp724714,Not Clinically Relevant,-0.49200000000000005,,,gdsc_CP724714,-0.492,-..
+wz-1-84,Not Clinically Relevant,-0.512,,,gdsc_WZ-1-84,-0.512,-..
+rtrail,Not Clinically Relevant,-0.516,,,gdsc_rTRAIL,-0.516,-..
+qs11,Not Clinically Relevant,-0.517,,,gdsc_QS11,-0.517,-..
+681640,Not Clinically Relevant,-0.518,,,gdsc_681640,-0.518,-..
+ql-xi-92,Not Clinically Relevant,-0.518,,,gdsc_QL-XI-92,-0.518,-..
+pelitinib,Not Clinically Relevant,-0.519,,,gdsc_Pelitinib,-0.519,-..
+cetuximab,Not Clinically Relevant,-0.52,,,gdsc_Cetuximab,-0.52,-..
+gnf-2,Not Clinically Relevant,-0.5379999999999999,,,gdsc_GNF-2,-0.538,-..
+idelalisib,"Idelalisib,  PI3K/p110δ inhibitor",-0.5479999999999999,,,gdsc_Idelalisib,-0.548,-..
+cyclopamine,Not Clinically Relevant,-0.557,,,gdsc_Cyclopamine,-0.557,-..
+kin001-260,Not Clinically Relevant,-0.56,,,gdsc_KIN001-260,-0.56,-..
+nutlin-3a (-),Not Clinically Relevant,-0.564,,,gdsc_Nutlin-3a (-),-0.564,-..
+y-39983,Not Clinically Relevant,-0.565,,,gdsc_Y-39983,-0.565,-..
+vx-11e,Not Clinically Relevant,-0.583,,,gdsc_VX-11e,-0.583,-..
+pd173074,Not Clinically Relevant,-0.618,,,gdsc_PD173074,-0.618,-..
+vnlg/124,Not Clinically Relevant,-0.625,,,gdsc_VNLG/124,-0.625,-..
+gw441756,Not Clinically Relevant,-0.639,,,gdsc_GW441756,-0.639,-..
+alectinib,"ALK inhibitor, used to treat non-small-cell lung cancer (NSCLC)",-0.6859999999999999,,,gdsc_Alectinib,-0.686,-..
