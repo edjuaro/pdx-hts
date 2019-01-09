@@ -1,0 +1,229 @@
+drug,score,moa
+lenalidomide,0.993,"derivative of thalidomide, which interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma"
+iobenguane,0.988,"radiopharmaceutical, radiolabeled molecule similar to noradrenaline"
+lapatinib,0.982,HER2/EGFR inhibitor
+sitagliptin,0.973,"used for Treating type 2 diabetes, works by increasing the amount of insulin released by your body"
+TG100-115,0.960,PI3Kγ/δ inhibitor
+hydrocortisone,0.948,Anti-inflammatory
+alisertib,0.942,Aurora A kinase inhibitor
+vinorelbine,0.937,disrupts microtubule dynamics; natural product
+tretinoin,0.935,Retinoid
+vincristine,0.935,"binds tubulin, disrupts microtubule dynamics"
+idarubicin,0.933,"Topo II inhibitor, intercalates into DNA, anthracycline"
+thiotepa,0.930,"alkylating agent, ethylenimine family, causes crosslinks in DNA, which prevents DNA replication and DNA transcription"
+mitotane,0.914,"steroidogenesis inhibitor, cytostatic drug used in the treatment of adrenocortical carcinoma "
+sorafenib,0.913,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
+GSK-461364,0.912,"Plk1 inhibitor, less active against Plk2 and Plk3."
+cladribine,0.905,"purine analog, inhibits adenosine deaminase, which interferes with DNA sythesis. Used for leukemia"
+mercaptopurine,0.870,"purine antagonist, competes with hypoxanthine and guanine for the enzyme HGPRT"
+exemestane,0.858,"aromatase inhibitor, blocks conversion of androgens to estrogens"
+raltitrexed,0.854,"antimetabolite,  inhibitor of thymidylate synthase"
+barasertib,0.828,highly selective Aurora B kinase inhibitor
+semaxanib,0.821,"fusion protein analog of thrombopoietin, used to treat chronic immune thrombocytopenia"
+hydrocortisone,0.821,Anti-inflammatory
+JNJ-26854165,0.818,"(JNJ-26854165) Mdm2 antagonist, stabilizes p53"
+vinorelbine,0.818,disrupts microtubule dynamics; natural product
+escitalopram,0.815,Selective Serotonin Reuptake Inhibitor (SSRI)
+ON-01910,0.812,"ON-01910, Plk-1 inhibitor"
+mitomycin-c,0.803,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis"
+fludarabine,0.798,"purine analog, inhibits DNA synthesis by interfering with ribonucleotide reductase and DNA polymerase."
+obatoclax,0.793,Bcl-2 antagonist
+irinotecan,0.788,"aka CPT-11, inhibitor of Topo I"
+tamoxifen,0.776,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+hyperforin,0.776,"Active ingredient in St. John's Wort, blocks reuptake of of serotonin, norepinephrine, dopamine and GABA"
+gossypol,0.770,"Natural product, may function to inhibit Bcl2 family members"
+etoposide,0.769,Topo II inhibitor
+chlorambucil,0.754,"alkylates and cross-links DNA, interfering with DNA replication and damaging the DNA"
+toremifene,0.742,selective estrogen receptor modulator (SERM) which helps oppose the actions of estrogen
+sunitinib,0.737,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
+sirolimus,0.726,"rapamycin, mTOR inhibitor"
+hydrocortisone,0.706,Anti-inflammatory
+axitinib,0.702,"VEGFR, c-KIT and PDGFR inhibitor"
+lapatinib,0.698,HER2/EGFR inhibitor
+cimetidine,0.695,(Tagamet) Antacid and antihistamine
+sirolimus,0.664,"rapamycin, mTOR inhibitor"
+anagrelide,0.660,"phosphodiesterase inhibitor, inhibits maturation of platelets, used for CML"
+amsacrine,0.657,"Intercalator, inhibits Topo II and blocks both DNA replication and transcription, used in ALL"
+olaparib,0.653,PARP Inhibitor
+dexamethasone,0.652,"synthetic corticosteroid, used to reduce inflammation"
+tacrolimus,0.650,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
+vemurafenib,0.644,BRAF (V600E) inhibitor
+docetaxel,0.638,inhibits microtubule dynamics; semi-synthetic analogue of paclitaxel
+etoposide,0.619,Topo II inhibitor
+vincristine,0.617,"binds tubulin, disrupts microtubule dynamics"
+nilotinib,0.613,"inhibits the kinases BCR-ABL,[26] KIT, LCK, EPHA3, EPHA8, DDR1, DDR2, PDGFRB, MAPK11 and ZAK"
+temozolomide,0.608,alkylating agent
+ABT-737,0.606,Bcl-2/Bcl-xL inhibitor
+carmofur,0.604,"derivative of fluorouracil, pyrimidine analog"
+tretinoin,0.600,Retinoid
+aprepitant,0.594,"an antiemetic, mediates its effect by blocking the neurokinin 1 (NK1) receptor"
+altretamine,0.578,alkylating antineoplastic agent
+nilutamide,0.576," synthetic, non-steroidal antiandrogen, selective antagonist of the androgen receptor,  used for metastatic prostate cancer"
+sildenafil,0.554,"Viagra, used to treat erectile dysfunction and pulmonary arterial hypertension"
+gemcitabine,0.553,"Nucleoside analog,incorporation into DNA creates an irreparable error that leads to inhibition of further DNA synthesis"
+streptozotocin,0.552,"pancreatic beta cell toxin, used to treat metastatic cancer of pancreatic islet cells."
+teniposide,0.538,Topo II inhibitor
+vorinostat,0.530,HDAC inhibitor (SAHA)
+dexamethasone,0.528,"synthetic corticosteroid, used to reduce inflammation"
+dexamethasone,0.526,"synthetic corticosteroid, used to reduce inflammation"
+pirfenidone,0.522, antifibrotic and anti-inflammatory
+formestane,0.511,"steroidal, selective aromatase inhibitor, used for ER+ Breast cancer"
+methotrexate,0.510,"antimetabolite, competitively inhibits dihydrofolate reductase (DHFR), inhibits synthesis of DNA, RNA, thymidylates, and proteins"
+etomoxir,0.494,"agonist of PPARα, inhibitor of carnitine palmitoyltransferase-1 (CPT-1)"
+tacrolimus,0.481,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
+capecitabine,0.476,"Capecitabine is metabolised to 5-FU, a thymidylate synthase inhibitor, which inhibits DNA synthesis"
+sildenafil,0.475,"Viagra, used to treat erectile dysfunction and pulmonary arterial hypertension"
+vinblastine,0.461,"disrupts microtubule dynamics; vinca alkaloid, chemical analogue of vincristine"
+rucaparib,0.456,"PARP inhibitor, inhibits DNA repair"
+hydrocortisone,0.439,Anti-inflammatory
+palonosetron,0.419, 5-HT3 antagonist used in the prevention and treatment of chemotherapy-induced nausea and vomiting
+CS-1657,0.415,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (β5) site of the 20S proteasome "
+cinacalcet,0.388,Calcium reducer (increases  sensitivity of calcium receptors on parathyroid cells to reduce parathyroid hormone (PTH) levels and thus decrease serum calcium)
+vincristine,0.384,"binds tubulin, disrupts microtubule dynamics"
+tamoxifen,0.378,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+exemestane,0.374,"aromatase inhibitor, blocks conversion of androgens to estrogens"
+megestrol,0.367,steroidal progestin used in the treatment of breast and endometrial cancer
+serdemetan,0.357,"(JNJ-26854165) Mdm2 antagonist, stabilizes p53"
+clofarabine,0.339,purine nucleoside antimetabolite
+paclitaxel,0.336,disrupts microtubule dynamics
+canertinib,0.326,"pan-ErbB inhibitor for EGFR and ErbB2,  no activity to PDGFR, FGFR, InsR, PKC, or CDK1/2/4. "
+vinorelbine,0.294,disrupts microtubule dynamics; natural product
+decitabine,0.279,"Nucleoside analog, inhibitor of DNA methylation and DNA synthesis (Dacogen)"
+thalidomide,0.277,"interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma"
+brivanib,0.265,"multitargeted tyrosine kinase inhibitor, esp VEGFR and FGFR"
+raloxifene,0.253," selective estrogen receptor modulator (SERM), has estrogenic actions on bone and anti-estrogenic actions on uterus and breast"
+procarbazine,0.231,alkylating agent
+sorafenib,0.222,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
+megestrol,0.202,steroidal progestin used in the treatment of breast and endometrial cancer
+YM-155,0.194,"YM155 (Sepantronium Bromide), survivin suppressant "
+fulvestrant,0.182,selective estrogen receptor degrader (SERD)
+prednisone,0.167,synthetic corticosteroid
+abiraterone,0.156,steroidal CYP17A1 inhibitor and androgen synthesis inhibitor 
+floxuridine,0.151,"antimetabolite,  catabolized to 5-fluorouracil"
+alfuzosin,0.139,"alpha-blocker. Causes smooth muscles in the bladder neck and prostate to relax, whcih improves urine flow and reduces the symptoms of BPH."
+bicalutamide,0.133,"antiandrogen, used to treat prostate cancer"
+MLN-2238,0.116,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (β5) site of the 20S proteasome "
+belinostat,0.111,HDAC inhibitor (PXD101)
+itraconazole,0.108,"Anti-fungal, hedgehog antagonist"
+navitoclax,0.101,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w"
+cytarabine,0.095,"antimetabolite, causes DNA damage,  inhibits both DNA and RNA polymerases and nucleotide reductase enzymes needed for DNA synthesis"
+niclosamide,0.094,"used to treat tapeworm infestations,  inhibits glucose uptake, oxidative phosphorylation, and anaerobic metabolism in the tapeworm"
+tacrolimus,0.084,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
+vinblastine,0.073,"disrupts microtubule dynamics; vinca alkaloid, chemical analogue of vincristine"
+SN-38,0.045,"Topo I inhibitor, active metabolite of irinotecan but 1000 times more active"
+palbociclib,-0.101,CDK4/6 inhibitor
+sirolimus,-0.108,"rapamycin, mTOR inhibitor"
+masitinib,-0.112,"tyrosine-kinase inhibitor used in the treatment of mast cell tumors in animals, specifically dogs"
+sirolimus,-0.156,"rapamycin, mTOR inhibitor"
+panobinostat,-0.170,HDAC inhibitor
+selumetinib,-0.229,MEK1 inhibitor
+dexamethasone,-0.229,"synthetic corticosteroid, used to reduce inflammation"
+ondansetron,-0.250,"selective serotonin 5-HT3 receptor antagonist ,used to prevent nausea and vomiting caused by chemotherapy and radiotherapy"
+floxuridine,-0.274,"antimetabolite,  catabolized to 5-fluorouracil"
+cediranib,-0.278,VEGFR inhibitor
+simvastatin,-0.280,"HMG-CoA reductase inhibitor,"
+MLN-4924,-0.291,"(MLN4924), inhibitor of NEDD8-activating enzyme (NAE)"
+goserelin,-0.298,"decapeptide, synthetic analog of LHRH, suppresses production of testosterone and estrogen"
+azacitidine,-0.313,"Nucleoside analog, inhibitor of DNA methylation and DNA/RNA synthesis (Vidaza)"
+bromfenac,-0.319,"Nonsteroidal anti-Inflammatory drug, used to treat inflammation, esp in the eye"
+toremifene,-0.324,selective estrogen receptor modulator (SERM) which helps oppose the actions of estrogen
+dexamethasone,-0.326,"synthetic corticosteroid, used to reduce inflammation"
+valdecoxib,-0.337,"NSAID used in the treatment of osteoarthritis, rheumatoid arthritis"
+hydrocortisone,-0.346,Anti-inflammatory
+darinaparsin,-0.347,organic arsenic compound composed of dimethylated arsenic linked to glutathione
+pazopanib,-0.357,"KIT, FGFR, PDGFR and VEGFR inhibitor"
+triptolide,-0.366,"diterpenoid epoxide from thunder god vine, may act on the XBP helicase that is a part of the TFIIH transcription factor complex"
+fludarabine,-0.384,"purine analog, inhibits DNA synthesis by interfering with ribonucleotide reductase and DNA polymerase."
+tandutinib,-0.395,"FLT3 antagonist, also inhibits PDGFR and c-Kit, "
+tamibarotene,-0.424,"retinobenzoic acid, synthetic retinoid used to treat APL"
+anastrozole,-0.439,"aromatase inhibitor, blocks conversion of androgens to estrogens"
+imiquimod,-0.443,"immune response modifier, used to treat genital warts, superficial basal cell carcinoma, and actinic keratosis. "
+simvastatin,-0.446,"HMG-CoA reductase inhibitor,"
+temsirolimus,-0.462,mTOR inhibitor
+cyproterone,-0.475,steroidal antiandrogen
+tozasertib,-0.486,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C"
+lovastatin,-0.487,"HMG-CoA reductase inhibitor,"
+mesna,-0.493,used to decrease the risk of bleeding from the bladder after cyclophosphamide
+sunitinib,-0.496,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
+flutamide,-0.501,"nonsteroidal antiandrogen (NSAA), used primarily to treat prostate cancer"
+aminoglutethimide,-0.503,"anti-steroid, used in the treatment of metastatic breast cancer"
+imatinib,-0.510,"Bcr-abl, c-kit and PDGFR inhibitor"
+PHA-793887,-0.517,"CDK inhibitor, esp CDK2, CDK5 and CDK7"
+tamoxifen,-0.520,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+homoharringtonine,-0.554,"natural product, protein translation inhibitor, used for myeloid leukemia"
+neratinib,-0.558,Her2 and EGFR inhibitor
+daunorubicin,-0.563,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+dactinomycin,-0.567,inhibits transcription by binding DNA at the transcription initiation complex and preventing elongation of RNA chain by RNA polymerase
+quizartinib,-0.581,Flt3 inhibitor
+pidorubicine,-0.581,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+AZD-6482,-0.590,"PI3Kβ inhibitor, less active against PI3Kδ, PI3Kα and PI3Kγ "
+entinostat,-0.591,HDAC inhibitor
+curcumin,-0.593,"Natural Product, component of turmeric, may function as HDAC inhibitor"
+cyclophosphamide,-0.605,"alkylating agent, nitrogen mustard family, works by disrupting the duplication of DNA and the creation of RNA (Cytoxan)"
+dactinomycin,-0.607,inhibits transcription by binding DNA at the transcription initiation complex and preventing elongation of RNA chain by RNA polymerase
+alvocidib,-0.611,"Flavopiridol, CDK inhibitor, works against CDK1, 2, 4, 6 and 9"
+AZD-8055,-0.612,mTOR inhibitor
+erismodegib,-0.617,Hedgehog (Smoothened) antagonist (LDE225)
+daunorubicin,-0.621,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+mitomycin-c,-0.634,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis"
+linifanib,-0.648,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R"
+crizotinib,-0.651,"ALK, ROS1 and MET inhibitor"
+paclitaxel,-0.658,disrupts microtubule dynamics
+MK-1775,-0.664,Wee1 kinase inhibitor
+doxorubicin,-0.665,"Topo II inhibitor, DNA intercalator"
+hydrocortisone,-0.669,Anti-inflammatory
+afatinib,-0.675,EGFR and ErbB2 inhibitor
+TG-101348,-0.681,JAK2 inhibitor
+tegafur,-0.682,"antimetabolite, 5-fluorouracil analog, slowly metabolized to 5-FU"
+riluzole,-0.686,"Blocks TTX-sensitive sodium channels, and kainate and NMDA glutamate receptors"
+trifluoperazine,-0.696,"antipsychotic, antiadrenergic and antidopaminergic. Blocks dopamine D1 and D2 receptors "
+fulvestrant,-0.699,selective estrogen receptor degrader (SERD)
+everolimus,-0.704,mTOR inhibitor (RAD001)
+topotecan,-0.714,Topo I inhibitor
+daunorubicin,-0.720,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+granisetron,-0.721,5-HT3 receptor antagonist used as an antiemetic
+topotecan,-0.721,Topo I inhibitor
+fluvastatin,-0.722,"HMG-CoA reductase inhibitor,"
+homoharringtonine,-0.729,"natural product, protein translation inhibitor, used for myeloid leukemia"
+dexamethasone,-0.730,"synthetic corticosteroid, used to reduce inflammation"
+mitoxantrone,-0.730,Topoisomerase II inhibitor; disrupts DNA synthesis and DNA repair 
+hydrocortisone,-0.733,Anti-inflammatory
+megestrol,-0.740,steroidal progestin used in the treatment of breast and endometrial cancer
+prochlorperazine,-0.767,"dopamine (D2) receptor antagonist, used for treatment of nausea and vertigo."
+tivozanib,-0.768,VEGFR inhibitor
+bosutinib,-0.779,"BCR-Abl, Src, Lyn and Hck inhibitor"
+gefitinib,-0.807,EGFR inhibitor (Iressa)
+phenformin,-0.807,Anti-diabetic AMPK Activator - mTOR Inhibitor - Autophagy inducer
+doxorubicin,-0.808,"Topo II inhibitor, DNA intercalator"
+letrozole,-0.816,"nonsteroidal aromatase inhibitor, prevents estrogen production, used for breast cancer"
+doxorubicin,-0.821,"Topo II inhibitor, DNA intercalator"
+pirarubicin,-0.825,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+methoxsalen,-0.827,used for skin diseases such as vitiligo and psoriasis
+dasatinib,-0.831,"BCR-Abl, Src, c-Kit inhibitor"
+tofacitinib,-0.833,JAK Kinase inhibitor
+MK-2206,-0.838,Akt1/2/3 inhibitor
+fludarabine,-0.846,"purine analog, inhibits DNA synthesis by interfering with ribonucleotide reductase and DNA polymerase."
+saracatinib,-0.847,"kinase inhibitor, with selectivity against Src and Bcr-Abl"
+busulfan,-0.850,"alkylating agent, forms DNA-DNA intrastrand crosslinks, prevents DNA replication"
+triptolide,-0.850,"diterpenoid epoxide from thunder god vine, may act on the XBP helicase that is a part of the TFIIH transcription factor complex"
+sirolimus,-0.865,"rapamycin, mTOR inhibitor"
+etomoxir,-0.870,"agonist of PPARα, inhibitor of carnitine palmitoyltransferase-1 (CPT-1)"
+propranolol,-0.871,"beta-blocker, used to treat high blood pressure, may have anti-cancer activity"
+erlotinib,-0.876,EGFR inhibitor (Tarceva)
+sulindac,-0.878,Nonsteroidal anti-Inflammatory drug
+BI-2536,-0.878,"Plk1 inhibitor, less active against Plk2 and Plk3."
+GSK-1059615,-0.882,PI3Kα/β/δ/γ and mTOR inhibitor
+cimetidine,-0.908,(Tagamet) Antacid and antihistamine
+idarubicin,-0.920,"Topo II inhibitor, intercalates into DNA, anthracycline"
+NVP-BEZ235,-0.920,PI3K/mTOR inhibitor
+tozasertib,-0.921,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C"
+linsitinib,-0.923,IGF-1R inhibitor
+GDC-0941,-0.927,"Pictilisib, potent inhibitor of PI3Kα/δ, with modest selectivity against p110β (11-fold) and p110γ"
+OSI-027,-0.930,mTORC1 and mTORC2 inhibitor
+AZD-7762,-0.944, Chk1 / Chk2 inhibitor
+veliparib,-0.957,PARP inhibitor.
+metformin,-0.961,Anti-diabetic AMPK Activator - mTOR Inhibitor - Autophagy inducer
+docetaxel,-0.971,inhibits microtubule dynamics; semi-synthetic analogue of paclitaxel
+ZSTK-474,-0.977,"PI3K inhibitor, inhibits all four PI3K isoforms, but most active against PI3Kδ"
+ruxolitinib,-0.981,"JAK1/2 inhibitor, used for myelofibrosis and polycythemia vera"
+ubenimex,-0.982,"inhibitor of the proinflammatory mediator, LTB4. Adjunct to chemotherapy for acute non-lymphocytic leukemia"
