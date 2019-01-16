@@ -19,8 +19,8 @@ hydrocortisone,0.902,Anti-inflammatory
 alisertib,0.898,Aurora A kinase inhibitor
 dexamethasone,0.886,"synthetic corticosteroid, used to reduce inflammation"
 cladribine,0.886,"purine analog, inhibits adenosine deaminase, which interferes with DNA sythesis. Used for leukemia"
-tacrolimus,0.877,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
 tamoxifen,0.877,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+tacrolimus,0.877,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
 sorafenib,0.864,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
 vinorelbine,0.863,disrupts microtubule dynamics; natural product
 dexamethasone,0.847,"synthetic corticosteroid, used to reduce inflammation"
@@ -163,8 +163,8 @@ selumetinib,-0.617,MEK1 inhibitor
 everolimus,-0.628,mTOR inhibitor (RAD001)
 flutamide,-0.631,"nonsteroidal antiandrogen (NSAA), used primarily to treat prostate cancer"
 TG-101348,-0.636,JAK2 inhibitor
-tamoxifen,-0.660,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
 AZD-6482,-0.660,"PI3Kβ inhibitor, less active against PI3Kδ, PI3Kα and PI3Kγ "
+tamoxifen,-0.660,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
 ondansetron,-0.666,"selective serotonin 5-HT3 receptor antagonist ,used to prevent nausea and vomiting caused by chemotherapy and radiotherapy"
 linifanib,-0.686,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R"
 mesna,-0.694,used to decrease the risk of bleeding from the bladder after cyclophosphamide
@@ -218,8 +218,8 @@ metformin,-0.930,Anti-diabetic AMPK Activator - mTOR Inhibitor - Autophagy indu
 paclitaxel,-0.935,disrupts microtubule dynamics
 fluvastatin,-0.937,"HMG-CoA reductase inhibitor,"
 GDC-0941,-0.943,"Pictilisib, potent inhibitor of PI3Kα/δ, with modest selectivity against p110β (11-fold) and p110γ"
-NVP-BEZ235,-0.943,PI3K/mTOR inhibitor
 pirarubicin,-0.943,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+NVP-BEZ235,-0.943,PI3K/mTOR inhibitor
 tivozanib,-0.948,VEGFR inhibitor
 AZD-7762,-0.953, Chk1 / Chk2 inhibitor
 GSK-1059615,-0.966,PI3Kα/β/δ/γ and mTOR inhibitor

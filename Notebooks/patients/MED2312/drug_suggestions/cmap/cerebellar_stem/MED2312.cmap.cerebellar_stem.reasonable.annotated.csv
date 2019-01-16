@@ -29,8 +29,8 @@ dexamethasone,0.826,"synthetic corticosteroid, used to reduce inflammation"
 escitalopram,0.820,Selective Serotonin Reuptake Inhibitor (SSRI)
 carmofur,0.818,"derivative of fluorouracil, pyrimidine analog"
 gemcitabine,0.793,"Nucleoside analog,incorporation into DNA creates an irreparable error that leads to inhibition of further DNA synthesis"
-exemestane,0.788,"aromatase inhibitor, blocks conversion of androgens to estrogens"
 toremifene,0.788,selective estrogen receptor modulator (SERM) which helps oppose the actions of estrogen
+exemestane,0.788,"aromatase inhibitor, blocks conversion of androgens to estrogens"
 dexamethasone,0.784,"synthetic corticosteroid, used to reduce inflammation"
 iobenguane,0.780,"radiopharmaceutical, radiolabeled molecule similar to noradrenaline"
 raloxifene,0.777," selective estrogen receptor modulator (SERM), has estrogenic actions on bone and anti-estrogenic actions on uterus and breast"
@@ -87,11 +87,11 @@ BI-2536,0.275,"Plk1 inhibitor, less active against Plk2 and Plk3."
 capecitabine,0.266,"Capecitabine is metabolised to 5-FU, a thymidylate synthase inhibitor, which inhibits DNA synthesis"
 methotrexate,0.260,"antimetabolite, competitively inhibits dihydrofolate reductase (DHFR), inhibits synthesis of DNA, RNA, thymidylates, and proteins"
 clofarabine,0.259,purine nucleoside antimetabolite
-tacrolimus,0.257,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
 prednisone,0.257,synthetic corticosteroid
+tacrolimus,0.257,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
 ABT-737,0.244,Bcl-2/Bcl-xL inhibitor
-goserelin,0.231,"decapeptide, synthetic analog of LHRH, suppresses production of testosterone and estrogen"
 tegafur,0.231,"antimetabolite, 5-fluorouracil analog, slowly metabolized to 5-FU"
+goserelin,0.231,"decapeptide, synthetic analog of LHRH, suppresses production of testosterone and estrogen"
 tacrolimus,0.220,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
 megestrol,0.215,steroidal progestin used in the treatment of breast and endometrial cancer
 tamibarotene,0.208,"retinobenzoic acid, synthetic retinoid used to treat APL"

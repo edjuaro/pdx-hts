@@ -1,5 +1,5 @@
 # copyright 2017-2018 Regents of the University of California and the Broad Institute. All rights reserved.
-#version 1.0
+#version 2.0
 FROM jupyter/datascience-notebook:1085ca054a5f
 
 MAINTAINER Edwin Juarez <ejuarez@ucsd.edu>
@@ -46,4 +46,4 @@ RUN jupyter nbextension enable execute_time/ExecuteTime --user
 USER $NB_USER
 
 # build using this:
-# docker build -t edjuaro/pdx-hts-base:1.0 .
+# docker build -t edjuaro/pdx-hts-base:2.0 .

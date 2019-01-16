@@ -126,8 +126,8 @@ sirolimus,-0.170,"rapamycin, mTOR inhibitor"
 sunitinib,-0.188,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
 decitabine,-0.194,"Nucleoside analog, inhibitor of DNA methylation and DNA synthesis (Dacogen)"
 afatinib,-0.202,EGFR and ErbB2 inhibitor
-navitoclax,-0.203,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w"
 palbociclib,-0.203,CDK4/6 inhibitor
+navitoclax,-0.203,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w"
 cinacalcet,-0.219,Calcium reducer (increases  sensitivity of calcium receptors on parathyroid cells to reduce parathyroid hormone (PTH) levels and thus decrease serum calcium)
 gefitinib,-0.220,EGFR inhibitor (Iressa)
 erismodegib,-0.222,Hedgehog (Smoothened) antagonist (LDE225)
@@ -146,8 +146,8 @@ darinaparsin,-0.331,organic arsenic compound composed of dimethylated arsenic li
 vinblastine,-0.358,"disrupts microtubule dynamics; vinca alkaloid, chemical analogue of vincristine"
 bicalutamide,-0.371,"antiandrogen, used to treat prostate cancer"
 homoharringtonine,-0.377,"natural product, protein translation inhibitor, used for myeloid leukemia"
-busulfan,-0.377,"alkylating agent, forms DNA-DNA intrastrand crosslinks, prevents DNA replication"
 sirolimus,-0.377,"rapamycin, mTOR inhibitor"
+busulfan,-0.377,"alkylating agent, forms DNA-DNA intrastrand crosslinks, prevents DNA replication"
 PHA-793887,-0.379,"CDK inhibitor, esp CDK2, CDK5 and CDK7"
 doxorubicin,-0.389,"Topo II inhibitor, DNA intercalator"
 dactinomycin,-0.393,inhibits transcription by binding DNA at the transcription initiation complex and preventing elongation of RNA chain by RNA polymerase

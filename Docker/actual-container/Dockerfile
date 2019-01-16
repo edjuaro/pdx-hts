@@ -1,6 +1,6 @@
 # copyright 2017-2018 Regents of the University of California and the Broad Institute. All rights reserved.
-#version 1.0
-FROM edjuaro/pdx-hts-base:1.0
+#version 3.0
+FROM edjuaro/pdx-hts-base:2.0
 
 MAINTAINER Edwin Juarez <ejuarez@ucsd.edu>
 
@@ -34,4 +34,4 @@ RUN Rscript /build/source/install_libraries.R
 USER $NB_USER
 
 # build using this:
-# docker build -t edjuaro/pdx-hts:2.0 .
+# docker build -t edjuaro/pdx-hts:3.0 .

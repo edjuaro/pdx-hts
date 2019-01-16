@@ -77,8 +77,8 @@ entinostat,0.449,HDAC inhibitor
 ABT-737,0.445,Bcl-2/Bcl-xL inhibitor
 exemestane,0.445,"aromatase inhibitor, blocks conversion of androgens to estrogens"
 sirolimus,0.442,"rapamycin, mTOR inhibitor"
-pirfenidone,0.400, antifibrotic and anti-inflammatory
 doxorubicin,0.400,"Topo II inhibitor, DNA intercalator"
+pirfenidone,0.400, antifibrotic and anti-inflammatory
 obatoclax,0.400,Bcl-2 antagonist
 CS-1657,0.399,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (β5) site of the 20S proteasome "
 axitinib,0.360,"VEGFR, c-KIT and PDGFR inhibitor"
@@ -141,8 +141,8 @@ methoxsalen,-0.339,used for skin diseases such as vitiligo and psoriasis
 palonosetron,-0.341, 5-HT3 antagonist used in the prevention and treatment of chemotherapy-induced nausea and vomiting
 tandutinib,-0.368,"FLT3 antagonist, also inhibits PDGFR and c-Kit, "
 triptolide,-0.375,"diterpenoid epoxide from thunder god vine, may act on the XBP helicase that is a part of the TFIIH transcription factor complex"
-sirolimus,-0.383,"rapamycin, mTOR inhibitor"
 PHA-793887,-0.383,"CDK inhibitor, esp CDK2, CDK5 and CDK7"
+sirolimus,-0.383,"rapamycin, mTOR inhibitor"
 linifanib,-0.384,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R"
 hydrocortisone,-0.385,Anti-inflammatory
 tamibarotene,-0.399,"retinobenzoic acid, synthetic retinoid used to treat APL"

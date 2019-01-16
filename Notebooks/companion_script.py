@@ -201,9 +201,9 @@ def average_disease_rank(df,rank_name):
 
 
 def rank_cell_lines(setup):
-    # first load some dictionaries
-    cid2dic = pickle.load(file=open('discover_temp/cellosaurus/cellosaurus_cosmic_id_dic.p','rb'))
-    name2dic = pickle.load(file=open('discover_temp/cellosaurus/cellosaurus_name_dic.p','rb'))
+    # first load some dictionaries -- this load assumes container edjuaro/pdx-hts:3.0 or later
+    cid2dic = pickle.load(file=open('/build/drug_suggestion/expression/discover/cellosaurus/cellosaurus_cosmic_id_dic.p','rb'))
+    name2dic = pickle.load(file=open('/build/drug_suggestion/expression/discover/cellosaurus/cellosaurus_name_dic.p','rb'))
 
     # CCLE
     ccle = pd.read_csv(os.path.join(setup.discover_out_dir,"cell_lines_IDs_and_types_ccle.csv"),index_col=0)

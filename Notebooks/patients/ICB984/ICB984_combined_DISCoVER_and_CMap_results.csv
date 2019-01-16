@@ -63,9 +63,9 @@ talazoparib,gdsc_Talazoparib,Not Clinically Relevant,0.39299999999999996,,,0.393
 brd-k26531177,ctrp_BRD-K26531177,Not Clinically Relevant,,0.392,,0.392,,.+..,45,210,45.0
 vemurafenib,cmap_vemurafenib,BRAF (V600E) inhibitor,,,,,0.51,...+,698,45,45.0
 brd-k51490254,ctrp_BRD-K51490254,Not Clinically Relevant,,0.391,,0.391,,.+..,46,211,46.0
-cct036477,ctrp_CCT036477,Not Clinically Relevant,,0.39,,0.39,,.+..,47,212,47.0
+prima-1-met,ctrp_PRIMA-1-Met,Not Clinically Relevant,,0.389,,0.389,,.+..,47,212,47.0
 exemestane,cmap_exemestane,"aromatase inhibitor, blocks conversion of androgens to estrogens",,,,,0.48350000000000004,...++,697,47,47.0
-prima-1-met,ctrp_PRIMA-1-Met,Not Clinically Relevant,,0.389,,0.389,,.+..,48,213,48.0
+cct036477,ctrp_CCT036477,Not Clinically Relevant,,0.389,,0.389,,.+..,48,213,48.0
 tipifarnib-p1,ctrp_tipifarnib-P1,Not Clinically Relevant,,0.389,,0.389,,.+..,49,214,49.0
 unc1215,gdsc_UNC1215,Not Clinically Relevant,0.38799999999999996,,,0.388,,+...,50,215,50.0
 ml050,ctrp_ML050,Not Clinically Relevant,,0.387,,0.387,,.+..,51,216,51.0

@@ -5,8 +5,8 @@ sb52334,gdsc_SB52334,Not Clinically Relevant,0.562,,,0.562,,+...,3,177,3.0
 thiotepa,cmap_thiotepa,"alkylating agent, ethylenimine family, causes crosslinks in DNA, which prevents DNA replication and DNA transcription",,,,,0.9590000000000001,...+,673,4,4.0
 gsk429286a,gdsc_GSK429286A,Not Clinically Relevant,0.556,,,0.556,,+...,4,178,4.0
 vx-702,gdsc_VX-702,Not Clinically Relevant,0.552,,,0.552,,+...,5,179,5.0
-raltitrexed,cmap_raltitrexed,"antimetabolite,  inhibitor of thymidylate synthase",,,,,0.951,...+,676,5,5.0
-escitalopram,cmap_escitalopram,Selective Serotonin Reuptake Inhibitor (SSRI),,,,,0.951,...+,675,6,6.0
+escitalopram,cmap_escitalopram,Selective Serotonin Reuptake Inhibitor (SSRI),,,,,0.951,...+,676,5,5.0
+raltitrexed,cmap_raltitrexed,"antimetabolite,  inhibitor of thymidylate synthase",,,,,0.951,...+,675,6,6.0
 tl-2-105,gdsc_TL-2-105,Not Clinically Relevant,0.5479999999999999,,,0.548,,+...,6,180,6.0
 gw-2580,gdsc_GW-2580,Not Clinically Relevant,0.5479999999999999,,,0.548,,+...,7,181,7.0
 tubastatin a,ctrp_tubastatin A,Not Clinically Relevant,0.599,0.44,,0.52,,++..,9,182,9.0

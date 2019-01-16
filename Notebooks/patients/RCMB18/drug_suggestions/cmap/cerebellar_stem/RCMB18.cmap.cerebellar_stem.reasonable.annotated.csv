@@ -23,8 +23,8 @@ sorafenib,0.904,"VEGFR, PDGFR and Raf (c-Raf) inhibitor"
 tamoxifen,0.903,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
 hydrocortisone,0.890,Anti-inflammatory
 sitagliptin,0.888,"used for Treating type 2 diabetes, works by increasing the amount of insulin released by your body"
-GSK-461364,0.871,"Plk1 inhibitor, less active against Plk2 and Plk3."
 fludarabine,0.871,"purine analog, inhibits DNA synthesis by interfering with ribonucleotide reductase and DNA polymerase."
+GSK-461364,0.871,"Plk1 inhibitor, less active against Plk2 and Plk3."
 chlorambucil,0.869,"alkylates and cross-links DNA, interfering with DNA replication and damaging the DNA"
 teniposide,0.868,Topo II inhibitor
 raloxifene,0.868," selective estrogen receptor modulator (SERM), has estrogenic actions on bone and anti-estrogenic actions on uterus and breast"
@@ -105,8 +105,8 @@ cytarabine,0.305,"antimetabolite, causes DNA damage,  inhibits both DNA and RNA 
 fulvestrant,0.300,selective estrogen receptor degrader (SERD)
 prednisone,0.294,synthetic corticosteroid
 methoxsalen,0.269,used for skin diseases such as vitiligo and psoriasis
-dexamethasone,0.262,"synthetic corticosteroid, used to reduce inflammation"
 aprepitant,0.262,"an antiemetic, mediates its effect by blocking the neurokinin 1 (NK1) receptor"
+dexamethasone,0.262,"synthetic corticosteroid, used to reduce inflammation"
 sunitinib,0.258,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
 topotecan,0.245,Topo I inhibitor
 BI-2536,0.237,"Plk1 inhibitor, less active against Plk2 and Plk3."

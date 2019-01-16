@@ -40,8 +40,8 @@ iobenguane,0.903,"radiopharmaceutical, radiolabeled molecule similar to noradr
 entinostat,0.895,HDAC inhibitor
 doxorubicin,0.891,"Topo II inhibitor, DNA intercalator"
 doxorubicin,0.885,"Topo II inhibitor, DNA intercalator"
-hyperforin,0.880,"Active ingredient in St. John's Wort, blocks reuptake of of serotonin, norepinephrine, dopamine and GABA"
 TG100-115,0.880,PI3Kγ/δ inhibitor
+hyperforin,0.880,"Active ingredient in St. John's Wort, blocks reuptake of of serotonin, norepinephrine, dopamine and GABA"
 tamoxifen,0.873,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
 gossypol,0.873,"Natural product, may function to inhibit Bcl2 family members"
 MLN-2238,0.868,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (β5) site of the 20S proteasome "
@@ -50,8 +50,8 @@ dexamethasone,0.862,"synthetic corticosteroid, used to reduce inflammation"
 thiotepa,0.857,"alkylating agent, ethylenimine family, causes crosslinks in DNA, which prevents DNA replication and DNA transcription"
 belinostat,0.853,HDAC inhibitor (PXD101)
 olaparib,0.852,PARP Inhibitor
-daunorubicin,0.842,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
 linifanib,0.842,"RTK inhibitor, targets VEGFR, PDGFR, KDR, and CSF-1R"
+daunorubicin,0.842,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
 obatoclax,0.827,Bcl-2 antagonist
 alisertib,0.824,Aurora A kinase inhibitor
 niclosamide,0.822,"used to treat tapeworm infestations,  inhibits glucose uptake, oxidative phosphorylation, and anaerobic metabolism in the tapeworm"
@@ -222,8 +222,8 @@ homoharringtonine,-0.951,"natural product, protein translation inhibitor, used
 ruxolitinib,-0.960,"JAK1/2 inhibitor, used for myelofibrosis and polycythemia vera"
 paclitaxel,-0.972,disrupts microtubule dynamics
 linsitinib,-0.978,IGF-1R inhibitor
-bromfenac,-0.981,"Nonsteroidal anti-Inflammatory drug, used to treat inflammation, esp in the eye"
 tozasertib,-0.981,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C"
+bromfenac,-0.981,"Nonsteroidal anti-Inflammatory drug, used to treat inflammation, esp in the eye"
 AZD-7762,-0.982, Chk1 / Chk2 inhibitor
 imiquimod,-0.982,"immune response modifier, used to treat genital warts, superficial basal cell carcinoma, and actinic keratosis. "
 MK-1775,-0.994,Wee1 kinase inhibitor

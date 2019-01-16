@@ -1,0 +1,258 @@
+,mean_rank,weight
+cervix,4.0,3.0
+lung carcinoma,21.0,1.0
+endometrioid stromal sarcoma,28.0,3.0
+adrenal gland,29.0,3.0
+small cell lung carcinoma,38.5,88.0
+pancreatic somatostatinoma,44.0,3.0
+embryonal carcinoma,54.0,1.0
+adrenal gland neuroblastoma,55.0,5.0
+thyroid gland squamous cell carcinoma,56.0,3.0
+medulloblastoma,72.0,8.0
+embryonal rhabdomyosarcoma,74.0,6.0
+lung carcinoid tumor,74.5,6.0
+neuroblastoma,77.0,52.0
+vertebra,77.5,2.0
+brain,83.5,16.0
+gastric adenosquamous carcinoma,83.5,2.0
+testicular embryonal carcinoma,85.0,1.0
+right pararenal lymph node,91.0,2.0
+not specified,94.0,3.0
+hereditary thyroid gland medullary carcinoma,95.0,1.0
+multiple endocrine neoplasia type 2,95.0,1.0
+cervical small cell carcinoma,96.0,1.0
+gastric small cell neuroendocrine carcinoma,103.5,4.0
+right thigh skin,105.0,2.0
+salivary gland squamous cell carcinoma,105.0,3.0
+supraclavicular lymph node,106.0,3.0
+skin nodule,109.0,1.0
+right anterior leg,111.0,3.0
+cervical squamous cell carcinoma,134.0,1.0
+neurofibromatosis type 1,139.0,1.0
+abdomen,140.0,2.0
+ewing sarcoma,142.0,31.0
+mediastinal lymph node,143.0,1.0
+ovarian carcinoma,144.0,6.0
+osteosarcoma,155.0,23.0
+lung mucoepidermoid carcinoma,157.0,3.0
+alveolar rhabdomyosarcoma,162.0,9.0
+prostate carcinoma,167.0,11.0
+high grade ovarian serous adenocarcinoma,169.5,40.0
+papillary renal cell carcinoma,173.0,5.0
+primitive neuroectodermal tumor,174.0,2.0
+pharyngeal squamous cell carcinoma,181.0,3.0
+rhabdomyosarcoma,183.0,4.0
+ovarian granulosa cell tumor,185.0,2.0
+myeloid leukemia associated with down syndrome,185.0,1.0
+astrocytoma,186.0,19.0
+ovarian serous adenocarcinoma,187.0,7.0
+pleural epithelioid mesothelioma,190.0,18.0
+endometrial adenosquamous carcinoma,190.5,6.0
+supra-orbital region,201.0,1.0
+ovarian endometrioid adenocarcinoma,204.0,11.0
+thyroid gland follicular carcinoma,204.5,10.0
+oligodendroglioma,211.0,5.0
+undifferentiated gallbladder carcinoma,215.0,1.0
+pleural sarcomatoid mesothelioma,225.5,8.0
+inguinal lymph node,228.0,3.0
+large cell lung carcinoma,234.5,32.0
+glioblastoma,234.5,84.0
+squamous papilloma,240.0,1.0
+spleen,240.0,3.0
+chondrosarcoma,240.0,10.0
+vaginal melanoma,245.0,1.0
+bone marrow,250.0,65.0
+groin lymph node,254.0,5.0
+peritoneal ascites,257.0,2.0
+skin squamous cell carcinoma,258.0,1.0
+ovarian leiomyosarcoma,270.0,3.0
+thoracic lymph duct,271.0,1.0
+subserosa of fallopian tube,272.0,1.0
+endometrial carcinoma,273.5,8.0
+small intestine,275.0,1.0
+liposarcoma,280.0,1.0
+biphasic synovial sarcoma,286.0,1.0
+squamous cell lung carcinoma,288.5,48.0
+breast carcinoma,289.0,27.0
+bone,290.0,1.0
+esophageal squamous cell carcinoma,291.0,59.0
+adenosquamous lung carcinoma,293.0,9.0
+minimally invasive lung adenocarcinoma,293.5,16.0
+melanoma,296.5,94.0
+ovarian serous cystadenocarcinoma,298.0,4.0
+abdominal wall,298.0,2.0
+lung giant cell carcinoma,298.5,4.0
+benign prostatic hyperplasia,302.0,1.0
+uterine carcinosarcoma,305.0,2.0
+thyroid gland undifferentiated (anaplastic) carcinoma,309.0,13.0
+laryngeal squamous cell carcinoma,310.5,12.0
+ovarian mixed germ cell tumor,311.0,1.0
+renal cell carcinoma,311.0,37.0
+hypopharyngeal squamous cell carcinoma,313.0,5.0
+lymph node,318.0,105.0
+ovarian mucinous adenocarcinoma,324.0,4.0
+pancreatic carcinoma,327.0,12.0
+omentum,334.0,7.0
+"squamous cell breast carcinoma, acantholytic variant",335.0,3.0
+pleural effusion,338.5,224.0
+left leg muscle,339.0,3.0
+bronchogenic carcinoma,340.0,2.0
+subcutaneous,340.0,7.0
+cutaneous melanoma,340.5,26.0
+bladder carcinoma,342.0,51.0
+hepatocellular carcinoma,343.0,51.0
+cervical lymph node,344.0,5.0
+uterine corpus sarcoma,351.0,3.0
+ascites,353.0,103.0
+celiac axis lymph node,357.5,2.0
+erythroleukemia,358.0,3.0
+ovarian cystadenocarcinoma,358.5,6.0
+brca2 syndrome,363.0,1.0
+invasive lobular breast carcinoma,366.0,1.0
+tongue squamous cell carcinoma,376.5,34.0
+clear cell renal cell carcinoma,379.5,18.0
+lung adenocarcinoma,382.0,145.0
+mucinous gastric adenocarcinoma,383.0,3.0
+mycosis fungoides and sezary syndrome,384.0,2.0
+intrahepatic cholangiocarcinoma,385.5,6.0
+ovarian adenocarcinoma,387.0,5.0
+pelvic wall,387.0,3.0
+lung,388.0,7.0
+rectosigmoid adenocarcinoma,388.0,3.0
+pleural biphasic mesothelioma,392.0,7.0
+b acute lymphoblastic leukemia with t(v;11q23) kmt2a rearranged,397.0,3.0
+gingival squamous cell carcinoma,398.0,2.0
+myelodysplastic syndrome,398.0,1.0
+pancreatic adenocarcinoma,400.0,39.0
+adrenal cortex carcinoma,403.0,1.0
+"chronic eosinophilic leukemia, not otherwise specified",405.0,1.0
+bladder squamous cell carcinoma,406.0,3.0
+axillary lymph node,406.0,6.0
+skin,409.0,3.0
+endometrial adenocarcinoma,412.5,34.0
+natural killer cell lymphoblastic leukemia/lymphoma,413.0,1.0
+plasma cell myeloma,413.5,30.0
+fibrosarcoma,415.0,5.0
+"invasive ductal carcinoma, not otherwise specified",417.0,30.0
+ovarian clear cell adenocarcinoma,417.0,13.0
+gastric carcinoma,421.5,12.0
+"childhood chronic myelogenous leukemia, bcr-abl1 positive",423.5,2.0
+marek disease,425.0,1.0
+chronic lymphocytic leukemia,426.0,2.0
+ovarian mucinous cystadenocarcinoma,427.5,2.0
+burkitt lymphoma,429.5,8.0
+pancreatic adenosquamous carcinoma,431.0,5.0
+poorly differentiated thyroid gland carcinoma,432.0,3.0
+malignant ovarian brenner tumor,434.0,1.0
+n/a,436.0,34.0
+breast adenocarcinoma,438.0,23.0
+adult acute monocytic leukemia,438.0,5.0
+amelanotic melanoma,438.0,16.0
+uterine corpus leiomyosarcoma,439.0,3.0
+brachialis muscle,440.0,3.0
+ampulla of vater adenocarcinoma,440.5,2.0
+askin tumor,442.0,2.0
+intraperitoneal,443.0,1.0
+duodenal adenocarcinoma,444.0,1.0
+gastric adenocarcinoma,444.0,26.0
+ductal breast carcinoma,447.5,32.0
+acute myeloid leukemia,449.0,1.0
+vulvar leiomyosarcoma,451.0,3.0
+anaplastic astrocytoma,453.0,5.0
+left supraclavicular lymph node,456.0,4.0
+recurrent bladder carcinoma,458.0,3.0
+non-small cell lung carcinoma,461.5,24.0
+gliosarcoma,463.5,6.0
+hilar cholangiocarcinoma,464.0,1.0
+pelvis; innominate bone,464.5,2.0
+hodgkin lymphoma,465.0,11.0
+obturator lymph node,471.0,3.0
+liver,471.0,32.0
+"chronic myelogenous leukemia, bcr-abl1 positive",472.0,16.0
+diffuse large b-cell lymphoma germinal center b-cell type,473.0,8.0
+cecum adenocarcinoma,474.0,18.0
+gastric tubular adenocarcinoma,475.0,11.0
+oral dysplasia,482.0,1.0
+rhabdoid tumor of the kidney,483.0,3.0
+b acute lymphoblastic leukemia,490.0,5.0
+pancreatic ductal adenocarcinoma,492.0,39.0
+childhood acute myeloid leukemia,498.5,2.0
+cystic fibrosis,502.5,2.0
+"endometrial endometrioid adenocarcinoma, variant with squamous differentiation",504.0,2.0
+undifferentiated pleomorphic sarcoma,504.5,4.0
+lymphoma,507.0,1.0
+human papillomavirus-related endocervical adenocarcinoma,509.0,4.0
+right axillary lymph node,511.0,1.0
+hepatoblastoma,511.0,4.0
+pericardial effusion,512.5,8.0
+cutaneous t-cell non-hodgkin lymphoma,516.5,2.0
+pleural malignant mesothelioma,519.0,5.0
+colon adenocarcinoma,519.0,61.0
+anaplastic large cell lymphoma,524.0,8.0
+down syndrome,532.0,2.0
+mantle cell lymphoma,533.0,6.0
+lymphoblastic lymphoma,533.0,1.0
+b-cell prolymphocytic leukemia,537.0,2.0
+oral cavity squamous cell carcinoma,543.5,6.0
+peripheral blood,544.0,107.0
+childhood t acute lymphoblastic leukemia,544.0,19.0
+familial adenomatous polyposis,546.0,1.0
+colon carcinoma,546.0,19.0
+cholangiocarcinoma,546.5,2.0
+epithelioid cell type gastrointestinal stromal tumor,547.0,3.0
+b-cell non-hodgkin lymphoma,548.0,7.0
+vulvar squamous cell carcinoma,559.0,3.0
+peritoneum,574.0,1.0
+peritoneal effusion,575.5,6.0
+human papillomavirus-related cervical squamous cell carcinoma,577.5,8.0
+epstein-barr virus-related burkitt lymphoma,582.0,10.0
+cerebrospinal fluid,584.0,3.0
+adult t acute lymphoblastic leukemia,587.0,5.0
+head and neck squamous cell carcinoma,592.0,9.0
+barrett adenocarcinoma,595.0,3.0
+childhood t lymphoblastic lymphoma,601.0,2.0
+signet ring cell gastric adenocarcinoma,605.0,9.0
+b acute lymphoblastic leukemia with t(1;19)(q23;p13.3) e2a-pbx1 (tcf3-pbx1),609.5,4.0
+rectal adenocarcinoma,611.0,11.0
+cervical carcinoma,612.0,2.0
+esophageal adenocarcinoma,613.0,9.0
+subcutaneous; right buttock,614.0,3.0
+mediastinal (thymic) large b-cell lymphoma,618.0,1.0
+thigh skin,620.0,1.0
+papillary lung adenocarcinoma,624.0,3.0
+brca1 syndrome,628.0,1.0
+diffuse large b-cell lymphoma,629.5,20.0
+buttock,632.5,2.0
+parotid gland mucoepidermoid carcinoma,636.0,1.0
+gallbladder carcinoma,641.0,2.0
+vulvar carcinoma,641.0,1.0
+buccal mucosa squamous cell carcinoma,644.5,2.0
+hairy cell leukemia,646.0,3.0
+paragastric lymph node,649.5,2.0
+mandible,660.0,1.0
+childhood acute myeloid leukemia with maturation,662.0,1.0
+pyriform fossa squamous cell carcinoma,674.0,1.0
+ovary,691.0,1.0
+thyroid gland sarcoma,698.0,1.0
+adult acute myeloid leukemia,717.0,22.0
+childhood b acute lymphoblastic leukemia,725.0,9.0
+tonsillar squamous cell carcinoma,733.0,1.0
+floor of mouth squamous cell carcinoma,736.0,1.0
+vulvar melanoma,756.0,1.0
+childhood acute monocytic leukemia,761.0,2.0
+hereditary spherocytosis,786.0,1.0
+adult b acute lymphoblastic leukemia,822.0,3.0
+gastric choriocarcinoma,843.0,1.0
+follicular lymphoma,850.5,2.0
+primary effusion lymphoma,861.0,3.0
+squamous cell carcinoma,881.0,1.0
+gestational choriocarcinoma,881.0,2.0
+epithelioid sarcoma,887.0,1.0
+acute promyelocytic leukemia with t(15;17)(q22;q12) pml-rara,895.0,1.0
+diffuse large b-cell lymphoma activated b-cell type,899.0,1.0
+splenic lymphoma with circulating villous lymphocytes,929.0,1.0
+gastric fundus carcinoma,945.0,1.0
+meninges,955.0,1.0
+acute myelomonocytic leukemia,955.0,1.0
+left cervical lymph node,957.0,1.0
+thyroid gland papillary carcinoma,957.0,1.0

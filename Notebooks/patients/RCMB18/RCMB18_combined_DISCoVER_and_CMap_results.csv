@@ -14,7 +14,7 @@ bx-912,gdsc_BX-912,Not Clinically Relevant,0.509,,,0.509,,+...,9,182,9.0
 thiotepa,cmap_thiotepa,"alkylating agent, ethylenimine family, causes crosslinks in DNA, which prevents DNA replication and DNA transcription",,,,,0.929,...+,678,9,9.0
 amuvatinib,gdsc_Amuvatinib,Not Clinically Relevant,0.457,,,0.457,,+...,12,183,12.0
 hg-5-88-01,gdsc_HG-5-88-01,Not Clinically Relevant,0.434,,,0.434,,+...,14,184,14.0
-gsk-461364,cmap_gsk-461364,"Plk1 inhibitor, less active against Plk2 and Plk3.",,,,,0.871,...+,680,14,14.0
+gsk-461364,cmap_gsk-461364,"Plk1 inhibitor, less active against Plk2 and Plk3.",,,,,0.871,...+,681,14,14.0
 gsk319347a,gdsc_GSK319347A,Not Clinically Relevant,0.429,,,0.429,,+...,15,185,15.0
 xmd13-2,gdsc_XMD13-2,Not Clinically Relevant,0.425,,,0.425,,+...,16,186,16.0
 olaparib,gdsc_Olaparib,PARP Inhibitor,0.402,0.40700000000000003,,0.404,0.912,++.+,21,11,16.0
@@ -141,7 +141,7 @@ px-12,ctrp_PX-12,thioredoxin-1 (Trx-1) inhibitor,,0.327,,0.327,,.+..,99,259,99.
 gossypol,ctrp_gossypol,"Natural product, may function to inhibit Bcl2 family members",,0.294,,0.294,0.86,.+.+,180,18,99.0
 brd-k44224150,ctrp_BRD-K44224150,Not Clinically Relevant,,0.326,,0.326,,.+..,100,260,100.0
 foretinib,ctrp_foretinib,c-Met/VEGFR2 inhibitor,,0.326,,0.326,,.+..,101,261,101.0
-fludarabine,cmap_fludarabine,"purine analog, inhibits DNA synthesis by interfering with ribonucleotide reductase and DNA polymerase.",,,,,-0.18775,...+--,681,102,102.0
+fludarabine,cmap_fludarabine,"purine analog, inhibits DNA synthesis by interfering with ribonucleotide reductase and DNA polymerase.",,,,,-0.18775,...+--,680,102,102.0
 brd-k02251932,ctrp_BRD-K02251932,Not Clinically Relevant,,0.325,,0.325,,.+..,103,262,103.0
 omacetaxine mepesuccinate,ctrp_omacetaxine mepesuccinate,"natural product, protein translation inhibitor, used for myeloid leukemia",,0.324,,0.324,,.+..,104,263,104.0
 apicidin,ctrp_apicidin,Not Clinically Relevant,,0.324,,0.324,,.+..,105,264,105.0

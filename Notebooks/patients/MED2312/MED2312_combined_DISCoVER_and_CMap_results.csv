@@ -39,7 +39,7 @@ altretamine,cmap_altretamine,alkylating antineoplastic agent,,,,,0.672,...+,688,
 avrainvillamide,ctrp_avrainvillamide,Not Clinically Relevant,,0.41600000000000004,,0.416,,.+..,28,197,28.0
 vx-680,ctrp_VX-680,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C",,0.415,,0.415,,.+..,29,198,29.0
 brd-k34485477,ctrp_BRD-K34485477,Not Clinically Relevant,,0.414,,0.414,,.+..,30,199,30.0
-exemestane,cmap_exemestane,"aromatase inhibitor, blocks conversion of androgens to estrogens",,,,,0.6655,...++,683,30,30.0
+exemestane,cmap_exemestane,"aromatase inhibitor, blocks conversion of androgens to estrogens",,,,,0.6655,...++,684,30,30.0
 barasertib,ctrp_barasertib,highly selective Aurora B kinase inhibitor,,0.382,,0.382,0.895,.+.+,52,10,31.0
 talazoparib,gdsc_Talazoparib,Not Clinically Relevant,0.409,,,0.409,,+...,31,200,31.0
 anagrelide,cmap_anagrelide,"phosphodiesterase inhibitor, inhibits maturation of platelets, used for CML",,,,,0.662,...+,689,31,31.0
@@ -94,10 +94,10 @@ tacrolimus,ctrp_tacrolimus,"FK-506, immunosuppressive drug usedafter allogeneic 
 prednisone,cmap_prednisone,synthetic corticosteroid,,,,,0.257,...+,703,64,64.0
 mst-312,ctrp_MST-312,Not Clinically Relevant,,0.36700000000000005,,0.367,,.+..,64,229,64.0
 rg-108,ctrp_RG-108,Not Clinically Relevant,,0.36700000000000005,,0.367,,.+..,65,230,65.0
-tegafur,cmap_tegafur,"antimetabolite, 5-fluorouracil analog, slowly metabolized to 5-FU",,,,,0.231,...+,705,66,66.0
+goserelin,cmap_goserelin,"decapeptide, synthetic analog of LHRH, suppresses production of testosterone and estrogen",,,,,0.231,...+,705,66,66.0
 brd-k42260513,ctrp_BRD-K42260513,Not Clinically Relevant,,0.36700000000000005,,0.367,,.+..,66,231,66.0
 darinaparsin,ctrp_darinaparsin,organic arsenic compound composed of dimethylated arsenic linked to glutathione,,0.35200000000000004,,0.352,0.33299999999999996,.+.+,79,55,67.0
-goserelin,cmap_goserelin,"decapeptide, synthetic analog of LHRH, suppresses production of testosterone and estrogen",,,,,0.231,...+,704,67,67.0
+tegafur,cmap_tegafur,"antimetabolite, 5-fluorouracil analog, slowly metabolized to 5-FU",,,,,0.231,...+,704,67,67.0
 o-6-benzylguanine,ctrp_O-6-benzylguanine,"guanine analog, binds the DNA repair enzyme O(6)-alkylguanine DNA alkyltransferase (AGT) resulting in inhibition of AGT-mediated DNA repair",,0.364,,0.364,,.+..,67,232,67.0
 sr1001,ctrp_SR1001,Not Clinically Relevant,,0.363,,0.363,,.+..,68,233,68.0
 tamibarotene,cmap_tamibarotene,"retinobenzoic acid, synthetic retinoid used to treat APL",,,,,0.20800000000000002,...+,707,68,68.0
@@ -108,7 +108,7 @@ isoliquiritigenin,ctrp_isoliquiritigenin,Not Clinically Relevant,,0.362000000000
 vorinostat,ctrp_vorinostat,HDAC inhibitor (SAHA),0.321,0.321,,0.321,0.897,++.+,134,9,71.5
 cinacalcet,cmap_cinacalcet,Calcium reducer (increases  sensitivity of calcium receptors on parathyroid cells to reduce parathyroid hormone (PTH) levels and thus decrease serum calcium),,,,,0.171,...+,709,72,72.0
 ly-2183240,ctrp_LY-2183240,Not Clinically Relevant,,0.361,,0.361,,.+..,73,237,73.0
-toremifene,cmap_toremifene,selective estrogen receptor modulator (SERM) which helps oppose the actions of estrogen,,,,,0.12149999999999994,...+-,684,74,74.0
+toremifene,cmap_toremifene,selective estrogen receptor modulator (SERM) which helps oppose the actions of estrogen,,,,,0.12149999999999994,...+-,683,74,74.0
 brd-k51490254,ctrp_BRD-K51490254,Not Clinically Relevant,,0.359,,0.359,,.+..,74,238,74.0
 epigallocatechin-3-monogallate,ctrp_epigallocatechin-3-monogallate,Not Clinically Relevant,,0.358,,0.358,,.+..,75,239,75.0
 idarubicin,cmap_idarubicin,"Topo II inhibitor, intercalates into DNA, anthracycline",,,,,0.07650000000000001,...+-,674,75,75.0
