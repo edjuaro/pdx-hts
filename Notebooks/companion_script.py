@@ -160,6 +160,137 @@ def rank_drugs_discover(df):
     df['evidence'] = df.drop(['moa','score'],axis=1).apply(supporting_evidence, axis=1)
     return df.sort_values(by=['score'],ascending=False,axis=0)
 
+###===========================================================================
+### for DiSCoVER, added on 2019-01-16=========================================
+###===========================================================================
+def standarize_string(what):
+    ascii_8bit = re.sub(r'[^ -~]', '', what).lower() # keeping only 8-bit ascii, making lowercase (http://www.catonmat.net/blog/my-favorite-regex/)
+    return re.sub(r'[ _-]', '', ascii_8bit) # remove space, underscore, and dash (" _-")
+
+
+# the name of the enrichment is the same as the patient ID which is stored in setup.case_id
+def add_rank(df,by,name):
+    df = df.sort_values(ascending=False, by=by)
+    df[name] = df[by].rank(ascending=False)
+    return df
+
+
+# Take each disease and assign it a rank
+def rank_diseases(df):
+    rank_name = df.columns[-1]
+    new_df = pd.DataFrame()
+    to_add = pd.Series()
+    new_ix = 0
+    for ix,row in df.loc[:,['Disease',rank_name]].iterrows():
+        for disease in row['Disease'].split('__&&__'):
+            to_add['Disease'] = disease
+            to_add[rank_name] = row[rank_name]
+            to_add.name = new_ix
+            new_df = new_df.append(to_add)
+#             print(to_add)
+            new_ix += 1
+    return new_df
+
+
+def average_disease_rank(df,rank_name):
+    new_df = pd.DataFrame()
+    for disease in np.unique(df['Disease']):
+        new_df.loc[disease.lower(),'mean_rank'] = df[df['Disease']==disease].loc[:,rank_name].median()
+        new_df.loc[disease.lower(),'weight'] = len(df[df['Disease']==disease].loc[:,rank_name])
+    return new_df.sort_values(by='mean_rank')
+
+
+def rank_cell_lines(setup):
+    # first load some dictionaries
+    cid2dic = pickle.load(file=open('discover_temp/cellosaurus/cellosaurus_cosmic_id_dic.p','rb'))
+    name2dic = pickle.load(file=open('discover_temp/cellosaurus/cellosaurus_name_dic.p','rb'))
+
+    # CCLE
+    ccle = pd.read_csv(os.path.join(setup.discover_out_dir,"cell_lines_IDs_and_types_ccle.csv"),index_col=0)
+    missing = 0
+    for ix, row in ccle.iterrows():
+        name = standarize_string(ix)
+        try:
+            dic = name2dic[name]
+        except KeyError:
+            missing += 1
+            dic = {}
+            dic['Names'] = ix
+            dic['Disease'] = 'N/A'
+            dic['CellosaurusID'] = 'N/A'
+        ccle.loc[ix,'Names'] = dic['Names']
+        ccle.loc[ix,'CellosaurusID'] = dic['CellosaurusID']
+        ccle.at[ix,'Disease'] = dic['Disease']
+    if missing >0:
+        log(f'CCLE is missing {missing} cell lines (out of {len(ccle)})')
+    ccle.to_excel(os.path.join(setup.discover_out_dir,"processed_cell_lines_info_ccle.xlsx"))
+    # ccle.head()
+
+    #CTRP
+    ctrp = pd.read_csv(os.path.join(setup.discover_out_dir,"cell_lines_IDs_and_types_ctrp.csv"),index_col=0)
+    missing = 0
+    for ix, row in ctrp.iterrows():
+        name = standarize_string(ix)
+        try:
+            dic = name2dic[name]
+        except KeyError:
+            missing += 1
+            dic = {}
+            dic['Names'] = ix
+            dic['Disease'] = 'N/A'
+            dic['CellosaurusID'] = 'N/A'
+        ctrp.loc[ix,'Names'] = dic['Names']
+        ctrp.loc[ix,'CellosaurusID'] = dic['CellosaurusID']
+        ctrp.at[ix,'Disease'] = dic['Disease']
+    if missing >0:
+        log(f'CTRP is missing {missing} cell lines (out of {len(ctrp)})')
+    ctrp.to_excel(os.path.join(setup.discover_out_dir,"processed_cell_lines_info_ctrp.xlsx"))
+    # ctrp.head()
+
+    # GDSC
+    gdsc = pd.read_csv(os.path.join(setup.discover_out_dir,"cell_lines_IDs_and_types_COSMIC_IDS_gdsc.csv"),index_col=0)
+    missing = 0
+    for ix, row in gdsc.iterrows():
+        cid = str(int(row['COSMIC ID']))
+        try:
+            dic = cid2dic[cid]
+            gdsc.loc[ix,'Names'] = dic['Names']
+            gdsc.at[ix,'Disease'] = dic['Disease']
+            gdsc.loc[ix,'CellosaurusID'] = dic['CellosaurusID']
+        except KeyError:
+            missing+=1
+    if missing>0:
+        log(f"GDSC is missing {missing} cell lines (out of {len(gdsc)}). That's a bit troubling")
+    gdsc.to_excel(os.path.join(setup.discover_out_dir,"processed_cell_lines_info_gdsc.xlsx"))
+    # gdsc.head()
+
+    # add ranks
+    ccle = add_rank(df=ccle,by=setup.case_id,name='CCLE_rank')
+    ctrp = add_rank(df=ctrp,by=setup.case_id,name='CTRP_rank')
+    gdsc = add_rank(df=gdsc,by=setup.case_id,name='GDSC_rank')
+
+    # Unique disease names, ranked
+    ccle_rank = rank_diseases(df=ccle)
+    ctrp_rank = rank_diseases(df=ctrp)
+    gdsc_rank = rank_diseases(df=gdsc)
+
+    #Merge the three databases
+    merged = ccle_rank.rename({"CCLE_rank": "rank"}, axis='columns').append(ctrp_rank.rename({"CTRP_rank": "rank"}, axis='columns')).append(gdsc_rank.rename({"GDSC_rank": "rank"}, axis='columns'))
+    merged['Disease'] = merged.apply(lambda x: x['Disease'].lower(), axis=1)
+
+    # Only the merged rank will be printed for now
+    # ccle_average_rank = average_disease_rank(df=ccle_rank,rank_name='CCLE_rank')
+    # ctrp_average_rank = average_disease_rank(df=ctrp_rank,rank_name='CTRP_rank')
+    # gdsc_average_rank = average_disease_rank(df=gdsc_rank,rank_name='GDSC_rank')
+    merged_rank = average_disease_rank(df=merged,rank_name='rank')
+    merged_rank.to_csv(os.path.join(setup.discover_out_dir,"cell_lines_rank.csv"))
+    return merged_rank
+
+
+###===========================================================================
+### End: for DiSCoVER, added on 2019-01-16====================================
+###===========================================================================
+
 
 ### Before CMap
 from drug_suggestion.expression.cmap import make_cmap_genesets, write_cmap_genesets
