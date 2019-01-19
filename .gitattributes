@@ -5,3 +5,5 @@ Docker/base-container/to_add/** filter=lfs diff=lfs merge=lfs -text
 *.gct filter=lfs diff=lfs merge=lfs -text
 Notebooks/data/raw/cellosaurus/** filter=lfs diff=lfs merge=lfs -text
 Notebooks/discover_temp/** filter=lfs diff=lfs merge=lfs -text
+Notebooks/results/DiSCoVER_cell_line_rankings.xlsx filter=lfs diff=lfs merge=lfs -text
+Notebooks/results/DiSCoVER_disease_rankings.xlsx filter=lfs diff=lfs merge=lfs -text
