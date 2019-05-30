@@ -1,0 +1,369 @@
+sunitinib,"VEGFR2, PDGFRb and c-kit inhibitor; also inhibits FLT3"
+fluorouracil,antimetabolite
+olaparib,PARP Inhibitor
+dabrafenib,Braf (V600E) inhibitor
+lenvatinib,"VEGFR inhibitor (VEGFR1,VEGFR2andVEGFR3)"
+gefitinib,EGFR inhibitor (Iressa)
+sorafenib,"VEGFR,PDGFRandRaf (c-Raf) inhibitor"
+lapatinib,HER2/EGFR inhibitor
+azacitidine,"Nucleoside analog, inhibitor of DNA methylation and DNA/RNA synthesis (Vidaza)"
+abiraterone,steroidal CYP17A1 inhibitorandandrogensynthesisinhibitor
+bortezomib,proteasome inhibitor (Velcade)
+doxorubicin,"Topo II inhibitor, DNA intercalator"
+topotecan,Topo I inhibitor
+imatinib,"Bcr-abl,c-kitandPDGFRinhibitor"
+fulvestrant,selective estrogen receptor degrader(SERD)
+dasatinib,"BCR-Abl,Src,c-Kit inhibitor"
+trametinib,MEK inhibitor (MEK1 and MEK2)
+temozolomide,alkylating agent
+crizotinib,"ALK, ROS1 and MET inhibitor"
+paclitaxel,disrupts microtubule dynamics
+erlotinib,EGFR inhibitor (Tarceva)
+axitinib,"VEGFR,c-KITandPDGFR inhibitor"
+irinotecan,"aka CPT-11, inhibitor of Topo I"
+vincristine,"binds tubulin, disrupts microtubule dynamics"
+arsenic trioxide,"promotes differentiation, inhibits hedgehog signaling"
+methotrexate,"antimetabolite, competitively inhibits dihydrofolate reductase (DHFR), inhibits synthesis of DNA, RNA, thymidylates, and proteins"
+clofarabine,purinenucleosideantimetabolite
+ponatinib,Bcr-ablinhibitor
+cabozantinib,"MET, AXL, VEGFR and RET inhibitor"
+ceritinib,ALK inhibitor
+pazopanib,"KIT,FGFR,PDGFRandVEGFR inhibitor"
+vandetanib,"VEGFR, EGFR and RET inhibitor"
+nivolumab,"anti-PD-1, immune checkpoint inhibitor"
+gemcitabine,"Nucleoside analog,incorporation into DNA creates an irreparable error that leads to inhibition of further DNA synthesis"
+palbociclib,CDK4/6 inhibitor
+decitabine,"Nucleoside analog, inhibitor of DNA methylation and DNA synthesis (Dacogen)"
+panobinostat,HDAC inhibitor
+ibrutinib,BTK kinase inhibitor
+fludarabine,"purine analog, inhibitsDNA synthesisby interfering withribonucleotide reductaseandDNA polymerase."
+belinostat,HDAC inhibitor (PXD101)
+idelalisib,PI3K (P110) inhibitor
+bosutinib,"BCR-Abl, Src, Lyn and Hck inhibitor"
+temsirolimus,mTOR inhibitor
+bevacizumab,anti-VEGF antibody
+tamoxifen,"ER antagonist prodrug; converted to 4-OHT and endoxifen in the liver; competes with estrogen for ER binding, inhibits transcription of estrogen target genes"
+ixazomib,"proteasome inhibitor, reversibly inhibits the protein proteasome subunit beta type-5 (PSMB5)"
+vemurafenib,BRAF (V600E) inhibitor
+docetaxel,inhibits microtubule dynamics; semi-synthetic analogue ofpaclitaxel
+sonidegib,Hedgehog (Smoothened) antagonist (LDE225)
+regorafenib,VEGFR2-TIE2 inhibitor
+nilotinib,"inhibits the kinasesBCR-ABL,[26]KIT,LCK,EPHA3,EPHA8,DDR1,DDR2,PDGFRB,MAPK11andZAK"
+vorinostat,HDAC inhibitor (SAHA)
+oxaliplatin,"platinum analog, crosslinks DNA which prevents DNA replication and transcription"
+bendamustine,alkylating agent
+afatinib,EGFR and ErbB2 inhibitor
+goserelin,"decapeptide, synthetic analog of LHRH, suppresses production of testosteroneandestrogen"
+procarbazine,alkylating agent
+leucovorin,"used to decrease toxicity ofmethotrexate, and to enhance the efficacy of5-FU by inhibiting thymidylate synthase"
+mechlorethamine,alkylating agent
+anastrozole,"aromatase inhibitor, blocks conversion of androgens to estrogens"
+carboplatin,"platinum analog, crosslinks DNA which prevents DNA replication and transcription"
+epirubicin,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+capecitabine,"Capecitabine is metabolised to 5-FU, athymidylate synthaseinhibitor, which inhibits DNA synthesis"
+bicalutamide,"antiandrogen, used to treat prostate cancer"
+vismodegib,Hedgehog (Smoothened) antagonist (GDC-0449)
+bleomycin,"InducesDNAstrand breaks, inhibits incorporation ofthymidineinto DNA strands."
+nelarabine,"purinenucleosideanalog, which causes inhibition ofDNA synthesisand cytotoxicity"
+lenalidomide,"derivativeofthalidomide, which interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma"
+exemestane,"aromatase inhibitor, blocks conversion of androgens to estrogens"
+trastuzumab,Anti-ERBB2 antibody (Herceptin)
+dacarbazine,"alkylating agent, Dacarbazine works by methylating guanine at the O-6 and N-7 positions"
+chlorambucil,"alkylates and cross-links DNA,interfering with DNA replication and damaging the DNA"
+leuprolide,"peptide hormone analog; agonist atpituitaryGnRHreceptors; used to treat prostate cancer, breast cancer"
+flutamide,"nonsteroidal antiandrogen(NSAA), used primarily to treat prostate cancer"
+pomalidomide,"derivativeofthalidomide, inhibits angiogenesis and myeloma cell growth"
+carmustine,"alkylating agent, causes crosslinks in DNA, which prevents DNA replication and DNA transcription (BCNU)"
+ruxolitinib,"JAK1/2 inhibitor, used for myelofibrosis and polycythemia vera"
+melphalan,"alkylating agent, causes crosslinks in DNA, which prevents DNA replication and DNA transcription"
+cetuximab,Anti-EGFR antibody (Erbitux)
+pemetrexed,"folate antimetabolite, inhibits enzymes used innucleotidesynthesis (thymidylate synthase(TS),dihydrofolate reductase(DHFR), glycinamide ribonucleotide formyltransferase (GARFT)"
+dexamethasone,"syntheticcorticosteroid, used to reduce inflammation"
+ifosfamide,"alkylating agent, nitrogen mustardfamily, works by disrupting the duplication ofDNAand the creation ofRNA"
+pembrolizumab,"anti-PD-1, immune checkpoint inhibitor (Keytruda)"
+romidepsin,"HDAC inhibitor, natural product"
+letrozole,"nonsteroidalaromatase inhibitor, prevents estrogen production, usedfor breast cancer"
+cytarabine,"antimetabolite, causes DNA damage,  inhibits both DNA and RNA polymerases and nucleotide reductase enzymes needed for DNA synthesis"
+ramucirumab,"anti-VEGFR2 antibody, inhibits angiogenesis"
+pertuzumab,"anti-HER2 antibody, used for metastatic HER2-positive breast cancer"
+busulfan,"alkylating agent, forms DNA-DNA intrastrand crosslinks, prevents DNA replication"
+cyclophosphamide,"alkylating agent, nitrogen mustardfamily, works by disrupting the duplication ofDNAand the creation ofRNA (Cytoxan)"
+everolimus,mTOR inhibitor (RAD001)
+rituximab,"anti-CD20 antibody for treatment of CLL, non-Hodgkin's lymphoma"
+bexarotene,"retinoidthat selectively activatesretinoid X receptors(RXRs), induces cell differentiation and apoptosis"
+cisplatin,"platinum analog, crosslinks DNA which prevents DNA replication and transcription"
+daunorubicin,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+imiquimod,"immune response modifier, used to treatgenital warts, superficialbasal cell carcinoma, andactinic keratosis."
+alectinib,"ALK inhibitor, used to treat non-small-cell lung cancer (NSCLC)"
+lomustine,"alkylating agent, causes crosslinks in DNA, which prevents DNA replication and DNA transcription (CCNU)"
+blinatumomab,"anti-CD19/anti-CD3 bispecific antibody, used to recruit T cells to malignant B cells, for treating ALL"
+thiotepa,"alkylating agent, ethylenimine family, causes crosslinks in DNA, which prevents DNA replication and DNA transcription"
+thalidomide,"interacts with the ubiquitin E3 ligase cereblon, targeting this enzyme to degrade the Ikaros transcription factors IKZF1 and IKZF3. Used for multiple myeloma"
+ixabepilone,disrupts microtubule dynamics (stabilizesmicrotubules)
+carfilzomib,"proteasome inhibitor, binds to and inhibits the chymotrypsin-like activity of the 20S proteasome"
+toremifene,selective estrogen receptor modulator(SERM) which helps oppose the actions ofestrogen
+cabazitaxel,disrupts microtubule dynamics; semi-synthetictaxoid
+alemtuzumab,"anti-CD52 antibody, binds mature lymphocytes, used for CLL, CTCL and T cell lymphoma"
+idarubicin,"Topo II inhibitor, intercalates into DNA, anthracycline"
+vinblastine,"disrupts microtubule dynamics; vinca alkaloid, chemical analogue of vincristine"
+cobimetinib,MEK inhibitor
+venetoclax,"BH3-mimetic, acts as aBcl-2 inhibitor."
+zoledronic acid,"used to preventskeletalfractures, and treat pain from bone metastases"
+mitomycin c,"alkylating agent, forms crosslinks between complementary strands of DNA, which inhibits DNA replication"
+rucaparib,"PARP inhibitor, inhibits DNA repair"
+plerixafor,"antagonist/partial agonist of CXCR4, used to mobilizehematopoietic stem cellsin cancer patients into the bloodstream"
+mitoxantrone,Topoisomerase IIinhibitor; disruptsDNA synthesisandDNA repair
+aldesleukin,"recombinant interleukin-2, used for treatment of malignant melanoma, renal cell cancer"
+ondansetron,"selective serotonin 5-HT3 receptor antagonist ,used to prevent nausea and vomiting caused by chemotherapy and radiotherapy"
+pralatrexate,"anti-metabolite/anti-folate; cells mistake antimetabolites for normal metabolites, interfering with DNA synthesis."
+enzalutamide,"syntheticnon-steroidalantiandrogen(NSAA), used for treatment ofmetastatic,castration-resistantprostate cancer"
+peginterferon alfa-2b,"Pegylated interferon, activates JAK-STAT pathway, used for melanoma"
+pamidronate,"used to preventboneloss, and treatosteoporosis"
+denosumab,"anti-RANKL antibody, used for bone tumors and bone mets"
+aprepitant,"anantiemetic, mediates its effect by blocking theneurokinin 1(NK1)receptor"
+radium 223 dichloride,"radiopharmaceutical usedto treat metastatic cancers in bone,"
+hydroxyurea,"antimetabolite, disrupts DNA replication by inhibiting ribonucleoside diphosphate reductase, which is required to make deoxyribonucleotides"
+cladribine,"purine analog, inhibits adenosine deaminase, which interferes with DNA sythesis. Used for leukemia"
+daratumumab,"anti-CD38 antibody, used for multiple myeloma"
+thioguanine,"analog of purine. Converted to 6-thioguanosine monophosphate (TGMP), which hampers synthesis of guanine nucleotides"
+raloxifene,"selective estrogen receptor modulator(SERM), has estrogenic actions on bone and anti-estrogenic actions on uterus and breast"
+amifostine,reducesneutropenia-related fever and infection induced by chemotherapeutic agents includingalkylating agents and platinum-containing agents
+ado-trastuzumab emtansine,antibody-drug conjugateconsisting oftrastuzumab(Herceptin) linked to thecytotoxicagentemtansine
+panitumumab,anti-EGFR antibody
+trabectedin,"blocks binding of the oncogenictranscription factorFUS-CHOPto DNA, and thereby promotes differentiation"
+dactinomycin,inhibitstranscription by bindingDNAat the transcription initiation complex and preventing elongation ofRNAchain byRNA polymerase
+vinorelbine,disrupts microtubule dynamics; natural product
+omacetaxine mepesuccinate," natural product, proteintranslationinhibitor, used for CML"
+osimertinib,EGFRtyrosine kinase inhibitor
+niraparib,"poly ADP-ribose polymerase (PARP) inhibitor,"
+palonosetron,5-HT3antagonistused in the prevention and treatment ofchemotherapy-induced nausea and vomiting
+obinutuzumab,"anti-CD20 antibody for treatment of CLL, follicular lymphoma"
+trifluridine,"nucleoside analog, incorporated into DNA during DNA synthesis and inhibits tumor cell growth"
+tipiracil,"thymidine phosphorylase (TPase) inhibitor, inhibits degradation of trifluridine, thus increasing systemic exposure"
+nilutamide,"synthetic,non-steroidalantiandrogen,selectiveantagonistof theandrogen receptor,  used formetastaticprostate cancer"
+degarelix,"Synthetic peptide, GnRH antagonist, blocks testosterone secretion"
+interferon alfa-2b,"Cytokine, induces JAK-STAT signaling"
+mesna,used to decrease the risk ofbleeding from the bladder after cyclophosphamide
+dinutuximab,"anti-GD2 antibody, used for melanoma (Unituxin)"
+rasburicase,"recombinant urate oxidase, an enzyme that metabolizes uric acid to allantoin; helps clearuric acidfrom theblood"
+talimogene laherparepvec,"oncolytic herpesvirus, used for melanoma"
+ofatumumab,anti-CD20 antibody for treatment of Non-Hodgkin lymphoma
+elotuzumab,"anti-SLAMF7 (CD319) antibody, used for multiple myeloma"
+dexrazoxane,"cardioprotective agent, used to protect the heart against the cardiotoxic side effects of chemotherapeutic drugs"
+talc,treat skin irritation
+olaratumab,anti-PDGFR-alpha antibody
+ribociclib,CDK4/6 inhibitor
+necitumumab,anti-EGFR antibody
+mercaptopurine,"purine antagonist, competes with hypoxanthine and guanine for the enzyme HGPRT"
+eribulin,"inhibitor of microtubule dynamics, analogof the marinenatural producthalichondrin B, "
+denileukin diftitox,"fusion of IL-2andDiphtheria toxin, used to target IL-2-expressing leukemias and lymphomas"
+ziv-aflibercept,"VEGF inhibitor, fusion protein consisting of VEGFR fused to IgG1 Fc"
+propranolol,"beta-blocker, used to treat high blood pressure, may have anti-cancer activity"
+prednisone,synthetic corticosteroid
+avelumab,"anti-PD-L1 antibody, immune checkpoint inhibitor"
+sipuleucel-t,Dendritic cell vaccine for prostate cancer
+rolapitant,"selectiveNeurokinin-1receptor antagonist, used for chemotherapy-induced nausea and vomiting"
+ibritumomab tiuxetan,"radioactive anti-CD20 antibody, used to treat B cell non-Hodgkin's lymphoma"
+uridine triacetate,"prodrug of uridine, used to treat overdose of5-FU orcapecitabine"
+lanreotide,"long-actinganalogueofsomatostatin, used for treatment and management of symptoms of neuroendocrine tumors"
+asparaginase erwinia chrysanthemi,"Depletes plasma asparagine, which some tumor cells can't synthesize; used to treatALL,AML andnon-Hodgkin's lymphoma"
+filgrastim,Recombinant G-CSFused to stimulate neutrophil production after chemo
+pegaspargase,"PEGylated L-asparaginase, used for treatment of ALL (works by depleting plasma asparagine)"
+brentuximab vedotin,anti-CD30 antibody-drug conjugate used to treat lymphoma 
+pegfilgrastim,PEGylatedGCSF analog used to stimulate neutrophil production after chemo
+ipilimumab,"anti-CDLA-4 antibody, immune checkpoint inhibitor"
+aminolevulinic acid,"first compound in theporphyrinsynthesis pathway, used as an agent for photodynamic therapy"
+atezolizumab,"anti-PD-L1 antibody, immune checkpoint inhibitor"
+netupitant,antiemiticdrug for prevention of acute and delayed chemotherapy-induced nausea and vomiting
+tositumomab,anti-CD20 antibody for treatment of Non-Hodgkin lymphoma
+iodine i-131,nuclear medicine treatment for overactive thyroid and thyroid cancer
+methylnaltrexone bromide,peripherally-acting -opioid antagonist used totreat constipation caused by narcotic pain medications.
+megestrol,steroidal progestin used in the treatment of breast and endometrial cancer
+defibrotide sodium,"DNAderivative, used for treatment of hepatic veno-occlusive disease following hematopoietic stem-cell transplantation (HSCT)."
+eltrombopag olamine,"Agonist of c-mpl (thrombopoietin receptor), used to treat thrombocytopenia and aplastic anemia"
+palifermin,"truncated recombinant keratinocyte growth factor (KGF), used to treat swelling, irritation, sores, and ulcers caused by cancer treatment."
+siltuximab,anti-IL-6 chimeric monoclonal antibody
+romiplostim,"fusion proteinanalog ofthrombopoietin, used to treat chronic immune thrombocytopenia"
+glucarpidase,used to treat high amounts of methotrexate in the blood of patients with severe kidney disease
+metformin,Anti-diabetic AMPK Activator - mTOR Inhibitor- Autophagy inducer
+itraconazole,"Anti-fungal, hedgehog antagonist"
+sulindac,Nonsteroidal anti-Inflammatory drug
+pirfenidone,antifibroticandanti-inflammatory
+foretinib,c-Met/VEGFR2 inhibitor
+escitalopram,Selective Serotonin Reuptake Inhibitor (SSRI)
+nelfanivir,"Anti-viral, protease inhibitor, ER Stress Inducer"
+pd-l1,Immune Checkpoint inhibitor
+phenformin,Anti-diabetic AMPK Activator - mTOR Inhibitor- Autophagy inducer
+riluzole,"BlocksTTX-sensitivesodium channels, and kainateandNMDA glutamate receptors"
+telfanivir,"Anti-viral, protease inhibitor, ER Stress Inducer"
+tofacitinib,JAK Kinase inhibitor
+cimetidine,(Tagamet) Antacid and antihistamine
+cinacalcet,Calcium reducer (increases  sensitivity of calcium receptors on parathyroid cells to reduce parathyroid hormone (PTH) levels and thus decrease serum calcium)
+estramustine,Alkylating agent
+hydrocortisone,Anti-inflammatory
+teniposide,Topo II inhibitor
+tretinoin,Retinoid
+triptorelin,"gonadotropin-releasing hormone agonist (GnRH agonist), decreases pituitary secretion of gonadotropins"
+valrubicin,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+chlorotrianisene,"synthetic,non-steroidalestrogen"
+clodronic acid,"anti-osteoporotic drug, used for patients with bone mets"
+cyproterone,steroidalantiandrogen
+estradiol valerate,estrogen
+floxuridine,"antimetabolite,  catabolized to 5-fluorouracil"
+homoharringtonine,"natural product, proteintranslationinhibitor, used for myeloid leukemia"
+mitotane,"steroidogenesis inhibitor, cytostaticdrug used in the treatment ofadrenocortical carcinoma"
+nimorazole,"anti-microbial, hypoxic radiosensitizer"
+octreotide,"Synthetic hormone, mimics natural somatostatin as well as growth hormone, glucagon, and insulin"
+pentostatin,"antimetabolite, inhibits DNA synthesis"
+pirarubicin,"Analog of doxorubicin, DNA intercalator, Topo II antagonist"
+pixantrone,"Analog of mitoxantrone, Topo II inhibitor, intercalating agent."
+raltitrexed,"antimetabolite,  inhibitor of thymidylate synthase"
+temoporfin,photosensitizer used inphotodynamic therapyfor head and neck cancer
+aclarubicin,"Analog of doxorubicin, DNA intercalator, Topo I/II antagonist"
+altretamine,alkylating antineoplastic agent
+aminoglutethimide,"anti-steroid, used in the treatment of metastatic breast cancer"
+amsacrine,"Intercalator, inhibits Topo II and blocks both DNA replication and transcription, used in ALL"
+anagrelide,"phosphodiesterase inhibitor, inhibits maturation of platelets, used for CML"
+carmofur,"derivative offluorouracil,pyrimidine analog"
+doxifluridine,"nucleoside analog prodrug, derivative of 5-FU"
+dromostanolone propionate,"syntheticanabolic-androgenic steroid, used to treat breast cancer"
+fadrozole,"aromatase inhibitor, used for breast cancer"
+formestane,"steroidal, selectivearomatase inhibitor, used for ER+ Breast cancer"
+fosfestrol,"prodrugofdiethylstilbestrol, synthetic,non-steroidalestrogen used forprostate cancer."
+ftorafur,"antimetabolite, 5-fluorouracil analog, slowly metabolized to 5-FU"
+gimeracil,inhibits  degradation of 5-FU by  blocking thedehydrogenaseenzymedihydropyrimidine dehydrogenase(DPD)
+icotinib,EGFR Inhibitor
+iobenguane,"radiopharmaceutical, radiolabeledmolecule similar tonoradrenaline"
+plicamycin,"RNA synthesis inhibitor, used for testicular cancer,"
+sn-38,"Topo I inhibitor, active metabolite of irinotecan but 1000 times more active"
+streptozotocin,"pancreatic beta cell toxin, used to treat metastaticcancer of pancreatic islet cells."
+tamibarotene,"retinobenzoic acid, syntheticretinoid used to treat APL"
+ubenimex,"inhibitor of the proinflammatory mediator, LTB4. Adjunct to chemotherapy for acute non-lymphocytic leukemia"
+uramustine,Alkylating agent
+fentanyl,synthetic opioid pain medication
+granisetron,5-HT3 receptor antagonist used as an antiemetic
+levoleucovorin,used to treat or prevent toxic effects of methotrexate
+methoxsalen,used for skin diseases such as vitiligo and psoriasis
+oprelvekin,Used to prevent reductions in platelets caused by some chemotherapy
+secretin,hormone that regulates water homeostasis
+abarelix,GnRH antagonist usedto reducetestosteronein patients with advanced prostate cancer
+alfuzosin,"alpha-blocker. Causes smooth muscles in the bladder neck and prostate to relax, whcih improves urine flow and reduces the symptoms of BPH."
+bromfenac,"Nonsteroidal anti-Inflammatory drug, used to treat inflammation, esp in the eye"
+conjugated estrogens,Estrogen
+dronabinol,used to treat nausea and vomiting caused by cancer chemotherapy
+ferumoxides,MRI Contast Agent
+ferumoxil,MRI Contast Agent
+gemtuzumab ozogamicin,monoclonal antibody toCD33linked to a cytotoxic agent. CD33 is expressed in most leukemic blast cells but also in normal hematopoietic cells
+ingenol mebutate,Topical anti-tumor medication
+iodixanol,radiocontrast agent
+porfimer sodium,photosensitizerused inphotodynamic therapyandradiation therapyfornon-small cell lung carcinomaand obstructingesophageal cancer
+sargramostim,recombinantGM-CSF used for myeloid reconstitution after bone marrow transplantation
+tbo-filgrastim,"recombinant G-CSF, used to reduce the duration of neutropenia after myelosuppressive chemotherapy"
+telotristat ethyl,"prodrugof telotristat, an inhibitor oftryptophan hydroxylase, used for treatment of diarrhea associated with carcinoid syndrome"
+sitagliptin,"used for Treating type 2 diabetes, works by increasing the amount of insulin released by your body"
+mitomycin,"DNA Alkylator, works by cross-linking DNA and inhibiting DNA synthesis"
+lovastatin,"HMG-CoA reductase inhibitor,"
+simvastatin,"HMG-CoA reductase inhibitor,"
+ciclopirox,antifungal agent for topical dermatologic treatment of superficial mycoses
+sildenafil,"Viagra, used to treat erectile dysfunction and pulmonary arterial hypertension"
+fingolimod,"sphingosine-1-phosphate receptor modulator, sequesters lymphocytes in lymph nodes, mostly used for treating multiple sclerosis"
+fluvastatin,"HMG-CoA reductase inhibitor,"
+niclosamide,"used to treattapeworm infestations,  inhibits glucose uptake, oxidative phosphorylation, and anaerobic metabolism in the tapeworm"
+prochlorperazine,"dopamine (D2) receptor antagonist, used for treatment ofnauseaandvertigo."
+sirolimus,"rapamycin, mTOR inhibitor"
+tacrolimus,"FK-506, immunosuppressive drug usedafter allogeneic organ transplant"
+tigecycline,antibioticused to treat a number ofbacterial infections
+trifluoperazine,"antipsychotic, antiadrenergic and antidopaminergic. Blocks dopamine D1 and D2 receptors "
+valdecoxib,"NSAID used in the treatment of osteoarthritis, rheumatoid arthritis"
+veliparib,PARP inhibitor.
+entinostat,HDAC inhibitor
+nintedanib,"tyrosine-kinase inhibitor, targeting VEGFR,FGFR andPDGFR"
+saracatinib,"kinase inhibitor, with selectivity againstSrc andBcr-Abl"
+cediranib,VEGFR inhibitor
+curcumin,"Natural Product, component of turmeric, may function as HDAC inhibitor"
+alvocidib,"Flavopiridol,CDK inhibitor, works against CDK1, 2, 4, 6 and 9"
+gossypol,"Natural product, may function to inhibit Bcl2 family members"
+abt-199,Bcl2 inhibitor
+abt-737,Bcl-2/Bcl-xL inhibitor
+alisertib,Aurora A kinase inhibitor
+at13387,Selective potent Hsp90 inhibitor
+azd1480,JAK2inhibitor with some activity against JAK3 and Tyk2
+azd1775,Wee1 kinase inhibitor
+azd4547,"FGFR-1,2 and 3 inhibitor"
+azd6482,"PI3Kinhibitor, less active against PI3K, PI3K and PI3K"
+azd7762,Chk1/ Chk2 inhibitor
+azd8055,mTORinhibitor
+barasertib,highly selectiveAurora Bkinase inhibitor
+bardoxolone methyl,"(CDDO-Me), synthetic triterpenoid, activator of the Nrf2 pathway and an inhibitor of the NF-B pathway"
+bi-2536,"Plk1inhibitor, less active against Plk2 and Plk3."
+birinapant,"SMAC mimetic, mostly to cIAP1, less potent against XIAP."
+brivanib,"multitargetedtyrosine kinase inhibitor, esp VEGFR and FGFR"
+byl-719,PI3Kinhibitor with minimal effect on PI3K//
+cal-101,"Idelalisib,  PI3K/p110 inhibitor"
+canertinib,"pan-ErbB inhibitor for EGFR and ErbB2,  no activity to PDGFR, FGFR, InsR, PKC, or CDK1/2/4."
+col-3,matrix metalloproteinase (MMP) inhibitor
+cyanoquinoline 11,antimalarial drug
+dactolisib,PI3K/mTOR inhibitor
+daporinad,"inhibits biosynthesis of (NAD+ from niacinamide (vitamin B3), which may deplete energy reserves in metabolically active tumor cells"
+darinaparsin,organic arsenic compound composed of dimethylated arsenic linked to glutathione
+dinaciclib,"CDK inhibitor, esp CDK1, 2, 5, and 9"
+elocalcitol,vitamin D receptor agonist
+etomoxir,"agonist ofPPAR, inhibitor ofcarnitine palmitoyltransferase-1(CPT-1)"
+ex-527,SIRT1 inhibitor
+fedratinib,JAK2inhibitor
+Gdc-0941,"Pictilisib, potent inhibitor ofPI3K/, with modest selectivity against p110 (11-fold) and p110"
+gmx-1778,nicotinamide phosphoribosyltransferase (NAMPT) inhibitor
+gsk1059615,PI3K///andmTOR inhibitor
+gsk2636771,"PI3K beta inhibitor, >900-fold selectivity over PI3K/PI3K and >10-fold over PI3K. "
+gsk461364,"Plk1inhibitor, less active against Plk2 and Plk3."
+hyperforin,"Active ingredient in St. John's Wort, blocks reuptake of of serotonin, norepinephrine, dopamine and GABA"
+indisulam,"carbonic anhydrase inibitor and  CDK inhibitor, targets G1 by depleting cyclin E. inducing p53 and p21, and inhibiting CDK2"
+istradefylline,"adenosine A2A receptor antagonist, useful in the treatment of Parkinson's disease"
+kw-2449,"multi-kinase inhibitor, mostly forFlt3, modestly potent to FGFR1, Bcr-Abl and Aurora A;"
+kx2-391,Src inhibitor (peptidomimetic) that targets the peptide substrate site of Src
+linifanib,"RTK inhibitor,targets VEGFR, PDGFR,KDR, andCSF-1R"
+linsitinib,IGF-1R inhibitor
+lomeguatrib,"Inhibitor of MGMT, a DNA repair protein that confers resistance to alkylating agents such as Temozolomide, DTIC, Carmustine, etc."
+masitinib,"tyrosine-kinase inhibitorused in the treatment ofmast cell tumorsin animals, specifically dogs"
+mgcd-265,"inhibitor ofc-MetandVEGFR1/2/3, as well as Ron and Tie2"
+mk-0752,Notch (gamma secretase) inhibitor
+mk-2206,Akt1/2/3 inhibitor
+mln2238,"Ixazomib, Proteasome inhibitor, inhibits the chymotrypsin-like proteolytic (5) site of the 20S proteasome "
+mln2480,"TAK-580, pan-Raf kinase inhibitor"
+momelotinib,JAK1 and JAK2 inhibitor
+navitoclax,"Bcl-2 family inhibitor: esp Bcl-xL, Bcl-2 and Bcl-w"
+neratinib,Her2 and EGFR inhibitor
+nutlin-3,"Mdm2antagonist, stabilizes p53 "
+o-6-benzylguanine,"guanine analog, binds the DNA repair enzyme O(6)-alkylguanine DNA alkyltransferase (AGT) resulting in inhibition of AGT-mediated DNA repair"
+obatoclax,Bcl-2 antagonist
+osi-027,mTORC1andmTORC2inhibitor
+osi-930,"inhibitor ofKit,KDRandCSF-1R; also potent to Flt-1, c-Raf and Lck"
+pevonedistat,"(MLN4924), inhibitor of NEDD8-activating enzyme (NAE)"
+pha-793887,"CDK inhibitor, esp CDK2, CDK5 and CDK7"
+px-12,thioredoxin-1 (Trx-1)inhibitor
+quizartinib,Flt3 inhibitor
+raf265,inhibitor ofC-Raf/B-Raf/B-Raf V600E
+rigosertib,"ON-01910, Plk-1 inhibitor"
+ro4929097,Notch (gamma secretase) inhibitor
+sb-743921,kinesin spindle protein (KSP)inhibitor
+selumetinib,MEK1inhibitor
+semagacestat,Notch (gamma secretase) inhibitor
+sepantronium bromide,"YM155 (Sepantronium Bromide), survivinsuppressant"
+serdemetan,"(JNJ-26854165) Mdm2antagonist, stabilizes p53"
+sgx-523,Metinhibitor
+silmitasertib,casein kinase 2 inhibitor
+sns-032,"CDK inhibitor, esp CDK2 , 7 and 9 "
+sotrastaurin,pan-PKCinhibitor
+tamatinib,(R4060) inhibitor of IgE and IgG-mediated activation of Fc receptor signaling. Primary target is Syk
+tandutinib,"FLT3antagonist, also inhibits PDGFR and c-Kit,"
+tanespimycin,HSP90inhibitor
+tg-100-115,PI3K/inhibitor
+tipifarnib-p1,Farnesyltransferase Inhibitor
+tivantinib,Met inhibitor
+tivozanib,VEGFR inhibitor
+tosedostat,inhibitor of the M1 family of aminopeptidases
+tozasertib,"VX-680, pan-Aurora inhibitor, mostly against Aurora A, less potent towards Aurora B/C"
+triptolide,"diterpenoidepoxidefrom thunder god vine, may act on the XBP helicase that is a part of the TFIIH transcription factor complex"
+vorapaxar,"thrombinreceptor (protease-activated receptor, PAR-1)antagonist based on the natural product himbacine"
+xl765,PI3K/mTOR inhibitor
+zstk474,"PI3K inhibitor, inhibits all four PI3K isoforms, but most active against PI3K"
