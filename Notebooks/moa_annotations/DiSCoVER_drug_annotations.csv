@@ -1,5 +1,5 @@
 drug,ccle_drug_name,ccle_target,gdsc_drug_name,gdsc_synonyms,gdsc_target,gdsc_target_pathway,ctrp_drug_name,ctrp_target,ctrp_target_description,synonyms,targets
-(5z)-7-oxozeaenol,,,(5Z)-7-Oxozeaenol,"5Z-7-Oxozeaenol, LL-Z1640-2",TAK1 ,"Other, kinases",,,,5Z-7-Oxozeaenol; LL-Z1640-2; (5Z)-7-Oxozeaenol,TAK1 
+(5z)-7-oxozeaenol,,,(5Z)-7-Oxozeaenol,"5Z-7-Oxozeaenol, LL-Z1640-2",TAK1 ,"Other, kinases",,,,5Z-7-Oxozeaenol; LL-Z1640-2; (5Z)-7-Oxozeaenol,TAK1
 16-beta-bromoandrosterone,,,,,,,16-beta-bromoandrosterone,,dehydroepiandrosterone (DHEA) analog,16-beta-bromoandrosterone,NaN
 "1s,3r-rsl-3",,,,,,,"1S,3R-RSL-3",GPX4,synthetic lethal with HRAS in engineered cells; inhibitor of GPX4,"1S,3R-RSL-3",GPX4
 3-cl-ahpc,,,,,,,3-Cl-AHPC,NR0B2,binder of nuclear receptor SHP,3-Cl-AHPC,NR0B2
